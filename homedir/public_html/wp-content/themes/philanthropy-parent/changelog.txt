@@ -1,0 +1,1118 @@
+*** Philanthropy Changelog ***
+
+ 2018.07.26 - version 2.0.18
+ * Minor fix for buttons width on checkout page
+	philanthropy-parent/dynamic-css/fw-theme/woocommerce/woo-checkout.php
+ * Added tabindex to Gravity Forms shortcode
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/fw-gravityforms/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/fw-gravityforms/views/view.php
+ * Match height for grid posts shortcode latest-posts (masonry off)
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/latest-posts/static/js/scripts.js
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/latest-posts/views/view.php
+	philanthropy-parent/js/lib/jquery.matchHeight-min.js
+	philanthropy-parent/theme-includes/hooks.php
+ * Possibility to translate mobile menu title
+	philanthropy-parent/js/general.js
+	philanthropy-parent/theme-includes/static.php
+ * Get instagram thumbnails and for Video posts
+	philanthropy-parent/theme-includes/helpers.php
+ * Minor fix for portfolio 1 on click after load more
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/portfolio/static/js/portfolio-script.js
+ * Minor fix for responsive header 6
+	philanthropy-parent/dynamic-css/fw-theme/shortcodes/testimonials.php
+ * Minor fix for W3C
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/accordion/views/view.php
+	philanthropy-parent/theme-includes/hooks.php
+	philanthropy-parent/theme-includes/helpers.php
+
+ 2018.05.28 - version 2.0.17
+ * Added possibility to enable GDPR checkbox for Comments
+	philanthropy-parent/dynamic-css/fw-theme/posts/posts-comments.php
+	philanthropy-parent/framework-customizations/theme/options/settings.php
+	philanthropy-parent/theme-includes/hooks.php
+
+ 2018.05.16 - version 2.0.16
+ * Added Brizy plugin as recommended
+	philanthropy-parent/theme-includes/theme-functions.php
+	philanthropy-parent/theme-includes/includes/sub-includes/auto-setup/config/config.php
+ * Translate placeholder for search WPML
+	philanthropy-parent/templates/headers/header-1.php
+	philanthropy-parent/templates/headers/header-2.php
+	philanthropy-parent/templates/headers/header-3.php
+	philanthropy-parent/templates/headers/header-4.php
+	philanthropy-parent/templates/headers/header-5.php
+	philanthropy-parent/templates/headers/header-6.php
+	philanthropy-parent/theme-includes/hooks.php
+ * Minor fix for long fonts name typography 2 (dashboard)
+	philanthropy-parent/theme-includes/includes/option-types/tf-typography/static/css/styles.css
+ * Added Footer Widgets links color
+	philanthropy-parent/dynamic-css/fw-admin-styling.php
+	philanthropy-parent/dynamic-css/fw-variables.php
+	philanthropy-parent/framework-customizations/theme/options/settings.php
+ * Added position option for tracking scripts
+	philanthropy-parent/framework-customizations/theme/options/settings.php
+	philanthropy-parent/theme-includes/hooks.php
+ * Fixed PrettyPhoto gallery for image shortcode
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/media-image/views/view.php
+ * Minor fix for upload video width
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/media-video/views/view.php
+ * Minor fix for Slideshow pause
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/slideshow/static/js/scripts.js
+ * Minor fix for Custom Shape
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/section/views/view.php
+ * Minor fix for portfolio alignment on search page
+	philanthropy-parent/theme-includes/helpers.php
+
+ 2018.04.18 - version 2.0.15
+ * Minor fix for prettyphoto gallery on single portfolio post
+	philanthropy-parent/framework-customizations/extensions/portfolio/views/single.php
+ * Minor fix for Gravity Forms radio box
+	philanthropy-parent/js/jquery.customInput.js
+ * Change wp-editor for Footer Copyright
+	philanthropy-parent/framework-customizations/theme/options/settings.php
+ * Fixed bug for WooCommerce variation select
+	philanthropy-parent/dynamic-css/fw-theme/shortcodes/forms.php
+	philanthropy-parent/dynamic-css/fw-theme/woocommerce/woo-product-details.php
+	philanthropy-parent/js/general.js
+ * Update masonry
+	philanthropy-parent/js/masonry.pkgd.min.js
+ * Fixed bug in header type 2 for mobile version
+	philanthropy-parent/dynamic-css/fw-theme/headers/mobile-menu.php
+ * Added gallery type 5
+	philanthropy-parent/dynamic-css/fw-theme/shortcodes/gallery.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/fw-gallery/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/fw-gallery/views/view.php
+ * Minor fix for open graph
+	philanthropy-parent/theme-includes/hooks.php
+
+ 2018.03.22 - version 2.0.14
+ * Added Visual Builder Template for Portfolio details page
+	philanthropy-parent/framework-customizations/extensions/portfolio/helpers.php
+	philanthropy-parent/framework-customizations/extensions/portfolio/hooks.php
+	philanthropy-parent/framework-customizations/extensions/portfolio/views/portfolio-visual-builder.php
+	philanthropy-parent/framework-customizations/extensions/portfolio/views/single.php
+	philanthropy-parent/theme-includes/hooks.php
+ * Fixed bug for custom radio box for Give plugin
+	philanthropy-parent/js/jquery.customInput.js
+ * Added Custom CSS option for Login Page
+	philanthropy-parent/framework-customizations/theme/options/settings.php
+	philanthropy-parent/theme-includes/hooks.php
+ * Minor fix for External Booking shortcode (Airbnb)
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/fw-external-booking/static/js/script.js
+ * Fixed Instagram problem
+	philanthropy-parent/theme-includes/helpers.php
+	philanthropy-parent/theme-includes/widgets/fw-instagram/views/widget.php
+ * Added posibility to disable page title for Default Template
+	philanthropy-parent/framework-customizations/theme/options/posts/page.php
+	philanthropy-parent/theme-includes/helpers.php
+ * Fixed coming soon + WMPL
+	philanthropy-parent/coming-soon-template.php
+	philanthropy-parent/theme-includes/hooks.php
+ * Added filter for custom loading
+	philanthropy-parent/theme-includes/helpers.php
+ * Added nofollow option for buttons shortcode
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/button/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/button/views/view.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/flip-box/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/flip-box/views/view.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/icon-box/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/icon-box/views/view.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/icon/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/icon/views/view.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/image-box/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/image-box/views/view.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/list/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/list/views/view.php
+	philanthropy-parent/js/general.js
+ * Disable related videos for youtube by default
+	philanthropy-parent/theme-includes/hooks.php
+ * Added Load More button for Portfolio shortcode
+	philanthropy-parent/css/theme-admin.css
+	philanthropy-parent/dynamic-css/fw-theme/portfolio/portfolio.php
+	philanthropy-parent/dynamic-css/fw-theme/posts/posts.php
+	philanthropy-parent/framework-customizations/extensions/portfolio/views/loop-style1.php
+	philanthropy-parent/framework-customizations/extensions/portfolio/views/loop-style2.php
+	philanthropy-parent/framework-customizations/extensions/portfolio/views/loop-style3.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/hooks.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/latest-posts/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/portfolio/static/js/portfolio-script.js
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/portfolio/views/view.php
+	philanthropy-parent/js/general.js
+	philanthropy-parent/theme-includes/hooks.php
+ * Added Load More button for Latest Posts Shortcode
+	philanthropy-parent/dynamic-css/fw-theme/portfolio/portfolio.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/hooks.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/latest-posts/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/latest-posts/static.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/latest-posts/static/js/scripts.js
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/latest-posts/views/view.php
+	philanthropy-parent/theme-includes/hooks.php
+ * Minor fix for SVG files
+	philanthropy-parent/dynamic-css/fw-theme/general.php
+	philanthropy-parent/theme-includes/helpers.php
+ * Added featured image to pages, it's used for open graph
+	philanthropy-parent/theme-includes/helpers.php
+	philanthropy-parent/theme-includes/hooks.php
+ * Fixed sticky header default color on update theme
+	philanthropy-parent/dynamic-css/fw-admin-styling.php
+	philanthropy-parent/dynamic-css/fw-variables.php
+
+ 2018.02.07 - version 2.0.13
+ * Minor fix for PHP < 5.5 version
+	philanthropy-parent/framework-customizations/extensions/portfolio/helpers.php
+
+ 2018.02.05 - version 2.0.12
+ * Improvements to the theme install process
+	philanthropy-parent/framework-customizations/theme/manifest.php
+	philanthropy-parent/theme-includes/helpers.php
+	philanthropy-parent/theme-includes/hooks.php
+	philanthropy-parent/theme-includes/includes/sub-includes/auto-setup/class-fw-auto-install.php
+	philanthropy-parent/theme-includes/includes/sub-includes/auto-setup/config/config.php
+	philanthropy-parent/theme-includes/init.php
+	philanthropy-parent/theme-includes/static.php
+	philanthropy-parent/theme-includes/theme-functions.php
+ * Minor fix for search on mobile
+	philanthropy-parent/js/general.js
+ * Added options for sticky header
+	philanthropy-parent/dynamic-css/fw-admin-styling.php
+	philanthropy-parent/theme-includes/helpers.php
+	philanthropy-parent/theme-includes/static.php
+	philanthropy-parent/dynamic-css/fw-admin-styling.php
+	philanthropy-parent/dynamic-css/fw-theme/headers/header-1.php
+	philanthropy-parent/dynamic-css/fw-theme/headers/header-2.php
+	philanthropy-parent/dynamic-css/fw-theme/headers/header-3.php
+	philanthropy-parent/dynamic-css/fw-theme/headers/header-4.php
+	philanthropy-parent/dynamic-css/fw-theme/headers/header-5.php
+	philanthropy-parent/dynamic-css/fw-theme/headers/header.php
+	philanthropy-parent/dynamic-css/fw-theme/headers/top-nav-menu.php
+	philanthropy-parent/dynamic-css/fw-variables.php
+	philanthropy-parent/js/general.js
+ * Added stars to Testimonials Shortcode
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/testimonials/views/view.php
+	philanthropy-parent/dynamic-css/fw-theme/shortcodes/testimonials.php
+	philanthropy-parent/theme-includes/hooks.php
+ * Minor fix for portfolio filter
+	philanthropy-parent/framework-customizations/extensions/portfolio/helpers.php
+ * Added Gravity Forms shortcode in Builder
+	philanthropy-parent/framework-customizations/extensions/shortcodes/hooks.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/fw-gravityforms/
+ * Added Footer Widgets Title typography
+	philanthropy-parent/css/theme-admin.css
+	philanthropy-parent/dynamic-css/fw-admin-styling.php
+	philanthropy-parent/framework-customizations/theme/options/settings.php
+	philanthropy-parent/theme-includes/helpers.php
+	philanthropy-parent/theme-includes/hooks.php
+	philanthropy-parent/theme-includes/includes/option-types/color-palette/static/css/style.css
+	philanthropy-parent/theme-includes/includes/sub-includes/auto-setup/class-fw-auto-install.php
+ * Minor fix for safari page loading
+	philanthropy-parent/js/page-transition.js
+ * Add 4 columns for Latest Posts Shortcode
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/latest-posts/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/latest-posts/views/view.php
+	philanthropy-parent/theme-includes/helpers.php
+ * New features for mobile menu - possibility to set screen size when you start work mobile menu
+	philanthropy-parent/dynamic-css/fw-admin-styling.php
+	philanthropy-parent/dynamic-css/fw-theme/headers/mobile-menu.php
+	philanthropy-parent/dynamic-css/fw-variables.php
+	philanthropy-parent/framework-customizations/theme/options/settings.php
+	philanthropy-parent/js/general.js
+	philanthropy-parent/theme-includes/static.php
+ * Minor fix for parallax in firefox
+	philanthropy-parent/js/jquery.parallax.js
+ * Added TF Plugin Updates module
+	philanthropy-parent/theme-includes/includes/sub-includes/auto-setup/class-fw-auto-install.php
+	philanthropy-parent/theme-includes/includes/sub-includes/auto-setup/js/plugins_install.js
+	philanthropy-parent/theme-includes/includes/sub-includes/auto-setup/views/install_setup.php
+ * Fixed bug for icon-title
+	philanthropy-parent/dynamic-css/fw-theme/shortcodes/icon-title.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/icon/views/view.php
+	philanthropy-parent/theme-includes/hooks.php
+ * Changed the logo from General tab in Header tab
+	philanthropy-parent/framework-customizations/theme/options/settings.php
+ * Minor fix for parallax
+	philanthropy-parent/js/jquery.parallax.js
+ * Added the possibility to customize position & animation for mobile menu
+	philanthropy-parent/dynamic-css/fw-theme/headers/mobile-menu.php
+	philanthropy-parent/framework-customizations/theme/options/settings.php
+	philanthropy-parent/js/general.js
+	philanthropy-parent/theme-includes/hooks.php
+	philanthropy-parent/theme-includes/static.php
+ * Added filter for google fonts asynchrone loading
+	philanthropy-parent/theme-includes/hooks.php
+ * Changed the library for smooth scroll
+	philanthropy-parent/dynamic-css/fw-theme/general.php
+	philanthropy-parent/js/jquery.easeScroll.js
+	philanthropy-parent/theme-includes/static.php
+ * Fixed external booking shortcode date in safari browser
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/fw-external-booking/static/js/script.js
+ * Space custom shortcode name
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/space/config.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/space/options.php
+ * Fixed bug for mini search
+	philanthropy-parent/dynamic-css/fw-theme/headers/header-search.php
+	philanthropy-parent/dynamic-css/fw-theme/headers/header-6.php
+	philanthropy-parent/js/general.js
+ * Add filter for main menu depth
+	philanthropy-parent/theme-includes/menus.php
+	philanthropy-parent/dynamic-css/fw-theme/headers/top-nav-menu.php
+
+ 2017.11.15 - version 2.0.11
+ * Added Smart Slider & TranslatePress plugins
+	philanthropy-parent/theme-includes/includes/sub-includes/auto-setup/config/config.php
+ * Styles for new Gallery widget WP 4.9
+	philanthropy-parent/dynamic-css/fw-theme/posts/posts-format.php
+ * Add margin options to Column shortcode
+	philanthropy-parent/css/theme-admin.css
+	philanthropy-parent/dynamic-css/fw-theme/content.php
+	philanthropy-parent/dynamic-css/fw-theme/shortcodes/map.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/column/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/column/views/view.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/section/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/section/views/view.php
+	philanthropy-parent/js/jquery.parallax.js
+	philanthropy-parent/theme-includes/hooks.php
+ * Minor fix for anchor on mobile devices
+	philanthropy-parent/js/general.js
+ * Minor fix for translate Back button
+	philanthropy-parent/js/general.js
+	philanthropy-parent/theme-includes/static.php
+ * Load google fonts asyncrone
+	philanthropy-parent/theme-includes/helpers.php
+	philanthropy-parent/theme-includes/hooks.php
+ * Minor fix for Mobile Menu (only on some servers was this problem)
+	philanthropy-parent/theme-includes/helpers.php
+	philanthropy-parent/theme-includes/menus.php
+ * Added 1,2,5,6 columns in footer widgets
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/fw-breadcrumbs/config.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/fw-breadcrumbs/static/img/page_builder.png
+	philanthropy-parent/framework-customizations/theme/options/settings.php
+	philanthropy-parent/templates/footers/footer-widgets.php
+ * Add custom value for content density
+	philanthropy-parent/dynamic-css/fw-theme.php
+	philanthropy-parent/framework-customizations/theme/options/settings.php
+	philanthropy-parent/theme-includes/helpers.php
+	philanthropy-parent/theme-includes/hooks.php
+ * Changed revslider and layerslider to demo-install
+	philanthropy-parent/theme-includes/includes/sub-includes/auto-setup/class-fw-auto-install.php
+	philanthropy-parent/theme-includes/includes/sub-includes/auto-setup/config/config.php
+ * Fixed logo translations with WPML (string translations)
+	philanthropy-parent/theme-includes/helpers.php
+	philanthropy-parent/theme-includes/hooks.php
+	philanthropy-parent/wpml-config.xml
+ * Minor fix for external booking custom URL
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/fw-external-booking/views/view.php
+	philanthropy-parent/theme-includes/helpers.php
+
+ 2017.09.27 - version 2.0.10
+ * Added Hebrew translations
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/section/config.php
+	philanthropy-parent/languages/he_IL.mo
+	philanthropy-parent/languages/he_IL.po
+	philanthropy-parent/languages/he_IL.pot
+ * Minor changes for auto-setup
+	philanthropy-parent/theme-includes/includes/sub-includes/auto-setup/class-fw-auto-install.php
+	philanthropy-parent/theme-includes/includes/sub-includes/auto-setup/js/super_admin_auto_install.js
+ * Minor fix for learning plugin
+	philanthropy-parent/framework-customizations/theme/options/settings.php
+	philanthropy-parent/theme-includes/helpers.php
+	philanthropy-parent/theme-includes/hooks.php
+ * Fixed media include in General Settings
+	philanthropy-parent/theme-includes/backend-static.php
+ * Minor fix for iPad animations
+	philanthropy-parent/js/general.js
+ * Added possibility to name the shortcodes suggestive in the dashboard
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/accordion/config.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/accordion/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/button/config.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/flip-box/config.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/fw-raw-code/config.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/fw-raw-code/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/icon-box/config.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/icon/config.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/image-box/config.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/list/config.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/list/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/media-image/config.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/media-video/config.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/media-video/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/portfolio/config.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/quote/config.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/special-heading/config.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/tabs/config.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/tabs/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/team-member/config.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/text-block/config.php
+ * Added breadcrumbs shortcode
+	philanthropy-parent/framework-customizations/extensions/shortcodes/hooks.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/fw-breadcrumbs/...
+ * Minor fix for wp-shortcodes
+	philanthropy-parent/framework-customizations/extensions/shortcodes/hooks.php
+ * Minor fix for image box shortcode - empty icon on btn
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/image-box/views/view.php
+ * Improvements for RTL
+	philanthropy-parent/css/theme-admin.css
+	philanthropy-parent/dynamic-css/fw-theme/rtl/buttons/buttons.php
+	philanthropy-parent/dynamic-css/fw-theme/rtl/posts/posts-type-2.php
+	philanthropy-parent/dynamic-css/fw-theme/rtl/shortcodes/testimonial.php
+	philanthropy-parent/dynamic-css/fw-theme/shortcodes/testimonials.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/button/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/icon-box/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php
+ * Minor fix for image preload for social networks
+	philanthropy-parent/theme-includes/helpers.php
+	philanthropy-parent/theme-includes/menus.php
+ * Fixed portfolio & latest posts shortcode on the same page
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/portfolio/static.php
+ * Minor fix for Icon Shortcode
+	philanthropy-parent/dynamic-css/fw-theme/shortcodes/icon-title.php
+ * Minor fix for portfolio details divider
+	philanthropy-parent/dynamic-css/fw-theme/portfolio/portfolio-details.php
+ * RTL improvements
+	philanthropy-parent/archive.php
+	philanthropy-parent/dynamic-css/fw-theme.php
+	philanthropy-parent/dynamic-css/fw-theme/posts/posts-type-3.php
+	philanthropy-parent/dynamic-css/fw-theme/posts/posts.php
+	philanthropy-parent/dynamic-css/fw-theme/rtl/footer/footer-menu.php
+	philanthropy-parent/dynamic-css/fw-theme/rtl/pagination.php
+	philanthropy-parent/dynamic-css/fw-theme/rtl/posts/posts-type-1.php
+	philanthropy-parent/dynamic-css/fw-theme/rtl/posts/posts-type-3.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/latest-posts/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/latest-posts/views/view.php
+	philanthropy-parent/framework-customizations/theme/options/settings.php
+	philanthropy-parent/theme-includes/helpers.php
+ * Added filter for header image variables
+	philanthropy-parent/theme-includes/helpers.php
+ * Fixed 404 and WPML compatibility
+	philanthropy-parent/theme-includes/hooks.php
+ * Fixed tf custom widget title translations with polylang
+	philanthropy-parent/theme-includes/hooks.php
+	philanthropy-parent/theme-includes/widgets/fw-flickr/class-widget-fw-flickr.php
+	philanthropy-parent/theme-includes/widgets/fw-instagram/class-widget-fw-instagram.php
+	philanthropy-parent/theme-includes/widgets/fw-login/class-widget-fw-login.php
+	philanthropy-parent/theme-includes/widgets/fw-posts/class-widget-fw-posts.php
+	philanthropy-parent/theme-includes/widgets/fw-twitter/with-fw.php
+ * Fixed Date Out in external booking shortcode
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/fw-external-booking/static/js/script.js
+	philanthropy-parent/theme-includes/helpers.php
+ * Fixed header type 2 & 6 for RTL
+	philanthropy-parent/dynamic-css/fw-theme/headers/header-6.php
+	philanthropy-parent/dynamic-css/fw-theme/rtl/headers/header.php
+	philanthropy-parent/js/general.js
+	philanthropy-parent/dynamic-css/fw-theme/headers/header-2.php
+	philanthropy-parent/dynamic-css/fw-theme/rtl/headers/header-2.php
+	philanthropy-parent/theme-includes/menus.php
+	philanthropy-parent/dynamic-css/fw-theme/rtl/headers/header-1.php
+ * Minor fix for portfolio shortcode without filter
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/portfolio/static/js/portfolio-script.js
+ * Minor fix for latest posts grid type
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/latest-posts/views/view.php
+	philanthropy-parent/js/start-masonry.js
+	philanthropy-parent/theme-includes/static.php
+	philanthropy-parent/theme-includes/hooks.php
+	philanthropy-parent/dynamic-css/fw-theme/general.php
+ * Minor fix for Google Maps API version
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/map/static.php
+ * Fixed Polylang for title and subtitle logo
+	philanthropy-parent/theme-includes/helpers.php
+	philanthropy-parent/wpml-config.xml
+ * Fixed bug on slideshow
+	philanthropy-parent/dynamic-css/fw-theme/shortcodes/slideshow.php
+ * Add image size for Full HD resolution
+	philanthropy-parent/theme-includes/hooks.php
+ * Fixed smooth scroll for mobile devices
+	philanthropy-parent/theme-includes/menus.php
+ * Widget text styles for WP 4.8
+	philanthropy-parent/dynamic-css/fw-theme/widgets/widget-text.php
+ * Minor fix to comments in portfolio details page
+	philanthropy-parent/framework-customizations/extensions/portfolio/views/single.php
+ * Minor changes to posts formats
+	philanthropy-parent/templates/blog-1/content-aside.php
+	philanthropy-parent/templates/blog-1/content-audio.php
+	philanthropy-parent/templates/blog-1/content-video.php
+	philanthropy-parent/templates/blog-2/content-aside.php
+	philanthropy-parent/templates/blog-2/content-audio.php
+	philanthropy-parent/templates/blog-2/content-video.php
+	philanthropy-parent/templates/blog-3/content-aside.php
+	philanthropy-parent/templates/blog-3/content-audio.php
+	philanthropy-parent/templates/blog-3/content-video.php
+	philanthropy-parent/dynamic-css/fw-theme/posts/posts-format.php
+
+ 2017.05.31 - version 2.0.9
+ * Fixed mega menu title column hidden (WPML active)
+	philanthropy-parent/templates/headers/header-1.php
+	philanthropy-parent/templates/headers/header-2.php
+	philanthropy-parent/templates/headers/header-3.php
+	philanthropy-parent/templates/headers/header-4.php
+ * Minor fix on mmenu
+	philanthropy-parent/js/general.js
+ * Added external booking shortcode
+	philanthropy-parent/dynamic-css/fw-theme.php
+	philanthropy-parent/dynamic-css/fw-theme/shortcodes/external-booking.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/fw-external-booking/...
+	philanthropy-parent/js/general.js
+	philanthropy-parent/theme-includes/helpers.php
+	philanthropy-parent/theme-includes/hooks.php
+ * Fixed tab-slider no ratio problem
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/tab-slider/views/view.php
+ * Improvements to instagram widget
+	philanthropy-parent/theme-includes/helpers.php
+ * Minor fix for facebook widget
+	philanthropy-parent/theme-includes/widgets/fw-facebook-page-stream/with-fw.php
+ * WooCommerce new gallery type
+	philanthropy-parent/framework-customizations/theme/options/products-tab.php
+	philanthropy-parent/theme-includes/hooks.php
+	philanthropy-parent/dynamic-css/fw-theme/woocommerce/woo-products.php
+	philanthropy-parent/dynamic-css/fw-theme/woocommerce/woo-product-details.php
+	philanthropy-parent/js/general.js
+ * Fixed bug mega menu on mobile menu
+	philanthropy-parent/dynamic-css/fw-theme/headers/header-5.php
+	philanthropy-parent/dynamic-css/fw-theme/headers/mobile-menu.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php
+	philanthropy-parent/functions.php
+	philanthropy-parent/header.php
+	philanthropy-parent/js/general.js
+	philanthropy-parent/templates/headers/header-1.php
+	philanthropy-parent/templates/headers/header-2.php
+	philanthropy-parent/templates/headers/header-3.php
+	philanthropy-parent/templates/headers/header-4.php
+	philanthropy-parent/templates/headers/header-5.php
+	philanthropy-parent/templates/headers/header-6.php
+	philanthropy-parent/theme-includes/helpers.php
+	philanthropy-parent/theme-includes/menus.php
+ * Minor changes
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php
+	philanthropy-parent/templates/headers/header-4.php
+	philanthropy-parent/theme-includes/widgets/fw-facebook-page-stream/with-fw.php
+	philanthropy-parent/theme-includes/widgets/fw-twitter/views/widget.php
+ * Fixed original-ratio problem
+	philanthropy-parent/dynamic-css/fw-theme/general.php
+ * Made Footer Copyright and Header text traslatable with WPML String Translation
+	philanthropy-parent/wpml-config.xml
+ * Improvements to blog type 3
+	philanthropy-parent/dynamic-css/fw-theme/posts/posts-type-3.php
+	philanthropy-parent/templates/blog-3/content-aside.php
+	philanthropy-parent/templates/blog-3/content-audio.php
+	philanthropy-parent/templates/blog-3/content-gallery.php
+	philanthropy-parent/templates/blog-3/content-image.php
+	philanthropy-parent/templates/blog-3/content-link.php
+	philanthropy-parent/templates/blog-3/content-quote.php
+	philanthropy-parent/templates/blog-3/content-video.php
+	philanthropy-parent/templates/blog-3/content.php
+ * Fixed ssl problem in flickr widget
+	philanthropy-parent/theme-includes/hooks.php
+	philanthropy-parent/theme-includes/widgets/fw-flickr/static/js/scripts.js
+ * Fixed header 5 problem
+	philanthropy-parent/js/general.js
+ * Added flip-box shortcode
+	philanthropy-parent/dynamic-css/fw-theme.php
+	philanthropy-parent/dynamic-css/fw-theme/shortcodes/flip-box.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/flip-box/...
+	philanthropy-parent/theme-includes/hooks.php
+
+ 2017.03.06 - version 2.0.8
+ * Fixed problem with header alignment on category page
+	philanthropy-parent/dynamic-css/fw-theme/content.php
+ * Improvments to header 5 burger menu styles
+	philanthropy-parent/dynamic-css/fw-theme/content.php
+	philanthropy-parent/dynamic-css/fw-theme/headers/header-5.php
+	philanthropy-parent/dynamic-css/fw-variables.php
+	philanthropy-parent/js/general.js
+ * Minor improvements after theme update action
+	philanthropy-parent/theme-includes/hooks.php
+ * Improvements to facebook widget
+	philanthropy-parent/theme-includes/widgets/fw-facebook-page-stream/with-fw.php
+ * Fixed shape problem
+	philanthropy-parent/dynamic-css/fw-theme/content.php
+	philanthropy-parent/dynamic-css/fw-theme/headers/mobile-menu.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/section/views/view.php
+	philanthropy-parent/js/general.js
+ * Added new smooth scroll library
+	philanthropy-parent/framework-customizations/theme/options/settings.php
+	philanthropy-parent/js/jQuery.scrollSpeed.js
+	philanthropy-parent/theme-includes/static.php
+ * Fixed parallax problem
+	the-core-child/functions.php
+	philanthropy-parent/dynamic-css/fw-theme.php
+	philanthropy-parent/dynamic-css/fw-theme/content.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/section/views/view.php
+	philanthropy-parent/js/general.js
+	philanthropy-parent/js/jquery.parallax.js
+	philanthropy-parent/theme-includes/hooks.php
+	philanthropy-parent/theme-includes/static.php
+ * Added header title alignment
+	philanthropy-parent/framework-customizations/theme/options/bbpress-tab.php
+	philanthropy-parent/framework-customizations/theme/options/buddypress-tab.php
+	philanthropy-parent/framework-customizations/theme/options/events-tab.php
+	philanthropy-parent/framework-customizations/theme/options/homepage-tab.php
+	philanthropy-parent/framework-customizations/theme/options/llms-tab.php
+	philanthropy-parent/framework-customizations/theme/options/portfolio-tab.php
+	philanthropy-parent/framework-customizations/theme/options/products-tab.php
+	philanthropy-parent/framework-customizations/theme/options/settings.php
+	philanthropy-parent/framework-customizations/theme/options/taxonomies/category.php
+	philanthropy-parent/framework-customizations/theme/options/taxonomies/course_cat.php
+	philanthropy-parent/framework-customizations/theme/options/taxonomies/course_difficulty.php
+	philanthropy-parent/framework-customizations/theme/options/taxonomies/course_tag.php
+	philanthropy-parent/framework-customizations/theme/options/taxonomies/course_track.php
+	philanthropy-parent/framework-customizations/theme/options/taxonomies/fw-event-taxonomy-name.php
+	philanthropy-parent/framework-customizations/theme/options/taxonomies/fw-portfolio-category.php
+	philanthropy-parent/framework-customizations/theme/options/taxonomies/membership_cat.php
+	philanthropy-parent/framework-customizations/theme/options/taxonomies/membership_tag.php
+	philanthropy-parent/framework-customizations/theme/options/taxonomies/product_cat.php
+	philanthropy-parent/framework-customizations/theme/options/taxonomies/product_tag.php
+	philanthropy-parent/framework-customizations/theme/options/taxonomies/topic-tag.php
+	philanthropy-parent/theme-includes/helpers.php
+ * RTL improvements
+	philanthropy-parent/css/theme-admin.css
+	philanthropy-parent/dynamic-css/fw-theme.php
+	philanthropy-parent/dynamic-css/fw-theme/rtl/footer/footer-menu.php
+	philanthropy-parent/dynamic-css/fw-theme/rtl/grid.php
+	philanthropy-parent/dynamic-css/fw-theme/rtl/shortcodes/icon-box.php
+	philanthropy-parent/dynamic-css/fw-theme/rtl/shortcodes/list.php
+	philanthropy-parent/dynamic-css/fw-theme/rtl/shortcodes/tabs.php
+	philanthropy-parent/framework-customizations/extensions/forms/extensions/contact-forms/shortcodes/contact-form/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/countdown/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/divider/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/icon-box/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/icon/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/image-box/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/quote/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/special-heading/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/tab-slider/options.php
+	philanthropy-parent/framework-customizations/theme/options/portfolio-tab.php
+	philanthropy-parent/framework-customizations/theme/options/settings.php
+ * Improvements to schema markup
+	philanthropy-parent/framework-customizations/extensions/events/views/single.php
+	philanthropy-parent/page.php
+	philanthropy-parent/templates/blog-3/content-aside.php
+	philanthropy-parent/templates/blog-3/content-audio.php
+	philanthropy-parent/templates/blog-3/content-gallery.php
+	philanthropy-parent/templates/blog-3/content-image.php
+	philanthropy-parent/templates/blog-3/content-link.php
+	philanthropy-parent/templates/blog-3/content-quote.php
+	philanthropy-parent/templates/blog-3/content-video.php
+	philanthropy-parent/templates/blog-3/content.php
+	philanthropy-parent/theme-includes/helpers.php
+	philanthropy-parent/theme-includes/hooks.php
+ * Added "Tab Slider" shortcode
+	philanthropy-parent/css/owl.carousel.min.css
+	philanthropy-parent/css/owl.theme.default.min.css
+	philanthropy-parent/dynamic-css/fw-theme.php
+	philanthropy-parent/dynamic-css/fw-theme/shortcodes/tabs-slider.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/tab-slider/
+	philanthropy-parent/js/owl.carousel.js
+	philanthropy-parent/theme-includes/hooks.php
+ * Fixed problem with vertical align on mobile devices + minor changes
+	philanthropy-parent/dynamic-css/fw-theme/content.php
+	philanthropy-parent/dynamic-css/fw-theme/general.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/icon-box/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/tabs/options.php
+	philanthropy-parent/js/general.js
+	philanthropy-parent/js/page-transition.js
+ * Improvements to video shortcode
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/media-video/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/media-video/views/view.php
+	philanthropy-parent/theme-includes/helpers.php
+	philanthropy-parent/theme-includes/hooks.php
+	philanthropy-parent/theme-includes/includes/container-types/tf-option-picker/static/css/style.css
+ * Fixed Twitter and Facebok widget autoload issue (on some servers)
+	philanthropy-parent/theme-includes/widgets/fw-facebook-page-stream/class-widget-fw-facebook-page-stream.php
+	philanthropy-parent/theme-includes/widgets/fw-facebook-page-stream/no-fw.php
+	philanthropy-parent/theme-includes/widgets/fw-facebook-page-stream/with-fw.php
+	philanthropy-parent/theme-includes/widgets/fw-twitter/class-widget-fw-twitter.php
+	philanthropy-parent/theme-includes/widgets/fw-twitter/no-fw.php
+	philanthropy-parent/theme-includes/widgets/fw-twitter/with-fw.php
+	philanthropy-parent/theme-includes/widgets/fw-facebook-page-stream/class-widge
+ * Fixed problem with google font array
+	philanthropy-parent/theme-includes/helpers.php
+ * Added tf-option-picker container type
+	philanthropy-parent/theme-includes/hooks.php
+	philanthropy-parent/theme-includes/includes/container-types/tf-option-picker/class-fw-container-type-tf-option-picker.php
+	philanthropy-parent/theme-includes/includes/container-types/tf-option-picker/index.html
+	philanthropy-parent/theme-includes/includes/container-types/tf-option-picker/static/css/index.html
+	philanthropy-parent/theme-includes/includes/container-types/tf-option-picker/static/css/style.css
+	philanthropy-parent/theme-includes/includes/container-types/tf-option-picker/static/index.html
+	philanthropy-parent/theme-includes/includes/container-types/tf-option-picker/static/js/index.html
+	philanthropy-parent/theme-includes/includes/container-types/tf-option-picker/static/js/script.js
+	philanthropy-parent/theme-includes/includes/container-types/tf-option-picker/view.php
+
+ 2017.01.11 - version 2.0.7
+ * Added "Premade Sections"
+	philanthropy-parent/css/theme-admin.css
+	philanthropy-parent/theme-includes/helpers.php
+	philanthropy-parent/theme-includes/hooks.php
+	philanthropy-parent/theme-includes/includes/predefined-templates/class-tf-theme-predefined-templates.php
+	philanthropy-parent/theme-includes/includes/predefined-templates/init.php
+	philanthropy-parent/theme-includes/includes/predefined-templates/static/scripts.js
+	philanthropy-parent/theme-includes/includes/predefined-templates/static/styles.css
+	philanthropy-parent/theme-includes/includes/predefined-templates/views/sections.php
+ * Added image movement and image switch option to image shortcode
+	philanthropy-parent/dynamic-css/fw-theme/image-styling/image.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/media-image/views/view.php
+ * Added smootscroll option
+	philanthropy-parent/framework-customizations/theme/options/settings.php
+	philanthropy-parent/js/lib/smoothscroll.js
+	philanthropy-parent/theme-includes/static.php
+ * Compatible with MailChimp for WordPress plugin
+	philanthropy-parent/dynamic-css/fw-theme.php
+	philanthropy-parent/dynamic-css/fw-theme/mailchimp/mailchimp.php
+	philanthropy-parent/js/general.js
+	philanthropy-parent/js/jquery.customInput.js
+ * Fixed imagesloaded problem
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/slideshow/static.php
+	philanthropy-parent/theme-includes/widgets/fw-flickr/class-widget-fw-flickr.php
+	philanthropy-parent/theme-includes/static.php
+ * Set required attribute as class for form items
+	philanthropy-parent/framework-customizations/extensions/forms/form-builder/items/email/views/view.php
+	philanthropy-parent/framework-customizations/extensions/forms/form-builder/items/number/views/view.php
+	philanthropy-parent/framework-customizations/extensions/forms/form-builder/items/text/views/view.php
+	philanthropy-parent/framework-customizations/extensions/forms/form-builder/items/textarea/views/view.php
+	philanthropy-parent/framework-customizations/extensions/forms/form-builder/items/website/views/view.php
+ * Fixed problem with URL in slider type 2
+	philanthropy-parent/framework-customizations/extensions/media/extensions/slider/extensions/easy-slider/views/easy-slider.php
+	philanthropy-parent/framework-customizations/extensions/media/extensions/slider/extensions/image-video-slider/static/js/image-video-slider.js
+ * Compatibility with LifterLMS plugin
+	philanthropy-parent/dynamic-css/fw-theme.php
+	philanthropy-parent/dynamic-css/fw-theme/lifter-lms/lifter-lms-widgets/widget-course-syllabus.php
+	philanthropy-parent/dynamic-css/fw-theme/lifter-lms/lifter-lms.php
+	philanthropy-parent/framework-customizations/theme/options/llms-tab.php
+	philanthropy-parent/framework-customizations/theme/options/posts/course.php
+	philanthropy-parent/framework-customizations/theme/options/posts/lesson.php
+	philanthropy-parent/framework-customizations/theme/options/posts/llms_membership.php
+	philanthropy-parent/framework-customizations/theme/options/posts/llms_question.php
+	philanthropy-parent/framework-customizations/theme/options/posts/llms_quiz.php
+	philanthropy-parent/framework-customizations/theme/options/settings.php
+	philanthropy-parent/framework-customizations/theme/options/taxonomies/course_cat.php
+	philanthropy-parent/framework-customizations/theme/options/taxonomies/course_difficulty.php
+	philanthropy-parent/framework-customizations/theme/options/taxonomies/course_tag.php
+	philanthropy-parent/framework-customizations/theme/options/taxonomies/course_track.php
+	philanthropy-parent/framework-customizations/theme/options/taxonomies/membership_cat.php
+	philanthropy-parent/framework-customizations/theme/options/taxonomies/membership_tag.php
+	philanthropy-parent/theme-includes/helpers.php
+	philanthropy-parent/theme-includes/hooks.php
+ * Fixed selectize input on mobile devices
+	philanthropy-parent/dynamic-css/fw-theme/lib/selectize/selectize.theme.php
+	philanthropy-parent/dynamic-css/fw-theme/page-transition.php
+	philanthropy-parent/dynamic-css/fw-theme/woocommerce/woo-checkout.php
+	philanthropy-parent/js/page-transition.js
+ * Fixed top menu subitems
+	philanthropy-parent/dynamic-css/fw-theme/headers/top-nav-menu.php
+	philanthropy-parent/dynamic-css/fw-variables.php
+ * Added page transition
+	philanthropy-parent/css/animate.css
+	philanthropy-parent/dynamic-css/fw-admin-styling.php
+	philanthropy-parent/dynamic-css/fw-theme.php
+	philanthropy-parent/dynamic-css/fw-theme/general.php
+	philanthropy-parent/dynamic-css/fw-theme/page-transition.php
+	philanthropy-parent/dynamic-css/fw-variables.php
+	philanthropy-parent/footer.php
+	philanthropy-parent/framework-customizations/theme/options/settings.php
+	philanthropy-parent/header.php
+	philanthropy-parent/js/general.js
+	philanthropy-parent/js/page-transition.js
+	philanthropy-parent/theme-includes/helpers.php
+	philanthropy-parent/theme-includes/static.php
+ * Fixed empty string to ratio on some servers
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/image-box/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php
+	philanthropy-parent/framework-customizations/theme/options/posts/post.php
+	philanthropy-parent/theme-includes/helpers.php
+ * Made event single dates translatable
+	philanthropy-parent/framework-customizations/extensions/events/views/single.php
+ * Fixed RTL on icon box 3
+	philanthropy-parent/dynamic-css/fw-theme/rtl/shortcodes/icon-box.php
+ * Added redirect page to Contact form shortcode
+	philanthropy-parent/framework-customizations/extensions/forms/extensions/contact-forms/shortcodes/contact-form/options.php
+	philanthropy-parent/framework-customizations/extensions/forms/extensions/contact-forms/views/form.php
+	philanthropy-parent/js/general.js
+ * Minor changes
+	philanthropy-parent/dynamic-css/fw-theme/headers/header-logo.php
+	philanthropy-parent/dynamic-css/fw-theme/headers/header.php
+	philanthropy-parent/theme-includes/includes/option-types/tf-typography/class-fw-option-type-tf-typography.php
+
+ 2016.10.17 - version 2.0.6
+ * LESS to PHP/CSS
+	philanthropy-parent/dynamic-css/...
+	philanthropy-parent/theme-includes/helpers.php
+	philanthropy-parent/theme-includes/hooks.php
+ * Minor changes for typography option type size verification
+	philanthropy-parent/theme-includes/includes/option-types/tf-typography/static/js/scripts.js
+	philanthropy-parent/theme-includes/includes/sub-includes/auto-setup/config/config.php
+	philanthropy-parent/theme-includes/register-required-plugins.php
+
+ 2016.09.13 - version 2.0.5
+ * Minor changes for empty key in google fonts on include
+	philanthropy-parent/theme-includes/helpers.php
+ * Minor css fixes for modal levels
+	philanthropy-parent/css/theme-admin.css
+	philanthropy-parent/theme-includes/includes/option-types/tf-typography/static/css/styles.css
+ * Added custom shape to section
+	philanthropy-parent/css/theme-admin.css
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/accordion/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/column/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/fw-gallery/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/list/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/map/class-fw-shortcode-map.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/section/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/section/views/view.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/slideshow/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/tabs/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/text-block/options.php
+	philanthropy-parent/framework-customizations/theme/options/settings.php
+	philanthropy-parent/theme-includes/hooks.php
+	philanthropy-parent/theme-includes/includes/option-types/color-palette/static/js/scripts.js
+ * Fixed grid for events posts in event category
+	philanthropy-parent/framework-customizations/extensions/events/views/taxonomy.php
+	philanthropy-parent/theme-includes/hooks.php
+ * Fixed facebook Wiget date localization
+	philanthropy-parent/theme-includes/widgets/fw-facebook-page-stream/views/widget.php
+	philanthropy-parent/theme-includes/widgets/fw-facebook-page-stream/class-widget-fw-facebook-page-stream.php
+ * Minor changes for flickr(console notice)
+	philanthropy-parent/theme-includes/hooks.php
+	philanthropy-parent/theme-includes/widgets/fw-flickr/static/js/scripts.js
+ * Fixed select in megamenu on firefox
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/button/options.php
+	philanthropy-parent/js/general.js
+	philanthropy-parent/styles-css/fw-theme/content.css
+	philanthropy-parent/styles-css/fw-theme/headers/mega-menu.css
+ * Fixed notices
+	philanthropy-parent/theme-includes/helpers.php
+	philanthropy-parent/theme-includes/hooks.php
+	philanthropy-parent/theme-includes/register-required-plugins.php
+ * Compatibiliy with "wp-shortcodes" Unyson extension
+	philanthropy-parent/framework-customizations/extensions/forms/extensions/contact-forms/shortcodes/contact-form/options.php
+	philanthropy-parent/framework-customizations/extensions/media/extensions/slider/extensions/easy-slider/views/easy-slider.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/accordion/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/button/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/calendar/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/column/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/countdown/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/divider/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/fw-gallery/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/icon-box/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/icon/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/image-box/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/latest-posts/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/list/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/map/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/media-video/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/quote/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/section/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/special-heading/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/table/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/tabs/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/text-block/options.php
+	philanthropy-parent/framework-customizations/theme/manifest.php
+	philanthropy-parent/framework-customizations/theme/options/settings.php
+	philanthropy-parent/styles-css/fw-theme/headers/mega-menu.css
+	philanthropy-parent/styles-less/fw-theme/headers/mega-menu.less
+	philanthropy-parent/templates/headers/header-4.php
+	philanthropy-parent/theme-includes/helpers.php
+ * Added icon box type 4
+	philanthropy-parent/css/theme-admin.css
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/icon-box/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/icon-box/views/view.php
+	philanthropy-parent/images/image-picker/icon-box-type4.jpg
+	philanthropy-parent/js/general.js
+	philanthropy-parent/styles-css/fw-theme/general.css
+	philanthropy-parent/styles-css/fw-theme/headers/mobile-menu.css
+	philanthropy-parent/theme-includes/hooks.php
+ * Fixed Easy Slider slide link population algorithm
+	philanthropy-parent/framework-customizations/extensions/media/extensions/slider/extensions/easy-slider/views/easy-slider.php
+ * Minor changes for smooth scroll and sticky menu
+	philanthropy-parent/js/general.js
+	philanthropy-parent/theme-includes/hooks.php
+	philanthropy-parent/theme-includes/admin-styling.php
+	philanthropy-parent/theme-includes/helpers.php
+	philanthropy-parent/theme-includes/hooks.php
+ * Added theme switcher after child install
+	philanthropy-parent/theme-includes/includes/sub-includes/auto-setup/class-fw-auto-install.php
+ * Changed the method of registering the posts thumbnail
+	philanthropy-parent/theme-includes/hooks.php
+ * Minor changes
+	philanthropy-parent/theme-includes/includes/class-tgm-plugin-activation.php
+ * Fixed comments text formatting
+	philanthropy-parent/templates/comments/comments-template-1.php
+	philanthropy-parent/templates/comments/comments-template-2.php
+ * Fixed Facebook widget when Unyson is not active
+	philanthropy-parent/theme-includes/widgets/fw-facebook-page-stream/class-widget-fw-facebook-page-stream.php
+ * Added anchor class for sliders
+	philanthropy-parent/framework-customizations/extensions/media/extensions/slider/extensions/easy-carousel/views/easy-carousel.php
+	philanthropy-parent/framework-customizations/extensions/media/extensions/slider/extensions/easy-slider/views/easy-slider.php
+	philanthropy-parent/framework-customizations/extensions/media/extensions/slider/extensions/fade-slider/views/fade-slider.php
+	philanthropy-parent/framework-customizations/extensions/media/extensions/slider/extensions/image-video-slider/views/image-video-slider.php
+	philanthropy-parent/framework-customizations/extensions/media/extensions/slider/extensions/reload-slider/views/reload-slider.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php
+	philanthropy-parent/framework-customizations/theme/options/events-tab.php
+	philanthropy-parent/framework-customizations/theme/options/taxonomies/category.php
+	philanthropy-parent/framework-customizations/theme/options/taxonomies/fw-event-taxonomy-name.php
+	philanthropy-parent/framework-customizations/theme/options/taxonomies/fw-learning-courses-taxonomy.php
+	philanthropy-parent/framework-customizations/theme/options/taxonomies/fw-portfolio-category.php
+	philanthropy-parent/framework-customizations/theme/options/taxonomies/product_cat.php
+	philanthropy-parent/framework-customizations/theme/options/taxonomies/product_tag.php
+	philanthropy-parent/framework-customizations/theme/options/taxonomies/topic-tag.php
+	philanthropy-parent/theme-includes/hooks.php
+ * Minor changes for the_core_image function
+	philanthropy-parent/theme-includes/helpers.php
+	philanthropy-parent/theme-includes/hooks.php
+ * Added map info about google API key
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/map/options.php
+	
+ 2016.07.07 - version 2.0.4
+  * Added google maps API Key
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/map/static.php
+	philanthropy-parent/framework-customizations/theme/options/settings.php
+ * Minor CSS changes
+	philanthropy-parent/js/general.js
+	philanthropy-parent/styles-css/fw-theme/content.css
+	philanthropy-parent/styles-css/fw-theme/headers/header-5.css
+	philanthropy-parent/styles-css/fw-theme/headers/header-6.css
+	philanthropy-parent/styles-css/fw-theme/posts/posts-comments.css
+	philanthropy-parent/styles-css/fw-theme/posts/posts-type-3.css
+	philanthropy-parent/styles-css/fw-theme/shortcodes/icon-box.css
+	philanthropy-parent/styles-less/fw-theme/image-styling/image.less
+	philanthropy-parent/styles-less/fw-theme/shortcodes/icon-box.less
+ * Added team member type 2
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/team-member/views/view.php
+	philanthropy-parent/images/image-picker/team-member-type-1.jpg
+	philanthropy-parent/images/image-picker/team-member-type-2.jpg
+	philanthropy-parent/styles-css/fw-theme/shortcodes/team-member.css
+	philanthropy-parent/styles-less/fw-theme/shortcodes/team-member.less
+	philanthropy-parent/theme-includes/hooks.php
+
+ 2016.06.13 - version 2.0.3
+ * Fixed italic font problem (in some cases)
+	philanthropy-parent/theme-includes/helpers.php
+	philanthropy-parent/theme-includes/hooks.php
+ * Added boxed header option
+	philanthropy-parent/framework-customizations/theme/options/settings.php
+	philanthropy-parent/js/general.js
+	philanthropy-parent/js/theme-admin.js
+	philanthropy-parent/styles-css/fw-theme/headers/header.css
+	philanthropy-parent/styles-css/fw-theme/portfolio/portfolio-type-2.css
+	philanthropy-parent/styles-less/fw-theme/headers/header-3.less
+	philanthropy-parent/styles-less/fw-theme/headers/header-4.less
+	philanthropy-parent/styles-less/fw-theme/headers/header.less
+	philanthropy-parent/styles-less/fw-theme/image-styling/image-overlay.less
+	philanthropy-parent/styles-less/fw-theme/shortcodes/gallery.less
+	philanthropy-parent/styles-less/fw-theme/widgets/widget-posts-list.less
+	philanthropy-parent/styles-less/variables.less
+	philanthropy-parent/theme-includes/admin-styling.php
+	philanthropy-parent/theme-includes/hooks.php
+ * Minor changes for prettyPhoto
+	philanthropy-parent/js/jquery.prettyPhoto.js
+ * Added header type 6
+	philanthropy-parent/css/theme-admin.css
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/section/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/section/static.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/section/views/view.php
+	philanthropy-parent/framework-customizations/theme/options/posts/post.php
+	philanthropy-parent/framework-customizations/theme/options/settings.php
+	philanthropy-parent/images/image-picker/header-type5.jpg
+	philanthropy-parent/images/image-picker/header-type6.jpg
+	philanthropy-parent/js/general.js
+	philanthropy-parent/js/theme-admin.js
+	philanthropy-parent/styles-css/fw-theme/content.css
+	philanthropy-parent/styles-css/fw-theme/headers/header-5.css
+	philanthropy-parent/styles-css/fw-theme/headers/header-6.css
+	philanthropy-parent/styles-css/fw-theme/headers/header-logo.css
+	philanthropy-parent/styles-css/fw-theme/headers/mobile-menu.css
+	philanthropy-parent/styles-less/fw-theme/headers/header-5.less
+	philanthropy-parent/styles-less/fw-theme/headers/header-6.less
+	philanthropy-parent/styles-less/fw-theme/headers/header-height-calc.less
+	philanthropy-parent/styles-less/fw-theme/headers/header.less
+	philanthropy-parent/styles-less/fw-theme/woocommerce/woo-widgets/woo-widget-product-categories.less
+	philanthropy-parent/styles-less/fw-theme/woocommerce/woo-widgets/woo-widget-tag-cloud.less
+	philanthropy-parent/styles-less/variables.less
+	philanthropy-parent/templates/headers/header-4.php
+	philanthropy-parent/templates/headers/header-6.php
+	philanthropy-parent/theme-includes/admin-styling.php
+	philanthropy-parent/theme-includes/static.php
+ * Minor changes for 2 or more types of sliders on the same page
+	philanthropy-parent/framework-customizations/extensions/media/extensions/slider/extensions/easy-carousel/views/easy-carousel.php
+	philanthropy-parent/framework-customizations/extensions/media/extensions/slider/extensions/fade-slider/views/fade-slider.php
+	philanthropy-parent/framework-customizations/extensions/media/extensions/slider/extensions/image-video-slider/static/js/image-video-slider.js
+	philanthropy-parent/framework-customizations/extensions/media/extensions/slider/extensions/image-video-slider/views/image-video-slider.php
+ * Fixed accordion text styling conflict
+	philanthropy-parent/header.php
+	philanthropy-parent/js/general.js
+	philanthropy-parent/theme-includes/helpers.php
+	philanthropy-parent/theme-includes/hooks.php
+ * Added possibility to add sidebar to portfolio details page
+	philanthropy-parent/framework-customizations/extensions/portfolio/views/single.php
+	philanthropy-parent/theme-includes/init.php
+ * Fixed pagination type 2 background
+	philanthropy-parent/js/general.js
+	philanthropy-parent/styles-css/fw-theme/posts/posts-type-3.css
+	philanthropy-parent/styles-less/fw-theme/pagination.less
+	philanthropy-parent/theme-includes/helpers.php
+ * Changes for prettyPhoto on mobile devices
+	philanthropy-parent/js/general.js
+	philanthropy-parent/styles-css/fw-theme/headers/header.css
+	philanthropy-parent/styles-css/fw-theme/lib/pretty-photo/pretty-photo.css
+	philanthropy-parent/styles-css/fw-theme/posts/posts-comments.css
+	philanthropy-parent/styles-less/fw-theme/posts/posts-comments-type-2.less
+	philanthropy-parent/styles-less/fw-theme/woocommerce/woo-checkout.less
+ * Added header type 5
+	philanthropy-parent/css/theme-admin.css
+	philanthropy-parent/framework-customizations/theme/options/settings.php
+	philanthropy-parent/images/image-picker/header-type5.jpg
+	philanthropy-parent/js/general.js
+	philanthropy-parent/js/theme-admin.js
+	philanthropy-parent/styles-css/fw-theme/headers/header-5.css
+	philanthropy-parent/styles-less/fw-theme/headers/header-5.less
+	philanthropy-parent/styles-less/fw-theme/headers/header-height-calc.less
+	philanthropy-parent/styles-less/fw-theme/headers/header.less
+	philanthropy-parent/styles-less/variables.less
+	philanthropy-parent/templates/headers/header-5.php
+	philanthropy-parent/theme-includes/admin-styling.php
+	philanthropy-parent/theme-includes/hooks.php
+	philanthropy-parent/theme-includes/static.php
+	philanthropy-parent/visual-builder-template.php
+ * Fixed facebook widget page id
+	philanthropy-parent/theme-includes/widgets/fw-facebook-page-stream/class-widget-fw-facebook-page-stream.php
+	
+ 2016.05.04 - version 2.0.2
+ * Added "title-tag" support
+	philanthropy-parent/blank-template.php
+	philanthropy-parent/coming-soon-template.php
+	philanthropy-parent/header.php
+	philanthropy-parent/js/general.js
+	philanthropy-parent/theme-includes/hooks.php
+ * Added extra options for Latest Posts shortcode
+	philanthropy-parent/framework-customizations/extensions/forms/extensions/contact-forms/shortcodes/contact-form/options.php
+	philanthropy-parent/framework-customizations/extensions/media/extensions/slider/extensions/image-video-slider/static/js/image-video-slider.js
+	philanthropy-parent/framework-customizations/extensions/media/extensions/slider/extensions/image-video-slider/views/image-video-slider.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/latest-posts/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/latest-posts/views/view.php
+	philanthropy-parent/framework-customizations/theme/options/settings.php
+	philanthropy-parent/images/image-picker/blog-pagination-type-1.jpg
+	philanthropy-parent/images/image-picker/blog-pagination-type-2.jpg
+	philanthropy-parent/js/general.js
+	philanthropy-parent/styles-css/
+	philanthropy-parent/styles-less/
+	philanthropy-parent/templates/blog-1/content-aside.php
+	philanthropy-parent/templates/blog-1/content-audio.php
+	philanthropy-parent/templates/blog-1/content-gallery.php
+	philanthropy-parent/templates/blog-1/content-image.php
+	philanthropy-parent/templates/blog-1/content-link.php
+	philanthropy-parent/templates/blog-1/content-quote.php
+	philanthropy-parent/templates/blog-1/content-video.php
+	philanthropy-parent/templates/blog-1/content.php
+	philanthropy-parent/templates/blog-2/content-aside.php
+	philanthropy-parent/templates/blog-2/content-audio.php
+	philanthropy-parent/templates/blog-2/content-gallery.php
+	philanthropy-parent/templates/blog-2/content-image.php
+	philanthropy-parent/templates/blog-2/content-link.php
+	philanthropy-parent/templates/blog-2/content-quote.php
+	philanthropy-parent/templates/blog-2/content-video.php
+	philanthropy-parent/templates/blog-2/content.php
+	philanthropy-parent/templates/blog-3/content-aside.php
+	philanthropy-parent/templates/blog-3/content-audio.php
+	philanthropy-parent/templates/blog-3/content-gallery.php
+	philanthropy-parent/templates/blog-3/content-image.php
+	philanthropy-parent/templates/blog-3/content-link.php
+	philanthropy-parent/templates/blog-3/content-quote.php
+	philanthropy-parent/templates/blog-3/content-video.php
+	philanthropy-parent/templates/blog-3/content.php
+	philanthropy-parent/theme-includes/helpers.php
+	philanthropy-parent/theme-includes/hooks.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/portfolio/static/js/portfolio-script.js
+ * Added currency symbol for events
+	philanthropy-parent/framework-customizations/extensions/events/views/single.php
+	philanthropy-parent/framework-customizations/theme/options/events-tab.php
+	philanthropy-parent/theme-includes/helpers.php
+ * Minor changes for portfolio filter
+	philanthropy-parent/framework-customizations/extensions/portfolio/helpers.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/portfolio/views/view.php
+	philanthropy-parent/theme-includes/helpers.php
+ * Update Font Awesome
+	philanthropy-parent/css/font-awesome.css
+	philanthropy-parent/fonts/FontAwesome.otf
+	philanthropy-parent/fonts/fontawesome-webfont.eot
+	philanthropy-parent/fonts/fontawesome-webfont.svg
+	philanthropy-parent/fonts/fontawesome-webfont.ttf
+	philanthropy-parent/fonts/fontawesome-webfont.woff
+	philanthropy-parent/fonts/fontawesome-webfont.woff2
+ * Added compatibility with CF7
+	philanthropy-parent/js/general.js
+	philanthropy-parent/js/jquery.customInput.js
+	philanthropy-parent/styles-css/fw-theme/contactForm7/contactForm7.css
+	philanthropy-parent/styles-css/fw-theme/lib/custom-checkbox-radio/custom-checkbox-radio.css
+	philanthropy-parent/styles-less/fw-theme/contactForm7/contactForm7.less
+ * Added blog type 3
+	philanthropy-parent/comments-template.php
+	philanthropy-parent/comments.php
+	philanthropy-parent/content-single.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/latest-posts/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/media-image/views/view.php
+	philanthropy-parent/framework-customizations/theme/options/settings.php
+	philanthropy-parent/images/image-picker/blog-style3.jpg
+	philanthropy-parent/images/image-picker/comment-type6.jpg
+	philanthropy-parent/images/image-picker/comments-type-1.jpg
+	philanthropy-parent/images/image-picker/comments-type-2.jpg
+	philanthropy-parent/images/image-picker/related-articles-type-1.jpg
+	philanthropy-parent/images/image-picker/related-articles-type-2.jpg
+	philanthropy-parent/js/theme-admin.js
+	philanthropy-parent/related-articles.php
+	philanthropy-parent/styles-css/
+	philanthropy-parent/styles-less/
+	philanthropy-parent/templates/blog-3/content-aside.php
+	philanthropy-parent/templates/blog-3/content-audio.php
+	philanthropy-parent/templates/blog-3/content-gallery.php
+	philanthropy-parent/templates/blog-3/content-image.php
+	philanthropy-parent/templates/blog-3/content-link.php
+	philanthropy-parent/templates/blog-3/content-quote.php
+	philanthropy-parent/templates/blog-3/content-video.php
+	philanthropy-parent/templates/blog-3/content.php
+	philanthropy-parent/templates/comments/comments-template-1.php
+	philanthropy-parent/templates/comments/comments-template-2.php
+	philanthropy-parent/templates/related-articles/related-articles-1.php
+	philanthropy-parent/templates/related-articles/related-articles-2.php
+	philanthropy-parent/theme-includes/admin-styling.php
+	philanthropy-parent/theme-includes/helpers.php
+ 
+ 2016.04.11 - version 2.0.1
+ * minor changes for wp 4.5
+	philanthropy-parent/js/general.js
+ * minor changes for cdn link of images in shortcodes
+	philanthropy-parent/coming-soon-template.php
+	philanthropy-parent/framework-customizations/extensions/events/views/single.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/accordion/views/view.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/button/views/view.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/divider/views/view.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/icon-box/views/view.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/icon/views/view.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/image-box/views/view.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/list/views/view.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/map/views/view.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/media-image/views/view.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/section/options.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/section/views/view.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/tabs/views/view.php
+	philanthropy-parent/framework-customizations/extensions/shortcodes/shortcodes/team-member/views/view.php
+	philanthropy-parent/js/theme-admin.js
+	philanthropy-parent/styles-less/fw-theme/bbpress/bbpress-reply-form.less
+	philanthropy-parent/styles-less/fw-theme/general.less
+	philanthropy-parent/styles-less/fw-theme/image-styling/image-overlay.less
+	philanthropy-parent/styles-less/variables.less
+	philanthropy-parent/theme-includes/admin-styling.php
+	philanthropy-parent/theme-includes/helpers.php
+	philanthropy-parent/theme-includes/hooks.php
+
+ 2016.18.03 - version 2.0
+ * First release!

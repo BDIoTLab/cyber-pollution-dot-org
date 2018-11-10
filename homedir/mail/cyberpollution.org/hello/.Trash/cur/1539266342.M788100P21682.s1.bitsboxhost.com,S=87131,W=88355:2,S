@@ -1,0 +1,1224 @@
+Return-Path: <01000166636bc73b-d84d55d9-ff4e-41ee-b6e4-9e25f4de6549-000000@amazonses.com>
+Delivered-To: hello@cyberpollution.org
+Received: from s1.bitsboxhost.com
+	by s1.bitsboxhost.com with LMTP id MJPbLiZXv1uyVAAA+UFKaw
+	for <hello@cyberpollution.org>; Thu, 11 Oct 2018 13:59:02 +0000
+Return-path: <01000166636bc73b-d84d55d9-ff4e-41ee-b6e4-9e25f4de6549-000000@amazonses.com>
+Envelope-to: hello@cyberpollution.org
+Delivery-date: Thu, 11 Oct 2018 13:59:02 +0000
+Received: from a10-224.smtp-out.amazonses.com ([54.240.10.224]:39942)
+	by s1.bitsboxhost.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-SHA256:128)
+	(Exim 4.91)
+	(envelope-from <01000166636bc73b-d84d55d9-ff4e-41ee-b6e4-9e25f4de6549-000000@amazonses.com>)
+	id 1gAbUS-0005ZR-LO
+	for hello@cyberpollution.org; Thu, 11 Oct 2018 13:59:02 +0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=nutx3jowrwaay6alp2lpybalfvdocpkp; d=pph.me; t=1539266299;
+	h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe;
+	bh=TR+Ck+4oFQcG2Ws6pcsfcRpha1PN5WiqbQF3d+TU2jo=;
+	b=bJn3Ae0WpVuPsn/zN7qEyZun5jjBbi9bm1zEsKurAwgaVLZGVd4uTc8/C1qUXTlX
+	3eySZkhl/uQ2SsqgiRo4LGKLi4eSzjYBPqQDGcjCwXRSMlGugBmiPDMpnpTp706yDo9
+	zpERVkUMtHXb2R4k2vJeHcdanSO3QB2hqCtlL224=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=ug7nbtf4gccmlpwj322ax3p6ow6yfsug; d=amazonses.com; t=1539266299;
+	h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:Feedback-ID:List-Unsubscribe;
+	bh=TR+Ck+4oFQcG2Ws6pcsfcRpha1PN5WiqbQF3d+TU2jo=;
+	b=I1I//+55So8Pef0n1Xf+xXratn/VFIfuQWtd3wBAmpZaAV4lHlpoHXAStZN739PS
+	PHcSeBDl2CqvleXPPkBgeiotr/oTKFQhOyRj8NhaLBaqyqgn//Krj+ekC9D4CuUifDI
+	hTHTt3w5HHQNuC5bER/AmOIzGeCbV2oNKF6cxpJM=
+Date: Thu, 11 Oct 2018 13:58:19 +0000
+From: PeoplePerHour <noreply@pph.me>
+Reply-To: noreply@pph.me
+To: hello@cyberpollution.org
+Message-ID: <01000166636bc73b-d84d55d9-ff4e-41ee-b6e4-9e25f4de6549-000000@email.amazonses.com>
+Subject: Our expert guide for getting your job done!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_821582_1255312252.1539266299688"
+X-Campaign-ID: 222742
+Feedback-ID: 1.us-east-1.lCJVkz6+3S71MtYe1CeGk/9v1Z83C325jnahyIHJIg0=:AmazonSES
+List-Unsubscribe: <https://links.peopleperhour.com/e/encryptedUnsubscribe?_r=340bd94a06c74003aba2913912feb81a&_s=991074d5a5ad4fa789e0d837e678908e&_t=hjsOHAiDQhVde2fO04g_ZfbrB_9mkmMEgkJxFq4VYhfFSpVPy8yxwv4Eo2SROdtxLBU0WjwaHIERwGdayxYoVMw7_N5tWvjOVlqFeUEyDxkT4au3cHjG2DEcKE-hBTomwsyBI1BG7bEE5LXgdU9OMzpYeyDOevQV9sCftCZkjkE%3D>,<mailto:unsubscribe+222742+317542@iterable.com>
+X-Feedback-ID: 317542:222742:9963:iterable
+X-Message-ID: 991074d5a5ad4fa789e0d837e678908e
+X-SES-Outgoing: 2018.10.11-54.240.10.224
+X-Spam-Status: No, score=0.9
+X-Spam-Score: 9
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "s1.bitsboxhost.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  3 ways of hiring freelancers for your job <https://www.peopleperhour.com/>
+    Dashboard <https://www.peopleperhour.com/dashboard/buyer> Find A Freelancer
+    <https://www.peopleperhour.com/freelance> Searc
+ 
+ Content analysis details:   (0.9 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at http://www.dnswl.org/, no
+                             trust
+                             [54.240.10.224 listed in list.dnswl.org]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.2 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level mail
+                             domains are different
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 T_KAM_HTML_FONT_INVALID BODY: Test for Invalidly Named or Formatted
+                             Colors in HTML
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.8 KAM_INFOUSMEBIZ        Prevalent use of .info|.us|.me|.me.uk|.biz domains in
+                              spam/malware
+X-Spam-Flag: NO
+
+------=_Part_821582_1255312252.1539266299688
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+3 ways of hiring freelancers for your job=20
+
+
+ <https://www.peopleperhour.com/>=20
+Dashboard <https://www.peopleperhour.com/dashboard/buyer> Find A Freelancer=
+=20
+<https://www.peopleperhour.com/freelance> Search Hourlies=20
+<https://www.peopleperhour.com/hourlies> Post A Job=20
+<https://www.peopleperhour.com/job/new> =20
+<https://www.peopleperhour.com/hourlies>=20
+Hi Md Morshed
+
+=C2=A0
+
+There is more than one way to find the perfect freelancer on PeoplePerHour.=
+=20
+
+
+
+In fact, there are 3 easy ways to get your Job done!
+
+1) Want a range of proposals? Post a Job.
+
+
+
+=E2=80=A2=C2=A0 Freelancers come to you
+
+=E2=80=A2=C2=A0 A range of proposals to choose from
+
+=E2=80=A2=C2=A0 Your copyrights protected automatically
+POST A JOB <https://www.peopleperhour.com/job/new>=20
+
+
+2) Looking for a straightforward solution? Check Hourlies.
+
+
+
+=E2=80=A2=C2=A0 Pre-packaged, well-defined services
+
+=E2=80=A2=C2=A0 Fixed price
+
+=E2=80=A2=C2=A0 Fast turn-around
+BROWSE HOURLIES <https://www.peopleperhour.com/hourlies>=20
+
+
+3) Could use a specific skill? Search freelancers.
+
+
+
+=E2=80=A2=C2=A0 Instant, direct access to the best talent=20
+
+=E2=80=A2=C2=A0 Portfolio and work samples at hand=20
+
+=E2=80=A2=C2=A0 Feedback and reviews from past clients
+SEARCH FREELANCERS <https://www.peopleperhour.com/freelance>=20
+Why outsource through PeoplePerHour?
+
+World's
+ Finest Talent
+
+Connect with our
+ pre-vetted
+ freelancers
+
+Buyer
+ Protection
+
+Release money
+ once the job
+ is done
+
+Fast
+ Turnaround
+
+Get proposals
+ within
+ minutes
+
+
+
+ <http://facebook.com/peopleperhour>  <http://twitter.com/peopleperhour> =
+=20
+<http://plus.google.com/+peopleperhour>  <https://pinterest.com/peopleperho=
+ur> =20
+<https://www.linkedin.com/company/167584>=20
+=C2=A9 2007 - 2017 PeoplePerHour All rights reserved
+
+You can change your notification settings here=20
+<https://links.peopleperhour.com/e/eh?_t=3D340bd94a06c74003aba2913912feb81a=
+&_m=3D991074d5a5ad4fa789e0d837e678908e&_e=3DeQnDAMsSTuCVC9bqzzRWxN23wER-nry=
+iA3j0k2Cg7MLRxwRSdNqvPlNYqdJ07hIzCrTWjXotH6wcqH6es6e1qGCCKmoNp-gsMh9xeHMppy=
+ZQxP4rwpydGHIvI6UmLFm3IijVhc1NTsY7WuUces88TCqCi6FG5LRkp2JKjHR9j4QfnHD3QMleX=
+5GWnyGDd4HxxNGdK5aDUXZtbw2cNZsYoPDsMr3YkC6TOVMmtq43vWCr9JHMmPg50Syq5vA6LDG8=
+>
+
+ PeoplePerHour, 27 Old Gloucester Street, London WC1 3AX, UK=EF=BB=BF <>=20
+
+------=_Part_821582_1255312252.1539266299688
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www=
+.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> <html xmlns=3D"http://www.w=
+3.org/1999/xhtml" xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns=
+:v=3D"urn:schemas-microsoft-com:vml" style=3D"-webkit-text-size-adjust: non=
+e; line-height: inherit;"> <head><!--[if gte mso 9]><xml> <o:OfficeDocument=
+Settings> <o:AllowPNG/> <o:PixelsPerInch>96</o:PixelsPerInch> </o:OfficeDoc=
+umentSettings> </xml><![endif]--><meta http-equiv=3D"Content-Type" content=
+=3D"text/html; charset=3Dutf-8"><meta name=3D"viewport" content=3D"width=3D=
+device-width"><!--[if !mso]><!--><meta http-equiv=3D"X-UA-Compatible" conte=
+nt=3D"IE=3Dedge"><!--<![endif]--> <title></title> <!--[if !mso]><link href=
+=3D"https://fonts.googleapis.com/css?family=3DOpen+Sans" rel=3D"stylesheet"=
+ type=3D"text/css"/> <!--<![endif]--> <style id=3D"media-query" type=3D"tex=
+t/css">*{-webkit-text-size-adjust:none}body{margin:0;padding:0}table,tr,td{=
+vertical-align:top;border-collapse:collapse}.ie-browser table,.mso-containe=
+r table{table-layout:fixed}*{line-height:inherit}a[x-apple-data-detectors=
+=3Dtrue]{color:inherit!important;text-decoration:none!important}[owa] .img-=
+container div,[owa] .img-container button{display:block!important}[owa] .fu=
+llwidth button{width:100%!important}[owa] .block-grid .col{display:table-ce=
+ll;float:none!important;vertical-align:top}.ie-browser .num12,.ie-browser .=
+block-grid,[owa] .num12,[owa] .block-grid{width:545px!important}.ExternalCl=
+ass,.ExternalClass p,.ExternalClass span,.ExternalClass font,.ExternalClass=
+ td,.ExternalClass div{line-height:100%}.ie-browser .mixed-two-up .num4,[ow=
+a] .mixed-two-up .num4{width:180px!important}.ie-browser .mixed-two-up .num=
+8,[owa] .mixed-two-up .num8{width:360px!important}.ie-browser .block-grid.t=
+wo-up .col,[owa] .block-grid.two-up .col{width:272px!important}.ie-browser =
+.block-grid.three-up .col,[owa] .block-grid.three-up .col{width:181px!impor=
+tant}.ie-browser .block-grid.four-up .col,[owa] .block-grid.four-up .col{wi=
+dth:136px!important}.ie-browser .block-grid.five-up .col,[owa] .block-grid.=
+five-up .col{width:109px!important}.ie-browser .block-grid.six-up .col,[owa=
+] .block-grid.six-up .col{width:90px!important}.ie-browser .block-grid.seve=
+n-up .col,[owa] .block-grid.seven-up .col{width:77px!important}.ie-browser =
+.block-grid.eight-up .col,[owa] .block-grid.eight-up .col{width:68px!import=
+ant}.ie-browser .block-grid.nine-up .col,[owa] .block-grid.nine-up .col{wid=
+th:60px!important}.ie-browser .block-grid.ten-up .col,[owa] .block-grid.ten=
+-up .col{width:54px!important}.ie-browser .block-grid.eleven-up .col,[owa] =
+.block-grid.eleven-up .col{width:49px!important}.ie-browser .block-grid.twe=
+lve-up .col,[owa] .block-grid.twelve-up .col{width:45px!important}.block-gr=
+id{width:545px!important}.block-grid .col{vertical-align:top}.block-grid .c=
+ol.num12{width:545px!important}.block-grid.mixed-two-up .col.num4{width:180=
+px!important}.block-grid.mixed-two-up .col.num8{width:360px!important}.bloc=
+k-grid.two-up .col{width:272px!important}.block-grid.three-up .col{width:18=
+1px!important}.block-grid.four-up .col{width:136px!important}.block-grid.fi=
+ve-up .col{width:109px!important}.block-grid.six-up .col{width:90px!importa=
+nt}.block-grid.seven-up .col{width:77px!important}.block-grid.eight-up .col=
+{width:68px!important}.block-grid.nine-up .col{width:60px!important}.block-=
+grid.ten-up .col{width:54px!important}.block-grid.eleven-up .col{width:49px=
+!important}.block-grid.twelve-up .col{width:45px!important}</style> </head>=
+ <body style=3D"line-height: inherit; margin: 0; padding: 0; -webkit-text-s=
+ize-adjust: 100%; background-color: #f8f9fc;" class=3D"clean-body"><span st=
+yle=3D"color:transparent;visibility:hidden;display:none;opacity:0;height:0;=
+width:0;font-size:0;">3 ways of hiring freelancers for your job</span><img =
+src=3D"https://links.peopleperhour.com/e/eo?_t=3D340bd94a06c74003aba2913912=
+feb81a&amp;_m=3D991074d5a5ad4fa789e0d837e678908e&amp;_e=3DhjsOHAiDQhVde2fO0=
+4g_ZfbrB_9mkmMEgkJxFq4VYhfFSpVPy8yxwv4Eo2SROdtxLBU0WjwaHIERwGdayxYoVMw7_N5t=
+WvjOVlqFeUEyDxkT4au3cHjG2DEcKE-hBTomwsyBI1BG7bEE5LXgdU9OMzpYeyDOevQV9sCftCZ=
+kjkE%3D" style=3D"border:0;width:1px;height:1px;border-width:0px!important;=
+display:none!important;line-height:0!important;" width=3D"1" height=3D"1"/>=
+<!--[if IE]><div class=3D"ie-browser"><![endif]--><!--[if mso]><div class=
+=3D"mso-container"><![endif]--> <table cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"-webkit-text-size-adjust: none; line-height: inherit; background-c=
+olor: #f8f9fc; border-collapse: collapse; border-spacing: 0; margin: 0 auto=
+; min-width: 320px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; table-lay=
+out: fixed; vertical-align: top; width: 100%;" class=3D"nl-container" width=
+=3D"100%" bgcolor=3D"#f8f9fc" valign=3D"top"> <tbody style=3D"-webkit-text-=
+size-adjust: none; line-height: inherit;"> <tr style=3D"-webkit-text-size-a=
+djust: none; line-height: inherit; border-collapse: collapse; vertical-alig=
+n: top;" valign=3D"top"> <td style=3D"-webkit-text-size-adjust: none; line-=
+height: inherit; vertical-align: top; word-break: break-word; border-collap=
+se: collapse !important;" valign=3D"top"><!--[if (mso)|(IE)]><table width=
+=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td align=
+=3D"center" style=3D"background-color: #f8f9fc;"><![endif]--> <div style=3D=
+"-webkit-text-size-adjust: none; line-height: inherit; background-color: tr=
+ansparent;"> <div style=3D"-webkit-text-size-adjust: none; line-height: inh=
+erit; Margin: 0 auto; min-width: 320px; max-width: 545px; overflow-wrap: br=
+eak-word; word-wrap: break-word; word-break: break-word; background-color: =
+#FFFFFF; width: 545px !important;" class=3D"block-grid "> <div style=3D"-we=
+bkit-text-size-adjust: none; line-height: inherit; border-collapse: collaps=
+e; display: table; width: 100%; background-color: #FFFFFF;"><!--[if (mso)|(=
+IE)]><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"=
+> <tr> <td style=3D"background-color:transparent;" align=3D"center"> <table=
+ cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width: 545px;"> =
+<tr class=3D"layout-full-width" style=3D"background-color:#FFFFFF;"><![endi=
+f]--><!--[if (mso)|(IE)]><td align=3D"center" width=3D"545" style=3D" width=
+:545px; padding-right: 5px; padding-left: 5px; padding-top:10px; padding-bo=
+ttom:0px; border-top: 0px solid transparent; border-left: 0px solid transpa=
+rent; border-bottom: 0px solid transparent; border-right: 0px solid transpa=
+rent;" valign=3D"top"><![endif]--> <div style=3D"-webkit-text-size-adjust: =
+none; line-height: inherit; min-width: 320px; max-width: 545px; display: ta=
+ble-cell; vertical-align: top; width: 545px !important;" class=3D"col num12=
+"> <div style=3D"-webkit-text-size-adjust: none; line-height: inherit; back=
+ground-color: transparent; width: 100% !important;"><!--[if (!mso)&(!IE)]><=
+!--> <div style=3D"-webkit-text-size-adjust: none; line-height: inherit; bo=
+rder-top: 0px solid transparent; border-left: 0px solid transparent; border=
+-bottom: 0px solid transparent; border-right: 0px solid transparent; paddin=
+g-top: 10px; padding-bottom: 0px; padding-right: 5px; padding-left: 5px;"><=
+!--<![endif]--> <div style=3D"-webkit-text-size-adjust: none; line-height: =
+inherit; font-size: 16px; font-family: 'Open Sans', 'Helvetica Neue', Helve=
+tica, Arial, sans-serif; text-align: center;"> <table cellspacing=3D"0" sty=
+le=3D"-webkit-text-size-adjust: none; line-height: inherit; background-colo=
+r: #ffffff; border-collapse: collapse; border-spacing: 0; margin: 0 0 0px 0=
+; padding: 0; position: relative; text-align: left; vertical-align: top; wi=
+dth: 535px;" width=3D"535" bgcolor=3D"#ffffff" align=3D"left" valign=3D"top=
+"> <tbody style=3D"-webkit-text-size-adjust: none; line-height: inherit;"> =
+<tr align=3D"left" style=3D"-webkit-text-size-adjust: none; line-height: in=
+herit; border-collapse: collapse; padding: 0; text-align: left; vertical-al=
+ign: top;" valign=3D"top"> <td align=3D"left" style=3D"-webkit-text-size-ad=
+just: none; -moz-hyphens: auto; -webkit-hyphens: auto; color: #515358; font=
+-family: 'Open Sans',Arial,Helvetica,sans-serif; font-size: 14px; font-weig=
+ht: normal; hyphens: auto; line-height: 20px; margin: 0; min-width: 100%; p=
+adding: 0; text-align: left; vertical-align: top; width: 100%; word-break: =
+break-word; border-collapse: collapse !important;" width=3D"100%" valign=3D=
+"top"> <table cellspacing=3D"0" style=3D"-webkit-text-size-adjust: none; li=
+ne-height: inherit; border-collapse: collapse; border-spacing: 0; margin: 0=
+ auto; max-width: 525px; padding: 0; text-align: inherit; vertical-align: t=
+op; width: 545px !important;" class=3D"block-grid" width=3D"545 !important"=
+ align=3D"inherit" valign=3D"top"> <tbody style=3D"-webkit-text-size-adjust=
+: none; line-height: inherit;"> <tr align=3D"left" style=3D"-webkit-text-si=
+ze-adjust: none; line-height: inherit; border-collapse: collapse; padding: =
+0; text-align: left; vertical-align: top;" valign=3D"top"> <td align=3D"lef=
+t" style=3D"-webkit-text-size-adjust: none; -moz-hyphens: auto; -webkit-hyp=
+hens: auto; color: #515358; font-family: 'Open Sans',Arial,Helvetica,sans-s=
+erif; font-size: 14px; font-weight: normal; hyphens: auto; line-height: 20p=
+x; margin: 0; padding: 0; text-align: left; vertical-align: top; word-break=
+: break-word; border-collapse: collapse !important;" valign=3D"top"><a targ=
+et=3D"_blank" title=3D"PeoplePerHour" style=3D"-webkit-text-size-adjust: no=
+ne; line-height: inherit; color: #2BA6CB; text-decoration: none;" href=3D"h=
+ttps://links.peopleperhour.com/u/click?_t=3D340bd94a06c74003aba2913912feb81=
+a&_m=3D991074d5a5ad4fa789e0d837e678908e&_e=3DeQnDAMsSTuCVC9bqzzRWxN23wER-nr=
+yiA3j0k2Cg7MKt6J8VGGv6t9wniOCelEDEM0pxk5wS669v5WuQ9VklHqq77yIj5Qu6M5V-crCV6=
+BgQ2tW7EztCB92hp-L5dhWCpK-apBEVVA-31NaTnUUc_V9cQAVmTxATFbN1IFAjL-Xu8JwhvBny=
+-OdPIoO_FfNmui-OaUZxmMIoIt0sO78bT3P-T8UfcvP5RPq1JfF96cvq3IRt8dwsgl9OoALsNlp=
+FL0xxhi6yxXIwTAuJitSjfCfzp-j3aTa-EVU_NWj9pDbsNAbXpmxOTLtddRjf3XYeNzA6zGwkHw=
+jdEagxAzr-Ww%3D%3D"><img align=3D"left" alt=3D"PeoplePerHour.com" height=3D=
+"38" width=3D"195" style=3D"-webkit-text-size-adjust: none; line-height: in=
+herit; clear: both; display: block; width: auto; max-width: 100%; border: n=
+one; outline: none; text-decoration: none; float: left;" src=3D"https://www=
+.peopleperhour.com/img/icons-coloured/pph3_logo_job_done.png"></a></td> </t=
+r> </tbody> </table> <hr style=3D"-webkit-text-size-adjust: none; width: 10=
+0%; max-width: 825px; height: 2px; margin: 25px auto; line-height: 1; text-=
+align: center; border: 0 none; color: #DEDEDE; background-color: #DEDEDE;">=
+ <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"-webkit-t=
+ext-size-adjust: none; line-height: inherit; vertical-align: top; border-co=
+llapse: collapse; margin-bottom: 20px; width: 525px;" class=3D"headerlinks2=
+" width=3D"525" valign=3D"top"> <tbody style=3D"-webkit-text-size-adjust: n=
+one; line-height: inherit;"> <tr style=3D"-webkit-text-size-adjust: none; l=
+ine-height: inherit; vertical-align: top; border-collapse: collapse;" valig=
+n=3D"top"> <td width=3D"100" style=3D"-webkit-text-size-adjust: none; line-=
+height: inherit; vertical-align: top; border-collapse: collapse;" valign=3D=
+"top"><a style=3D"-webkit-text-size-adjust: none; line-height: inherit; dis=
+play: inline-block; width: 100%; height: 100%; font-size: 13px; font-family=
+: 'Open Sans', Arial, Helvetica, sans-serif; color: #707276; text-decoratio=
+n: none; text-transform: uppercase;" href=3D"https://links.peopleperhour.co=
+m/u/click?_t=3D340bd94a06c74003aba2913912feb81a&_m=3D991074d5a5ad4fa789e0d8=
+37e678908e&_e=3DeQnDAMsSTuCVC9bqzzRWxN23wER-nryiA3j0k2Cg7MLCFDiyX66AUkkskOo=
+-IT-JVxq7gknoNvKSB5HyObUkoMz0eWBJME6ZYJjx-JU6IkxhtuoYQU5CxqbYxQZmNn8NS3ZkDH=
+ZnBBNl1-YIfyHdHUCGyuNgAXC906hEEbk4Ljsdpj5cooVWQFHGyQvBpKxdulBloxYLJSPBaC9mL=
+Htn2Jy37eybf0EUfLrN4Ol8uFnpIJ6AyfdzAmOJBRTdeRQIOPtmzm8gCg7MxxYFaEXlkRcIXGH6=
+9ATM-Ej_3L9ULsatjTn70XzqQgsSQOXVUhg4eC2h_G75XxP3CVmxXGTchVytfmT8IxKyEzBeEFh=
+bGmw%3D">Dashboard</a></td> <td align=3D"center" style=3D"-webkit-text-size=
+-adjust: none; line-height: inherit; vertical-align: top; border-collapse: =
+collapse; text-align: center;" valign=3D"top"><a style=3D"-webkit-text-size=
+-adjust: none; line-height: inherit; display: inline-block; width: 100%; he=
+ight: 100%; font-size: 13px; font-family: 'Open Sans', Arial, Helvetica, sa=
+ns-serif; color: #707276; text-decoration: none; text-transform: uppercase;=
+" href=3D"https://links.peopleperhour.com/u/click?_t=3D340bd94a06c74003aba2=
+913912feb81a&_m=3D991074d5a5ad4fa789e0d837e678908e&_e=3DeQnDAMsSTuCVC9bqzzR=
+WxN23wER-nryiA3j0k2Cg7MKzQmuUytUrj-BQnzjmNq3u22qFuLv82VLjeaGMvWbrS9pmnZectU=
+TGuS7JNyHxP1cnyKLNPmPFu--qClhYi8ghjZ44n7TqJe_JvsRI2go7_1ABxM1ZSGLee1JhTXC23=
+dkaK0iMOdf6qklVNafEkafUH74cibkMXFsRC2D6_VBClSX8yIVUGSiYzxIoACrV5o-TP3TSvgZF=
+zZvGgvcyfykyo8ZO_JpR5aVoOx4u-PRSL_sX_1Cg31ToDhm1uswcUkhgDTnc8mH3znytYRL8FYS=
+XVQFX5n1UZzXefcmTaPvzVElHIspMQvyB6PRwZWd_Vtk%3D">Find A Freelancer</a></td>=
+ <td align=3D"center" style=3D"-webkit-text-size-adjust: none; line-height:=
+ inherit; vertical-align: top; border-collapse: collapse; text-align: cente=
+r;" valign=3D"top"><a style=3D"-webkit-text-size-adjust: none; line-height:=
+ inherit; display: inline-block; width: 100%; height: 100%; font-size: 13px=
+; font-family: 'Open Sans', Arial, Helvetica, sans-serif; color: #707276; t=
+ext-decoration: none; text-transform: uppercase;" href=3D"https://links.peo=
+pleperhour.com/u/click?_t=3D340bd94a06c74003aba2913912feb81a&_m=3D991074d5a=
+5ad4fa789e0d837e678908e&_e=3DeQnDAMsSTuCVC9bqzzRWxN23wER-nryiA3j0k2Cg7MKQfS=
+A9VjVaSONo0tZgtx97w4JKBdCCLJyHFviL2R7JHG4mII1w-6I8vMfxP7W3fTOu3qFVMtIzljdvD=
+rivRip2qqx_Zl3gikTRcxamnyPx_3QAz_tLzLDOH71SP6EeJqf27_gN7mFjGV5MSP4atpsnarsj=
+JHrikQgKbS-srMIolGetbsKU-uAGtgZqSlZ_ab6U60yCpuwKb1oI8mI2zZGzFui634UmlHF_YXh=
+OB7tYUxC6OD0SvVzuJlFXQan7iwdZjFGPMKbEc86FpiRgXRUZCn1ltDlhphUjwSrmqxyUuegmTx=
+CEWl-bDkGaLFF_Apw%3D">Search Hourlies</a></td> <td align=3D"center" style=
+=3D"-webkit-text-size-adjust: none; line-height: inherit; vertical-align: t=
+op; border-collapse: collapse; text-align: center;" valign=3D"top"><a style=
+=3D"-webkit-text-size-adjust: none; line-height: inherit; display: inline-b=
+lock; width: auto; height: 100%; padding: 3px 16px; font-size: 13px; font-w=
+eight: 600; color: #FF7300; text-decoration: none; font-family: 'Open Sans'=
+, Arial, Helvetica, sans-serif; border: 1px solid #FF7300; -webkit-border-r=
+adius: 4px; -moz-border-radius: 4px; border-radius: 4px; text-transform: up=
+percase;" href=3D"https://links.peopleperhour.com/u/click?_t=3D340bd94a06c7=
+4003aba2913912feb81a&_m=3D991074d5a5ad4fa789e0d837e678908e&_e=3DeQnDAMsSTuC=
+VC9bqzzRWxN23wER-nryiA3j0k2Cg7MIfFnS8r6YyE2sF-hKV8i-1l8qgOClQttJExRW6HcHFca=
+OMMCN1lJRNAYfol92rrmtzAnG949kfJj1fQNcNknwKFCCczRsEQOsT33v1ER-T-mayp3M8vcqZq=
+q6q7jGhem21Dr_qZD8ov5m8H5RmHvy9ch35fLOGdW5RKsPmHCQYtIN9IlhKXEqdCa6WJiuEJJv5=
+ebpThk1yhfmIWmajx5MXx46M19841LysXcF_V--tKRchS4XzcvIg2CZ1Je1aT9HkycacHKDomuJ=
+HyhpuRzcpYeTs9CaVionV2NugDtuN1tT90rr3rAI3PqlSS4dKihM%3D">Post A Job</a></td=
+> </tr> </tbody> </table> <table cellspacing=3D"0" style=3D"-webkit-text-si=
+ze-adjust: none; line-height: inherit; background-color: #ffffff; border-co=
+llapse: collapse; border-spacing: 0; margin: 0 auto; max-width: 525px; min-=
+width: 320px; padding: 0; text-align: inherit; vertical-align: top; width: =
+545px !important;" class=3D"block-grid" width=3D"545 !important" bgcolor=3D=
+"#ffffff" align=3D"inherit" valign=3D"top"> </table> </td> </tr> </tbody> <=
+/table> </div> <!--[if (!mso)&(!IE)]><!--></div> <!--<![endif]--></div> </d=
+iv> <!--[if (mso)|(IE)]></td> </tr> </table> </td> </tr> </table><![endif]-=
+-></div> </div> </div> <div style=3D"-webkit-text-size-adjust: none; line-h=
+eight: inherit; background-color: transparent;"> <div style=3D"-webkit-text=
+-size-adjust: none; line-height: inherit; Margin: 0 auto; min-width: 320px;=
+ max-width: 545px; overflow-wrap: break-word; word-wrap: break-word; word-b=
+reak: break-word; background-color: #FFFFFF; width: 545px !important;" clas=
+s=3D"block-grid "> <div style=3D"-webkit-text-size-adjust: none; line-heigh=
+t: inherit; border-collapse: collapse; display: table; width: 100%; backgro=
+und-color: #FFFFFF;"><!--[if (mso)|(IE)]><table width=3D"100%" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td style=3D"background-color:t=
+ransparent;" align=3D"center"> <table cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0" style=3D"width: 545px;"> <tr class=3D"layout-full-width" style=
+=3D"background-color:#FFFFFF;"><![endif]--><!--[if (mso)|(IE)]><td align=3D=
+"center" width=3D"545" style=3D" width:545px; padding-right: 0px; padding-l=
+eft: 0px; padding-top:5px; padding-bottom:5px; border-top: 0px solid transp=
+arent; border-left: 0px solid transparent; border-bottom: 0px solid transpa=
+rent; border-right: 0px solid transparent;" valign=3D"top"><![endif]--> <di=
+v style=3D"-webkit-text-size-adjust: none; line-height: inherit; min-width:=
+ 320px; max-width: 545px; display: table-cell; vertical-align: top; width: =
+545px !important;" class=3D"col num12"> <div style=3D"-webkit-text-size-adj=
+ust: none; line-height: inherit; background-color: transparent; width: 100%=
+ !important;"><!--[if (!mso)&(!IE)]><!--> <div style=3D"-webkit-text-size-a=
+djust: none; line-height: inherit; border-top: 0px solid transparent; borde=
+r-left: 0px solid transparent; border-bottom: 0px solid transparent; border=
+-right: 0px solid transparent; padding-top: 5px; padding-bottom: 5px; paddi=
+ng-right: 0px; padding-left: 0px;"><!--<![endif]--> <div align=3D"center" s=
+tyle=3D"-webkit-text-size-adjust: none; line-height: inherit; padding-right=
+: 0px; padding-left: 0px;" class=3D"img-container center autowidth fullwidt=
+h"><!--[if mso]><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0"> <tr> <td style=3D"padding-right: 0px; padding-left: 0px;" alig=
+n=3D"center"><![endif]--><a target=3D"_blank" href=3D"https://links.peoplep=
+erhour.com/u/click?_t=3D340bd94a06c74003aba2913912feb81a&_m=3D991074d5a5ad4=
+fa789e0d837e678908e&_e=3DeQnDAMsSTuCVC9bqzzRWxN23wER-nryiA3j0k2Cg7MKQfSA9Vj=
+VaSONo0tZgtx97w4JKBdCCLJyHFviL2R7JHG4mII1w-6I8vMfxP7W3fTOu3qFVMtIzljdvDrivR=
+ip2qqx_Zl3gikTRcxamnyPx_2oDG_1HtgsV6adu3y_Mc4hUvjxCVhyGRs8aIgj1ZaR1otrwSrYW=
+2YqCtvIIAeekvI2SYrqU3f9IsQP0XWvaotC5-ke9_ToisVjOZgQjbdWcwsAQJPKsmmkPRnUgbYQ=
+NTmWvaHSRybDIqR0KXSEmHSNcH_0-6CtN-J_WeTtW_UqQirCDBN0BzlNNk-SL62AJAxwmkkfXEm=
+76BijW6ndZmho%3D" style=3D"-webkit-text-size-adjust: none; line-height: inh=
+erit;"><img align=3D"center" alt=3D"Top Selling Hourlies" border=3D"0" titl=
+e=3D"Top Selling Hourlies" width=3D"545" style=3D"-webkit-text-size-adjust:=
+ none; line-height: inherit; outline: none; text-decoration: none; clear: b=
+oth; border: none; height: auto; width: 100%; max-width: 545px; display: bl=
+ock !important;" class=3D"center autowidth fullwidth" src=3D"https://pro-be=
+e-user-content-eu-west-1.s3.amazonaws.com/public/users/Integrators/669d5713=
+-9b6a-46bb-bd7e-c542cff6dd6a/340bd94a06c74003aba2913912feb81a/new-buyer-hea=
+ders/expert-guide.png"></a> <!--[if mso]></td> </tr> </table><![endif]--></=
+div> <!--[if (!mso)&(!IE)]><!--></div> <!--<![endif]--></div> </div> <!--[i=
+f (mso)|(IE)]></td> </tr> </table> </td> </tr> </table><![endif]--></div> <=
+/div> </div> <div style=3D"-webkit-text-size-adjust: none; line-height: inh=
+erit; background-color: transparent;"> <div style=3D"-webkit-text-size-adju=
+st: none; line-height: inherit; Margin: 0 auto; min-width: 320px; max-width=
+: 545px; overflow-wrap: break-word; word-wrap: break-word; word-break: brea=
+k-word; background-color: #FFFFFF; width: 545px !important;" class=3D"block=
+-grid "> <div style=3D"-webkit-text-size-adjust: none; line-height: inherit=
+; border-collapse: collapse; display: table; width: 100%; background-color:=
+ #FFFFFF;"><!--[if (mso)|(IE)]><table width=3D"100%" cellpadding=3D"0" cell=
+spacing=3D"0" border=3D"0"> <tr> <td style=3D"background-color:transparent;=
+" align=3D"center"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"=
+ style=3D"width: 545px;"> <tr class=3D"layout-full-width" style=3D"backgrou=
+nd-color:#FFFFFF;"><![endif]--><!--[if (mso)|(IE)]><td align=3D"center" wid=
+th=3D"545" style=3D" width:545px; padding-right: 0px; padding-left: 0px; pa=
+dding-top:5px; padding-bottom:0px; border-top: 0px solid transparent; borde=
+r-left: 0px solid transparent; border-bottom: 0px solid transparent; border=
+-right: 0px solid transparent;" valign=3D"top"><![endif]--> <div style=3D"-=
+webkit-text-size-adjust: none; line-height: inherit; min-width: 320px; max-=
+width: 545px; display: table-cell; vertical-align: top; width: 545px !impor=
+tant;" class=3D"col num12"> <div style=3D"-webkit-text-size-adjust: none; l=
+ine-height: inherit; background-color: transparent; width: 100% !important;=
+"><!--[if (!mso)&(!IE)]><!--> <div style=3D"-webkit-text-size-adjust: none;=
+ line-height: inherit; border-top: 0px solid transparent; border-left: 0px =
+solid transparent; border-bottom: 0px solid transparent; border-right: 0px =
+solid transparent; padding-top: 5px; padding-bottom: 0px; padding-right: 0p=
+x; padding-left: 0px;"><!--<![endif]--><!--[if mso]><table width=3D"100%" c=
+ellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td style=3D"padding-=
+right: 30px; padding-left: 30px; padding-top: 10px; padding-bottom: 10px;">=
+<![endif]--> <div style=3D"-webkit-text-size-adjust: none; color: #555555; =
+line-height: 120%; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, A=
+rial, sans-serif; padding-right: 30px; padding-left: 30px; padding-top: 10p=
+x; padding-bottom: 10px;"> <div style=3D"-webkit-text-size-adjust: none; fo=
+nt-size: 12px; line-height: 14px; color: #555555; font-family: 'Open Sans',=
+ 'Helvetica Neue', Helvetica, Arial, sans-serif; text-align: left;"> <p sty=
+le=3D"-webkit-text-size-adjust: none; margin: 0; font-size: 14px; line-heig=
+ht: 17px; text-align: center;"><strong style=3D"-webkit-text-size-adjust: n=
+one; line-height: inherit;">Hi Md Morshed</strong></p> <p style=3D"-webkit-=
+text-size-adjust: none; margin: 0; font-size: 14px; line-height: 17px; text=
+-align: center;"><strong style=3D"-webkit-text-size-adjust: none; line-heig=
+ht: inherit;">&nbsp;</strong></p> <p style=3D"-webkit-text-size-adjust: non=
+e; margin: 0; font-size: 12px; line-height: 14px; text-align: center;"><spa=
+n style=3D"-webkit-text-size-adjust: none; font-size: 14px; line-height: 16=
+px;">There is more than one way to find the perfect freelancer on PeoplePer=
+Hour. </span></p> <p style=3D"-webkit-text-size-adjust: none; margin: 0; fo=
+nt-size: 12px; line-height: 14px; text-align: center;"></p> <p style=3D"-we=
+bkit-text-size-adjust: none; margin: 0; font-size: 12px; line-height: 14px;=
+ text-align: center;"><span style=3D"-webkit-text-size-adjust: none; font-s=
+ize: 14px; line-height: 16px;">In fact, there are 3 easy ways to get your J=
+ob done!</span></p> </div> </div> <!--[if mso]></td> </tr> </table><![endif=
+]--><!--[if (!mso)&(!IE)]><!--></div> <!--<![endif]--></div> </div> <!--[if=
+ (mso)|(IE)]></td> </tr> </table> </td> </tr> </table><![endif]--></div> </=
+div> </div> <div style=3D"-webkit-text-size-adjust: none; line-height: inhe=
+rit; background-color: transparent;"> <div style=3D"-webkit-text-size-adjus=
+t: none; line-height: inherit; Margin: 0 auto; min-width: 320px; max-width:=
+ 545px; overflow-wrap: break-word; word-wrap: break-word; word-break: break=
+-word; background-color: #FFFFFF; width: 545px !important;" class=3D"block-=
+grid "> <div style=3D"-webkit-text-size-adjust: none; line-height: inherit;=
+ border-collapse: collapse; display: table; width: 100%; background-color: =
+#FFFFFF;"><!--[if (mso)|(IE)]><table width=3D"100%" cellpadding=3D"0" cells=
+pacing=3D"0" border=3D"0"> <tr> <td style=3D"background-color:transparent;"=
+ align=3D"center"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" =
+style=3D"width: 545px;"> <tr class=3D"layout-full-width" style=3D"backgroun=
+d-color:#FFFFFF;"><![endif]--><!--[if (mso)|(IE)]><td align=3D"center" widt=
+h=3D"545" style=3D" width:545px; padding-right: 15px; padding-left: 15px; p=
+adding-top:5px; padding-bottom:5px; border-top: 0px solid transparent; bord=
+er-left: 0px solid transparent; border-bottom: 0px solid transparent; borde=
+r-right: 0px solid transparent;" valign=3D"top"><![endif]--> <div style=3D"=
+-webkit-text-size-adjust: none; line-height: inherit; min-width: 320px; max=
+-width: 545px; display: table-cell; vertical-align: top; width: 545px !impo=
+rtant;" class=3D"col num12"> <div style=3D"-webkit-text-size-adjust: none; =
+line-height: inherit; background-color: transparent; width: 100% !important=
+;"><!--[if (!mso)&(!IE)]><!--> <div style=3D"-webkit-text-size-adjust: none=
+; line-height: inherit; border-top: 0px solid transparent; border-left: 0px=
+ solid transparent; border-bottom: 0px solid transparent; border-right: 0px=
+ solid transparent; padding-top: 5px; padding-bottom: 5px; padding-right: 1=
+5px; padding-left: 15px;"><!--<![endif]--><!--[if mso]><table width=3D"100%=
+" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td style=3D"paddi=
+ng-right: 10px; padding-left: 10px; padding-top: 10px; padding-bottom: 10px=
+;"><![endif]--> <div style=3D"-webkit-text-size-adjust: none; color: #55555=
+5; line-height: 120%; font-family: 'Open Sans', 'Helvetica Neue', Helvetica=
+, Arial, sans-serif; padding-right: 10px; padding-left: 10px; padding-top: =
+10px; padding-bottom: 10px;"> <div style=3D"-webkit-text-size-adjust: none;=
+ font-size: 12px; line-height: 14px; color: #555555; font-family: 'Open San=
+s', 'Helvetica Neue', Helvetica, Arial, sans-serif; text-align: left;"> <p =
+style=3D"-webkit-text-size-adjust: none; margin: 0; font-size: 14px; line-h=
+eight: 17px; text-align: center;"><span style=3D"-webkit-text-size-adjust: =
+none; font-size: 16px; line-height: 19px;"><strong style=3D"-webkit-text-si=
+ze-adjust: none; line-height: inherit;">1) Want a range of proposals? Post =
+a Job.</strong></span></p> <p style=3D"-webkit-text-size-adjust: none; marg=
+in: 0; font-size: 14px; line-height: 17px; text-align: center;"></p> <p sty=
+le=3D"-webkit-text-size-adjust: none; margin: 0; font-size: 12px; line-heig=
+ht: 14px; text-align: center;"><span style=3D"-webkit-text-size-adjust: non=
+e; font-size: 14px; line-height: 16px;">=E2=80=A2&nbsp; Freelancers come to=
+ you</span></p> <p style=3D"-webkit-text-size-adjust: none; margin: 0; font=
+-size: 12px; line-height: 14px; text-align: center;"><span style=3D"-webkit=
+-text-size-adjust: none; font-size: 14px; line-height: 16px;">=E2=80=A2&nbs=
+p; A range of proposals to choose from</span></p> <p style=3D"-webkit-text-=
+size-adjust: none; margin: 0; font-size: 12px; line-height: 14px; text-alig=
+n: center;"><span style=3D"-webkit-text-size-adjust: none; font-size: 14px;=
+ line-height: 16px;">=E2=80=A2&nbsp; Your copyrights protected automaticall=
+y</span></p> </div> </div> <!--[if mso]></td> </tr> </table><![endif]--> <d=
+iv align=3D"center" style=3D"-webkit-text-size-adjust: none; line-height: i=
+nherit; padding-right: 10px; padding-left: 10px; padding-top: 10px; padding=
+-bottom: 10px;" class=3D"button-container center"><!--[if mso]><table width=
+=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border-=
+spacing: 0; border-collapse: collapse; mso-table-lspace:0pt; mso-table-rspa=
+ce:0pt;"> <tr> <td style=3D"padding-right: 10px; padding-left: 10px; paddin=
+g-top:10px; padding-bottom:10px;" align=3D"center"> <v:roundrect xmlns:v=3D=
+"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:schemas-microsoft-com:office=
+:word" href=3D"https://links.peopleperhour.com/u/click?_t=3D340bd94a06c7400=
+3aba2913912feb81a&_m=3D991074d5a5ad4fa789e0d837e678908e&_e=3DeQnDAMsSTuCVC9=
+bqzzRWxN23wER-nryiA3j0k2Cg7MIfFnS8r6YyE2sF-hKV8i-1l8qgOClQttJExRW6HcHFcaOMM=
+CN1lJRNAYfol92rrmtzAnG949kfJj1fQNcNknwKFCCczRsEQOsT33v1ER-T-g2g--cJwXHlhBGn=
+4eLHlpzPi5eMFqXLdPtz7AwXwN6iIrk2WjR6sN8S4UwU2Xrhw9e_TjxKNGOv9GWgtpme4cTgDbC=
+1vNNId-eTymC6sipUyiMMcwlwiDdp3cv9YAk30TYC7bcHBudsprrXrsHtIgJh-P9QpjnNtHFoT3=
+z3-xhP9y1zr9UBslCWXPgSQxIx3Pan7sbsGsPEMgOUqVf5ZTU%3D" style=3D"height:24pt;=
+ v-text-anchor:middle; width:75pt;" arcsize=3D"13%" strokecolor=3D"#ff7300"=
+ fillcolor=3D"#ff7300"> <w:anchorlock/> <v:textbox inset=3D"0,0,0,0"> <cent=
+er style=3D"color:#ffffff; font-family:'Open Sans', 'Helvetica Neue', Helve=
+tica, Arial, sans-serif; font-size:16px;"><![endif]--><a target=3D"_blank" =
+style=3D"line-height: inherit; display: block; text-decoration: none; -webk=
+it-text-size-adjust: none; text-align: center; color: #ffffff; background-c=
+olor: #ff7300; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-=
+radius: 4px; max-width: 101px; width: 81px; width: auto; border-top: 0px so=
+lid transparent; border-right: 0px solid transparent; border-bottom: 0px so=
+lid transparent; border-left: 0px solid transparent; padding-top: 0px; padd=
+ing-right: 10px; padding-bottom: 0px; padding-left: 10px; font-family: 'Ope=
+n Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; mso-border-alt: no=
+ne;" href=3D"https://links.peopleperhour.com/u/click?_t=3D340bd94a06c74003a=
+ba2913912feb81a&_m=3D991074d5a5ad4fa789e0d837e678908e&_e=3DeQnDAMsSTuCVC9bq=
+zzRWxN23wER-nryiA3j0k2Cg7MIfFnS8r6YyE2sF-hKV8i-1l8qgOClQttJExRW6HcHFcaOMMCN=
+1lJRNAYfol92rrmtzAnG949kfJj1fQNcNknwKFCCczRsEQOsT33v1ER-T-gyrYfh-rNRPcjrCDX=
+GRLH84YfwRo_EyXRQ1p1irYjwLSq9QH-zUP4rlm59-Mp39IkGR8yh8nWXoQmDiDj_Kx16LoB5Gc=
+UxBaPiusAEqpXbT_vyAHYB5YnM7_bCl_TAanVw9t70q2s_hCcpQtGHaJb2AX3sC_0aJMwuJy5uo=
+oUpzwbnpCzyrc797Vt4wcdMS3xdHm1j5okeTOdU9wR7zxzI%3D"><span style=3D"-webkit-=
+text-size-adjust: none; font-size: 16px; line-height: 32px;"><span data-mce=
+-style=3D"font-size: 14px;" style=3D"-webkit-text-size-adjust: none; font-s=
+ize: 14px; line-height: 28px;"><strong style=3D"-webkit-text-size-adjust: n=
+one; line-height: inherit;">POST A JOB</strong></span></span></a> <!--[if m=
+so]></center> </v:textbox> </v:roundrect> </td> </tr> </table><![endif]--><=
+/div> <!--[if (!mso)&(!IE)]><!--></div> <!--<![endif]--></div> </div> <!--[=
+if (mso)|(IE)]></td> </tr> </table> </td> </tr> </table><![endif]--></div> =
+</div> </div> <div style=3D"-webkit-text-size-adjust: none; line-height: in=
+herit; background-color: transparent;"> <div style=3D"-webkit-text-size-adj=
+ust: none; line-height: inherit; Margin: 0 auto; min-width: 320px; max-widt=
+h: 545px; overflow-wrap: break-word; word-wrap: break-word; word-break: bre=
+ak-word; background-color: #FFFFFF; width: 545px !important;" class=3D"bloc=
+k-grid "> <div style=3D"-webkit-text-size-adjust: none; line-height: inheri=
+t; border-collapse: collapse; display: table; width: 100%; background-color=
+: #FFFFFF;"><!--[if (mso)|(IE)]><table width=3D"100%" cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0"> <tr> <td style=3D"background-color:transparent=
+;" align=3D"center"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+" style=3D"width: 545px;"> <tr class=3D"layout-full-width" style=3D"backgro=
+und-color:#FFFFFF;"><![endif]--><!--[if (mso)|(IE)]><td align=3D"center" wi=
+dth=3D"545" style=3D" width:545px; padding-right: 15px; padding-left: 15px;=
+ padding-top:5px; padding-bottom:5px; border-top: 0px solid transparent; bo=
+rder-left: 0px solid transparent; border-bottom: 0px solid transparent; bor=
+der-right: 0px solid transparent;" valign=3D"top"><![endif]--> <div style=
+=3D"-webkit-text-size-adjust: none; line-height: inherit; min-width: 320px;=
+ max-width: 545px; display: table-cell; vertical-align: top; width: 545px !=
+important;" class=3D"col num12"> <div style=3D"-webkit-text-size-adjust: no=
+ne; line-height: inherit; background-color: transparent; width: 100% !impor=
+tant;"><!--[if (!mso)&(!IE)]><!--> <div style=3D"-webkit-text-size-adjust: =
+none; line-height: inherit; border-top: 0px solid transparent; border-left:=
+ 0px solid transparent; border-bottom: 0px solid transparent; border-right:=
+ 0px solid transparent; padding-top: 5px; padding-bottom: 5px; padding-righ=
+t: 15px; padding-left: 15px;"><!--<![endif]--> <table border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" style=3D"line-height: inherit; -ms-text-size-ad=
+just: 100%; -webkit-text-size-adjust: 100%; border-collapse: collapse; bord=
+er-spacing: 0; min-width: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0p=
+t; table-layout: fixed; vertical-align: top; width: 100%;" class=3D"divider=
+" width=3D"100%" valign=3D"top"> <tbody style=3D"-webkit-text-size-adjust: =
+none; line-height: inherit;"> <tr style=3D"-webkit-text-size-adjust: none; =
+line-height: inherit; border-collapse: collapse; vertical-align: top;" vali=
+gn=3D"top"> <td style=3D"line-height: inherit; -ms-text-size-adjust: 100%; =
+-webkit-text-size-adjust: 100%; min-width: 100%; mso-line-height-rule: exac=
+tly; padding-bottom: 30px; padding-left: 10px; padding-right: 10px; padding=
+-top: 20px; vertical-align: top; word-break: break-word; border-collapse: c=
+ollapse !important;" class=3D"divider_inner" valign=3D"top"> <table align=
+=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"line-=
+height: inherit; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%=
+; border-collapse: collapse; border-spacing: 0; border-top: 1px solid #bbbb=
+bb; mso-table-lspace: 0pt; mso-table-rspace: 0pt; table-layout: fixed; vert=
+ical-align: top; width: 70%;" class=3D"divider_content" width=3D"70%" valig=
+n=3D"top"> <tbody style=3D"-webkit-text-size-adjust: none; line-height: inh=
+erit;"> <tr style=3D"-webkit-text-size-adjust: none; line-height: inherit; =
+border-collapse: collapse; vertical-align: top;" valign=3D"top"> <td style=
+=3D"line-height: inherit; -ms-text-size-adjust: 100%; -webkit-text-size-adj=
+ust: 100%; mso-line-height-rule: exactly; vertical-align: top; word-break: =
+break-word; border-collapse: collapse !important;" valign=3D"top"></td> </t=
+r> </tbody> </table> </td> </tr> </tbody> </table> <!--[if mso]><table widt=
+h=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td style=
+=3D"padding-right: 10px; padding-left: 10px; padding-top: 10px; padding-bot=
+tom: 10px;"><![endif]--> <div style=3D"-webkit-text-size-adjust: none; colo=
+r: #555555; line-height: 120%; font-family: 'Open Sans', 'Helvetica Neue', =
+Helvetica, Arial, sans-serif; padding-right: 10px; padding-left: 10px; padd=
+ing-top: 10px; padding-bottom: 10px;"> <div style=3D"-webkit-text-size-adju=
+st: none; font-size: 12px; line-height: 14px; color: #555555; font-family: =
+'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; text-align: le=
+ft;"> <p style=3D"-webkit-text-size-adjust: none; margin: 0; font-size: 14p=
+x; line-height: 17px; text-align: center;"><span style=3D"-webkit-text-size=
+-adjust: none; font-size: 16px; line-height: 19px;"><strong style=3D"-webki=
+t-text-size-adjust: none; line-height: inherit;">2) Looking for a straightf=
+orward solution? Check Hourlies.</strong></span></p> <p style=3D"-webkit-te=
+xt-size-adjust: none; margin: 0; font-size: 14px; line-height: 17px; text-a=
+lign: center;"></p> <p style=3D"-webkit-text-size-adjust: none; margin: 0; =
+font-size: 12px; line-height: 14px; text-align: center;"><span style=3D"-we=
+bkit-text-size-adjust: none; font-size: 14px; line-height: 16px;">=E2=80=A2=
+&nbsp; Pre-packaged, well-defined services</span></p> <p style=3D"-webkit-t=
+ext-size-adjust: none; margin: 0; font-size: 12px; line-height: 14px; text-=
+align: center;"><span style=3D"-webkit-text-size-adjust: none; font-size: 1=
+4px; line-height: 16px;">=E2=80=A2&nbsp; Fixed price</span></p> <p style=3D=
+"-webkit-text-size-adjust: none; margin: 0; font-size: 12px; line-height: 1=
+4px; text-align: center;"><span style=3D"-webkit-text-size-adjust: none; fo=
+nt-size: 14px; line-height: 16px;">=E2=80=A2&nbsp; Fast turn-around</span><=
+/p> </div> </div> <!--[if mso]></td> </tr> </table><![endif]--> <div align=
+=3D"center" style=3D"-webkit-text-size-adjust: none; line-height: inherit; =
+padding-right: 10px; padding-left: 10px; padding-top: 10px; padding-bottom:=
+ 10px;" class=3D"button-container center"><!--[if mso]><table width=3D"100%=
+" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border-spacing:=
+ 0; border-collapse: collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;"=
+> <tr> <td style=3D"padding-right: 10px; padding-left: 10px; padding-top:10=
+px; padding-bottom:10px;" align=3D"center"> <v:roundrect xmlns:v=3D"urn:sch=
+emas-microsoft-com:vml" xmlns:w=3D"urn:schemas-microsoft-com:office:word" h=
+ref=3D"https://links.peopleperhour.com/u/click?_t=3D340bd94a06c74003aba2913=
+912feb81a&_m=3D991074d5a5ad4fa789e0d837e678908e&_e=3DeQnDAMsSTuCVC9bqzzRWxN=
+23wER-nryiA3j0k2Cg7MKQfSA9VjVaSONo0tZgtx97w4JKBdCCLJyHFviL2R7JHG4mII1w-6I8v=
+MfxP7W3fTOu3qFVMtIzljdvDrivRip2qqx_Zl3gikTRcxamnyPx_0jkkaWYmBCWdlh5kNMa7Ahk=
+7kysrKsRkQOZUBhyK78tMKGeUhzBVFKuMQc-zN75pzC_PqgMCTTqggX5Lb8eBMGEY-3fN-5_8b5=
+EkPV-pw-HxrQGjlKH5izHWnMCHxssW-oS5nvc5lHgHrUXmIWSe0DvjTTonviNl7X_McTCoKT5Ru=
+8ginUclPwLmMMZvshsipZNoqyV2z46ZL1LGdE4pSs%3D" style=3D"height:24pt; v-text-=
+anchor:middle; width:114pt;" arcsize=3D"13%" strokecolor=3D"#ff7300" fillco=
+lor=3D"#ff7300"> <w:anchorlock/> <v:textbox inset=3D"0,0,0,0"> <center styl=
+e=3D"color:#ffffff; font-family:'Open Sans', 'Helvetica Neue', Helvetica, A=
+rial, sans-serif; font-size:16px;"><![endif]--><a target=3D"_blank" style=
+=3D"line-height: inherit; display: block; text-decoration: none; -webkit-te=
+xt-size-adjust: none; text-align: center; color: #ffffff; background-color:=
+ #ff7300; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radiu=
+s: 4px; max-width: 153px; width: 133px; width: auto; border-top: 0px solid =
+transparent; border-right: 0px solid transparent; border-bottom: 0px solid =
+transparent; border-left: 0px solid transparent; padding-top: 0px; padding-=
+right: 10px; padding-bottom: 0px; padding-left: 10px; font-family: 'Open Sa=
+ns', 'Helvetica Neue', Helvetica, Arial, sans-serif; mso-border-alt: none;"=
+ href=3D"https://links.peopleperhour.com/u/click?_t=3D340bd94a06c74003aba29=
+13912feb81a&_m=3D991074d5a5ad4fa789e0d837e678908e&_e=3DeQnDAMsSTuCVC9bqzzRW=
+xN23wER-nryiA3j0k2Cg7MKQfSA9VjVaSONo0tZgtx97w4JKBdCCLJyHFviL2R7JHG4mII1w-6I=
+8vMfxP7W3fTOu3qFVMtIzljdvDrivRip2qqx_Zl3gikTRcxamnyPx__N3p8AYO-NRokACi2QLlo=
+OyU2K3gTKH0lb8F-CMTnaAPK4PTgqozAEabfNdrOgmuDU-ZD8PTeN2YpHmKVR6WUhLJ8nVsbs4H=
+xKXPpNiignQ4VAiFEQ_t7ictKzIXIpJ5jIDyux3y8vLYKzMt-E_h-bcNljDprVM7EhPZftum5c2=
+CJZ2DZn-sk4TTf8CFt9s_keEaDVcpHYb6RlQGuH7Xgw%3D"><span style=3D"-webkit-text=
+-size-adjust: none; font-size: 16px; line-height: 32px;"><span data-mce-sty=
+le=3D"font-size: 14px;" style=3D"-webkit-text-size-adjust: none; font-size:=
+ 14px; line-height: 28px;"><strong style=3D"-webkit-text-size-adjust: none;=
+ line-height: inherit;">BROWSE HOURLIES</strong></span></span></a> <!--[if =
+mso]></center> </v:textbox> </v:roundrect> </td> </tr> </table><![endif]-->=
+</div> <!--[if (!mso)&(!IE)]><!--></div> <!--<![endif]--></div> </div> <!--=
+[if (mso)|(IE)]></td> </tr> </table> </td> </tr> </table><![endif]--></div>=
+ </div> </div> <div style=3D"-webkit-text-size-adjust: none; line-height: i=
+nherit; background-color: transparent;"> <div style=3D"-webkit-text-size-ad=
+just: none; line-height: inherit; Margin: 0 auto; min-width: 320px; max-wid=
+th: 545px; overflow-wrap: break-word; word-wrap: break-word; word-break: br=
+eak-word; background-color: #FFFFFF; width: 545px !important;" class=3D"blo=
+ck-grid "> <div style=3D"-webkit-text-size-adjust: none; line-height: inher=
+it; border-collapse: collapse; display: table; width: 100%; background-colo=
+r: #FFFFFF;"><!--[if (mso)|(IE)]><table width=3D"100%" cellpadding=3D"0" ce=
+llspacing=3D"0" border=3D"0"> <tr> <td style=3D"background-color:transparen=
+t;" align=3D"center"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"=
+0" style=3D"width: 545px;"> <tr class=3D"layout-full-width" style=3D"backgr=
+ound-color:#FFFFFF;"><![endif]--><!--[if (mso)|(IE)]><td align=3D"center" w=
+idth=3D"545" style=3D" width:545px; padding-right: 15px; padding-left: 15px=
+; padding-top:5px; padding-bottom:15px; border-top: 0px solid transparent; =
+border-left: 0px solid transparent; border-bottom: 0px solid transparent; b=
+order-right: 0px solid transparent;" valign=3D"top"><![endif]--> <div style=
+=3D"-webkit-text-size-adjust: none; line-height: inherit; min-width: 320px;=
+ max-width: 545px; display: table-cell; vertical-align: top; width: 545px !=
+important;" class=3D"col num12"> <div style=3D"-webkit-text-size-adjust: no=
+ne; line-height: inherit; background-color: transparent; width: 100% !impor=
+tant;"><!--[if (!mso)&(!IE)]><!--> <div style=3D"-webkit-text-size-adjust: =
+none; line-height: inherit; border-top: 0px solid transparent; border-left:=
+ 0px solid transparent; border-bottom: 0px solid transparent; border-right:=
+ 0px solid transparent; padding-top: 5px; padding-bottom: 15px; padding-rig=
+ht: 15px; padding-left: 15px;"><!--<![endif]--> <table border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" style=3D"line-height: inherit; -ms-text-size-a=
+djust: 100%; -webkit-text-size-adjust: 100%; border-collapse: collapse; bor=
+der-spacing: 0; min-width: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0=
+pt; table-layout: fixed; vertical-align: top; width: 100%;" class=3D"divide=
+r" width=3D"100%" valign=3D"top"> <tbody style=3D"-webkit-text-size-adjust:=
+ none; line-height: inherit;"> <tr style=3D"-webkit-text-size-adjust: none;=
+ line-height: inherit; border-collapse: collapse; vertical-align: top;" val=
+ign=3D"top"> <td style=3D"line-height: inherit; -ms-text-size-adjust: 100%;=
+ -webkit-text-size-adjust: 100%; min-width: 100%; mso-line-height-rule: exa=
+ctly; padding-bottom: 30px; padding-left: 10px; padding-right: 10px; paddin=
+g-top: 20px; vertical-align: top; word-break: break-word; border-collapse: =
+collapse !important;" class=3D"divider_inner" valign=3D"top"> <table align=
+=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"line-=
+height: inherit; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%=
+; border-collapse: collapse; border-spacing: 0; border-top: 1px solid #bbbb=
+bb; mso-table-lspace: 0pt; mso-table-rspace: 0pt; table-layout: fixed; vert=
+ical-align: top; width: 70%;" class=3D"divider_content" width=3D"70%" valig=
+n=3D"top"> <tbody style=3D"-webkit-text-size-adjust: none; line-height: inh=
+erit;"> <tr style=3D"-webkit-text-size-adjust: none; line-height: inherit; =
+border-collapse: collapse; vertical-align: top;" valign=3D"top"> <td style=
+=3D"line-height: inherit; -ms-text-size-adjust: 100%; -webkit-text-size-adj=
+ust: 100%; mso-line-height-rule: exactly; vertical-align: top; word-break: =
+break-word; border-collapse: collapse !important;" valign=3D"top"></td> </t=
+r> </tbody> </table> </td> </tr> </tbody> </table> <!--[if mso]><table widt=
+h=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td style=
+=3D"padding-right: 10px; padding-left: 10px; padding-top: 10px; padding-bot=
+tom: 10px;"><![endif]--> <div style=3D"-webkit-text-size-adjust: none; colo=
+r: #555555; line-height: 120%; font-family: 'Open Sans', 'Helvetica Neue', =
+Helvetica, Arial, sans-serif; padding-right: 10px; padding-left: 10px; padd=
+ing-top: 10px; padding-bottom: 10px;"> <div style=3D"-webkit-text-size-adju=
+st: none; font-size: 12px; line-height: 14px; color: #555555; font-family: =
+'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; text-align: le=
+ft;"> <p style=3D"-webkit-text-size-adjust: none; margin: 0; font-size: 14p=
+x; line-height: 17px; text-align: center;"><span style=3D"-webkit-text-size=
+-adjust: none; font-size: 16px; line-height: 19px;"><strong style=3D"-webki=
+t-text-size-adjust: none; line-height: inherit;">3) Could use a specific sk=
+ill? Search freelancers.</strong></span></p> <p style=3D"-webkit-text-size-=
+adjust: none; margin: 0; font-size: 14px; line-height: 17px; text-align: ce=
+nter;"></p> <p style=3D"-webkit-text-size-adjust: none; margin: 0; font-siz=
+e: 12px; line-height: 14px; text-align: center;"><span style=3D"-webkit-tex=
+t-size-adjust: none; font-size: 14px; line-height: 16px;">=E2=80=A2&nbsp; I=
+nstant, direct access to the best talent </span></p> <p style=3D"-webkit-te=
+xt-size-adjust: none; margin: 0; font-size: 12px; line-height: 14px; text-a=
+lign: center;"><span style=3D"-webkit-text-size-adjust: none; font-size: 14=
+px; line-height: 16px;">=E2=80=A2&nbsp; Portfolio and work samples at hand =
+</span></p> <p style=3D"-webkit-text-size-adjust: none; margin: 0; font-siz=
+e: 12px; line-height: 14px; text-align: center;"><span style=3D"-webkit-tex=
+t-size-adjust: none; font-size: 14px; line-height: 16px;">=E2=80=A2&nbsp; F=
+eedback and reviews from past clients</span></p> </div> </div> <!--[if mso]=
+></td> </tr> </table><![endif]--> <div align=3D"center" style=3D"-webkit-te=
+xt-size-adjust: none; line-height: inherit; padding-right: 10px; padding-le=
+ft: 10px; padding-top: 10px; padding-bottom: 10px;" class=3D"button-contain=
+er center"><!--[if mso]><table width=3D"100%" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" style=3D"border-spacing: 0; border-collapse: collapse; =
+mso-table-lspace:0pt; mso-table-rspace:0pt;"> <tr> <td style=3D"padding-rig=
+ht: 10px; padding-left: 10px; padding-top:10px; padding-bottom:10px;" align=
+=3D"center"> <v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=
+=3D"urn:schemas-microsoft-com:office:word" href=3D"https://links.peopleperh=
+our.com/u/click?_t=3D340bd94a06c74003aba2913912feb81a&_m=3D991074d5a5ad4fa7=
+89e0d837e678908e&_e=3DeQnDAMsSTuCVC9bqzzRWxN23wER-nryiA3j0k2Cg7MKzQmuUytUrj=
+-BQnzjmNq3u22qFuLv82VLjeaGMvWbrS9pmnZectUTGuS7JNyHxP1cnyKLNPmPFu--qClhYi8gh=
+jZ44n7TqJe_JvsRI2go7_0ID3s7u8RPuq52mFNp0cY08CF6ToCVV3Mey7_esRRo19u8kBubCpnu=
+HfnWhpkgux6lZ7DN2z_9p8C9H-V4UnooZ1rUc1VL6t7uBBJ3yJRLWpWwT1NNt5HQbIHEmy_pTF7=
+HKVeo1YUBFcJtqHcWv0-ghvBBBYBRKmbULD1SvxKRCONcrB5XniIVbhOF4Skr0suguWwMDGS4Ud=
+1vC51XBtoo%3D" style=3D"height:24pt; v-text-anchor:middle; width:129pt;" ar=
+csize=3D"13%" strokecolor=3D"#ff7300" fillcolor=3D"#ff7300"> <w:anchorlock/=
+> <v:textbox inset=3D"0,0,0,0"> <center style=3D"color:#ffffff; font-family=
+:'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:16p=
+x;"><![endif]--><a target=3D"_blank" style=3D"line-height: inherit; display=
+: block; text-decoration: none; -webkit-text-size-adjust: none; text-align:=
+ center; color: #ffffff; background-color: #ff7300; border-radius: 4px; -we=
+bkit-border-radius: 4px; -moz-border-radius: 4px; max-width: 173px; width: =
+153px; width: auto; border-top: 0px solid transparent; border-right: 0px so=
+lid transparent; border-bottom: 0px solid transparent; border-left: 0px sol=
+id transparent; padding-top: 0px; padding-right: 10px; padding-bottom: 0px;=
+ padding-left: 10px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica,=
+ Arial, sans-serif; mso-border-alt: none;" href=3D"https://links.peopleperh=
+our.com/u/click?_t=3D340bd94a06c74003aba2913912feb81a&_m=3D991074d5a5ad4fa7=
+89e0d837e678908e&_e=3DeQnDAMsSTuCVC9bqzzRWxN23wER-nryiA3j0k2Cg7MKzQmuUytUrj=
+-BQnzjmNq3u22qFuLv82VLjeaGMvWbrS9pmnZectUTGuS7JNyHxP1cnyKLNPmPFu--qClhYi8gh=
+jZ44n7TqJe_JvsRI2go7_6Ndp0QYuaTIhcSs5ukh9JLNqPfIQm1qkt5RP0bx4MCFavSdzX52kNa=
+yOo281H9iYoYf9RXsEkBVj_feubfJjIJpjZZh_ujOqdxqa2G7l4T7KTOLIK16yb1Ww1l5q58FMR=
+6rZTl3u4XTLmBlEBK09RJHQwF87SxJ2seJzdCeWos_K7hE-ri-386Z0Qn3-dOLmpNhaVzFupuTF=
+kjdqDmx74Q%3D"><span style=3D"-webkit-text-size-adjust: none; font-size: 16=
+px; line-height: 32px;"><span data-mce-style=3D"font-size: 14px;" style=3D"=
+-webkit-text-size-adjust: none; font-size: 14px; line-height: 28px;"><stron=
+g style=3D"-webkit-text-size-adjust: none; line-height: inherit;">SEARCH FR=
+EELANCERS</strong></span></span></a> <!--[if mso]></center> </v:textbox> </=
+v:roundrect> </td> </tr> </table><![endif]--></div> <!--[if (!mso)&(!IE)]><=
+!--></div> <!--<![endif]--></div> </div> <!--[if (mso)|(IE)]></td> </tr> </=
+table> </td> </tr> </table><![endif]--></div> </div> </div> <div style=3D"-=
+webkit-text-size-adjust: none; line-height: inherit; background-color: tran=
+sparent;"> <div style=3D"-webkit-text-size-adjust: none; line-height: inher=
+it; Margin: 0 auto; min-width: 320px; max-width: 545px; overflow-wrap: brea=
+k-word; word-wrap: break-word; word-break: break-word; background-color: #f=
+8f9fc; width: 545px !important;" class=3D"block-grid "> <div style=3D"-webk=
+it-text-size-adjust: none; line-height: inherit; border-collapse: collapse;=
+ display: table; width: 100%; background-color: #f8f9fc;"><!--[if (mso)|(IE=
+)]><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> =
+<tr> <td style=3D"background-color:transparent;" align=3D"center"> <table c=
+ellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width: 545px;"> <t=
+r class=3D"layout-full-width" style=3D"background-color:#f8f9fc;"><![endif]=
+--><!--[if (mso)|(IE)]><td align=3D"center" width=3D"545" style=3D" width:5=
+45px; padding-right: 0px; padding-left: 0px; padding-top:10px; padding-bott=
+om:0px; border-top: 0px solid transparent; border-left: 0px solid transpare=
+nt; border-bottom: 0px solid transparent; border-right: 0px solid transpare=
+nt;" valign=3D"top"><![endif]--> <div style=3D"-webkit-text-size-adjust: no=
+ne; line-height: inherit; min-width: 320px; max-width: 545px; display: tabl=
+e-cell; vertical-align: top; width: 545px !important;" class=3D"col num12">=
+ <div style=3D"-webkit-text-size-adjust: none; line-height: inherit; backgr=
+ound-color: transparent; width: 100% !important;"><!--[if (!mso)&(!IE)]><!-=
+-> <div style=3D"-webkit-text-size-adjust: none; line-height: inherit; bord=
+er-top: 0px solid transparent; border-left: 0px solid transparent; border-b=
+ottom: 0px solid transparent; border-right: 0px solid transparent; padding-=
+top: 10px; padding-bottom: 0px; padding-right: 0px; padding-left: 0px;"><!-=
+-<![endif]--><!--[if mso]><table width=3D"100%" cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0"> <tr> <td style=3D"padding-right: 10px; padding-left:=
+ 10px; padding-top: 10px; padding-bottom: 10px;"><![endif]--> <div style=3D=
+"-webkit-text-size-adjust: none; color: #32353b; line-height: 120%; font-fa=
+mily: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; padding-=
+right: 10px; padding-left: 10px; padding-top: 10px; padding-bottom: 10px;">=
+ <div style=3D"-webkit-text-size-adjust: none; font-size: 12px; line-height=
+: 14px; color: #32353b; font-family: 'Open Sans', 'Helvetica Neue', Helveti=
+ca, Arial, sans-serif; text-align: left;"> <p style=3D"-webkit-text-size-ad=
+just: none; margin: 0; font-size: 14px; line-height: 17px; text-align: cent=
+er;"><span style=3D"-webkit-text-size-adjust: none; font-size: 16px; line-h=
+eight: 19px;"><strong style=3D"-webkit-text-size-adjust: none; line-height:=
+ inherit;">Why outsource through PeoplePerHour?</strong></span></p> </div> =
+</div> <!--[if mso]></td> </tr> </table><![endif]--><!--[if (!mso)&(!IE)]><=
+!--></div> <!--<![endif]--></div> </div> <!--[if (mso)|(IE)]></td> </tr> </=
+table> </td> </tr> </table><![endif]--></div> </div> </div> <div style=3D"-=
+webkit-text-size-adjust: none; line-height: inherit; background-color: tran=
+sparent;"> <div style=3D"-webkit-text-size-adjust: none; line-height: inher=
+it; Margin: 0 auto; overflow-wrap: break-word; word-wrap: break-word; word-=
+break: break-word; background-color: #f8f9fc; width: 545px !important;" cla=
+ss=3D"block-grid three-up "> <div style=3D"-webkit-text-size-adjust: none; =
+line-height: inherit; border-collapse: collapse; display: table; width: 545=
+px; background-color: #f8f9fc;"><!--[if (mso)|(IE)]><table width=3D"545" ce=
+llpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td style=3D"backgroun=
+d-color:transparent;" align=3D"center"> <table cellpadding=3D"0" cellspacin=
+g=3D"0" border=3D"0" style=3D"width: 545px;"> <tr class=3D"layout-full-widt=
+h" style=3D"background-color:#f8f9fc;"><![endif]--><!--[if (mso)|(IE)]><td =
+align=3D"center" width=3D"182" style=3D" width:182px; padding-right: 0px; p=
+adding-left: 0px; padding-top:5px; padding-bottom:15px; border-top: 0px sol=
+id transparent; border-left: 0px solid transparent; border-bottom: 0px soli=
+d transparent; border-right: 0px solid transparent;" valign=3D"top"><![endi=
+f]--> <div style=3D"-webkit-text-size-adjust: none; line-height: inherit; m=
+ax-width: 320px; min-width: 181px; display: table-cell; vertical-align: top=
+; width: 181px !important;" class=3D"col num4"> <div style=3D"-webkit-text-=
+size-adjust: none; line-height: inherit; background-color: transparent; wid=
+th: 100% !important;"><!--[if (!mso)&(!IE)]><!--> <div style=3D"-webkit-tex=
+t-size-adjust: none; line-height: inherit; border-top: 0px solid transparen=
+t; border-left: 0px solid transparent; border-bottom: 0px solid transparent=
+; border-right: 0px solid transparent; padding-top: 5px; padding-bottom: 15=
+px; padding-right: 0px; padding-left: 0px;"><!--<![endif]--> <div align=3D"=
+center" style=3D"-webkit-text-size-adjust: none; line-height: inherit; padd=
+ing-right: 0px; padding-left: 0px;" class=3D"img-container center autowidth=
+ "><!--[if mso]><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0"> <tr> <td style=3D"padding-right: 0px; padding-left: 0px;" alig=
+n=3D"center"><![endif]--><img align=3D"center" alt=3D"Image" border=3D"0" t=
+itle=3D"Image" width=3D"100" style=3D"-webkit-text-size-adjust: none; line-=
+height: inherit; outline: none; text-decoration: none; clear: both; border:=
+ 0px; height: auto; width: 100%; max-width: 100px; display: block !importan=
+t;" class=3D"center autowidth" src=3D"https://pro-bee-user-content-eu-west-=
+1.s3.amazonaws.com/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff=
+6dd6a/340bd94a06c74003aba2913912feb81a/benefits/icon--talent.png"> <!--[if =
+mso]></td> </tr> </table><![endif]--></div> <!--[if mso]><table width=3D"10=
+0%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td style=3D"pad=
+ding-right: 10px; padding-left: 10px; padding-top: 10px; padding-bottom: 10=
+px;"><![endif]--> <div style=3D"-webkit-text-size-adjust: none; color: #555=
+555; line-height: 120%; font-family: 'Open Sans', 'Helvetica Neue', Helveti=
+ca, Arial, sans-serif; padding-right: 10px; padding-left: 10px; padding-top=
+: 10px; padding-bottom: 10px;"> <div style=3D"-webkit-text-size-adjust: non=
+e; font-size: 12px; line-height: 14px; color: #555555; font-family: 'Open S=
+ans', 'Helvetica Neue', Helvetica, Arial, sans-serif; text-align: left;"> <=
+p style=3D"-webkit-text-size-adjust: none; margin: 0; font-size: 14px; line=
+-height: 17px; text-align: center;"><strong style=3D"-webkit-text-size-adju=
+st: none; line-height: inherit;">World's<br style=3D"-webkit-text-size-adju=
+st: none; line-height: inherit;"> Finest Talent</strong></p> </div> </div> =
+<!--[if mso]></td> </tr> </table><![endif]--><!--[if mso]><table width=3D"1=
+00%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td style=3D"pa=
+dding-right: 10px; padding-left: 10px; padding-top: 0px; padding-bottom: 10=
+px;"><![endif]--> <div style=3D"-webkit-text-size-adjust: none; color: #555=
+555; line-height: 120%; font-family: 'Open Sans', 'Helvetica Neue', Helveti=
+ca, Arial, sans-serif; padding-right: 10px; padding-left: 10px; padding-top=
+: 0px; padding-bottom: 10px;"> <div style=3D"-webkit-text-size-adjust: none=
+; font-size: 12px; line-height: 14px; color: #555555; font-family: 'Open Sa=
+ns', 'Helvetica Neue', Helvetica, Arial, sans-serif; text-align: left;"> <p=
+ style=3D"-webkit-text-size-adjust: none; margin: 0; font-size: 14px; line-=
+height: 17px; text-align: center;">Connect with our<br style=3D"-webkit-tex=
+t-size-adjust: none; line-height: inherit;"> pre-vetted<br style=3D"-webkit=
+-text-size-adjust: none; line-height: inherit;"> freelancers</p> </div> </d=
+iv> <!--[if mso]></td> </tr> </table><![endif]--><!--[if (!mso)&(!IE)]><!--=
+></div> <!--<![endif]--></div> </div> <!--[if (mso)|(IE)]></td> <td align=
+=3D"center" width=3D"182" style=3D" width:182px; padding-right: 0px; paddin=
+g-left: 0px; padding-top:5px; padding-bottom:15px; border-top: 0px solid tr=
+ansparent; border-left: 0px solid transparent; border-bottom: 0px solid tra=
+nsparent; border-right: 0px solid transparent;" valign=3D"top"><![endif]-->=
+ <div style=3D"-webkit-text-size-adjust: none; line-height: inherit; max-wi=
+dth: 320px; min-width: 181px; display: table-cell; vertical-align: top; wid=
+th: 181px !important;" class=3D"col num4"> <div style=3D"-webkit-text-size-=
+adjust: none; line-height: inherit; background-color: transparent; width: 1=
+00% !important;"><!--[if (!mso)&(!IE)]><!--> <div style=3D"-webkit-text-siz=
+e-adjust: none; line-height: inherit; border-top: 0px solid transparent; bo=
+rder-left: 0px solid transparent; border-bottom: 0px solid transparent; bor=
+der-right: 0px solid transparent; padding-top: 5px; padding-bottom: 15px; p=
+adding-right: 0px; padding-left: 0px;"><!--<![endif]--> <div align=3D"cente=
+r" style=3D"-webkit-text-size-adjust: none; line-height: inherit; padding-r=
+ight: 0px; padding-left: 0px;" class=3D"img-container center autowidth "><!=
+--[if mso]><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"> <tr> <td style=3D"padding-right: 0px; padding-left: 0px;" align=3D"=
+center"><![endif]--><img align=3D"center" alt=3D"Image" border=3D"0" title=
+=3D"Image" width=3D"100" style=3D"-webkit-text-size-adjust: none; line-heig=
+ht: inherit; outline: none; text-decoration: none; clear: both; border: 0px=
+; height: auto; width: 100%; max-width: 100px; display: block !important;" =
+class=3D"center autowidth" src=3D"https://pro-bee-user-content-eu-west-1.s3=
+.amazonaws.com/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6=
+a/340bd94a06c74003aba2913912feb81a/benefits/icon--protection.png"> <!--[if =
+mso]></td> </tr> </table><![endif]--></div> <!--[if mso]><table width=3D"10=
+0%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td style=3D"pad=
+ding-right: 10px; padding-left: 10px; padding-top: 10px; padding-bottom: 10=
+px;"><![endif]--> <div style=3D"-webkit-text-size-adjust: none; color: #555=
+555; line-height: 120%; font-family: 'Open Sans', 'Helvetica Neue', Helveti=
+ca, Arial, sans-serif; padding-right: 10px; padding-left: 10px; padding-top=
+: 10px; padding-bottom: 10px;"> <div style=3D"-webkit-text-size-adjust: non=
+e; font-size: 12px; line-height: 14px; color: #555555; font-family: 'Open S=
+ans', 'Helvetica Neue', Helvetica, Arial, sans-serif; text-align: left;"> <=
+p style=3D"-webkit-text-size-adjust: none; margin: 0; font-size: 14px; line=
+-height: 17px; text-align: center;"><strong style=3D"-webkit-text-size-adju=
+st: none; line-height: inherit;">Buyer<br style=3D"-webkit-text-size-adjust=
+: none; line-height: inherit;"> Protection</strong></p> </div> </div> <!--[=
+if mso]></td> </tr> </table><![endif]--><!--[if mso]><table width=3D"100%" =
+cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td style=3D"padding=
+-right: 10px; padding-left: 10px; padding-top: 0px; padding-bottom: 10px;">=
+<![endif]--> <div style=3D"-webkit-text-size-adjust: none; color: #555555; =
+line-height: 120%; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, A=
+rial, sans-serif; padding-right: 10px; padding-left: 10px; padding-top: 0px=
+; padding-bottom: 10px;"> <div style=3D"-webkit-text-size-adjust: none; fon=
+t-size: 12px; line-height: 14px; color: #555555; font-family: 'Open Sans', =
+'Helvetica Neue', Helvetica, Arial, sans-serif; text-align: left;"> <p styl=
+e=3D"-webkit-text-size-adjust: none; margin: 0; font-size: 14px; line-heigh=
+t: 17px; text-align: center;">Release money<br style=3D"-webkit-text-size-a=
+djust: none; line-height: inherit;"> once the job<br style=3D"-webkit-text-=
+size-adjust: none; line-height: inherit;"> is done</p> </div> </div> <!--[i=
+f mso]></td> </tr> </table><![endif]--><!--[if (!mso)&(!IE)]><!--></div> <!=
+--<![endif]--></div> </div> <!--[if (mso)|(IE)]></td> <td align=3D"center" =
+width=3D"182" style=3D" width:182px; padding-right: 0px; padding-left: 0px;=
+ padding-top:5px; padding-bottom:15px; border-top: 0px solid transparent; b=
+order-left: 0px solid transparent; border-bottom: 0px solid transparent; bo=
+rder-right: 0px solid transparent;" valign=3D"top"><![endif]--> <div style=
+=3D"-webkit-text-size-adjust: none; line-height: inherit; max-width: 320px;=
+ min-width: 181px; display: table-cell; vertical-align: top; width: 181px !=
+important;" class=3D"col num4"> <div style=3D"-webkit-text-size-adjust: non=
+e; line-height: inherit; background-color: transparent; width: 100% !import=
+ant;"><!--[if (!mso)&(!IE)]><!--> <div style=3D"-webkit-text-size-adjust: n=
+one; line-height: inherit; border-top: 0px solid transparent; border-left: =
+0px solid transparent; border-bottom: 0px solid transparent; border-right: =
+0px solid transparent; padding-top: 5px; padding-bottom: 15px; padding-righ=
+t: 0px; padding-left: 0px;"><!--<![endif]--> <div align=3D"center" style=3D=
+"-webkit-text-size-adjust: none; line-height: inherit; padding-right: 0px; =
+padding-left: 0px;" class=3D"img-container center autowidth "><!--[if mso]>=
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr=
+> <td style=3D"padding-right: 0px; padding-left: 0px;" align=3D"center"><![=
+endif]--><img align=3D"center" alt=3D"Image" border=3D"0" title=3D"Image" w=
+idth=3D"100" style=3D"-webkit-text-size-adjust: none; line-height: inherit;=
+ outline: none; text-decoration: none; clear: both; border: 0px; height: au=
+to; width: 100%; max-width: 100px; display: block !important;" class=3D"cen=
+ter autowidth" src=3D"https://pro-bee-user-content-eu-west-1.s3.amazonaws.c=
+om/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/340bd94a06=
+c74003aba2913912feb81a/benefits/icon--fast.png"> <!--[if mso]></td> </tr> <=
+/table><![endif]--></div> <!--[if mso]><table width=3D"100%" cellpadding=3D=
+"0" cellspacing=3D"0" border=3D"0"> <tr> <td style=3D"padding-right: 10px; =
+padding-left: 10px; padding-top: 10px; padding-bottom: 10px;"><![endif]--> =
+<div style=3D"-webkit-text-size-adjust: none; color: #555555; line-height: =
+120%; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-se=
+rif; padding-right: 10px; padding-left: 10px; padding-top: 10px; padding-bo=
+ttom: 10px;"> <div style=3D"-webkit-text-size-adjust: none; font-size: 12px=
+; line-height: 14px; color: #555555; font-family: 'Open Sans', 'Helvetica N=
+eue', Helvetica, Arial, sans-serif; text-align: left;"> <p style=3D"-webkit=
+-text-size-adjust: none; margin: 0; font-size: 14px; line-height: 17px; tex=
+t-align: center;"><strong style=3D"-webkit-text-size-adjust: none; line-hei=
+ght: inherit;">Fast<br style=3D"-webkit-text-size-adjust: none; line-height=
+: inherit;"> Turnaround</strong></p> </div> </div> <!--[if mso]></td> </tr>=
+ </table><![endif]--><!--[if mso]><table width=3D"100%" cellpadding=3D"0" c=
+ellspacing=3D"0" border=3D"0"> <tr> <td style=3D"padding-right: 10px; paddi=
+ng-left: 10px; padding-top: 0px; padding-bottom: 10px;"><![endif]--> <div s=
+tyle=3D"-webkit-text-size-adjust: none; color: #555555; line-height: 120%; =
+font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; p=
+adding-right: 10px; padding-left: 10px; padding-top: 0px; padding-bottom: 1=
+0px;"> <div style=3D"-webkit-text-size-adjust: none; font-size: 12px; line-=
+height: 14px; color: #555555; font-family: 'Open Sans', 'Helvetica Neue', H=
+elvetica, Arial, sans-serif; text-align: left;"> <p style=3D"-webkit-text-s=
+ize-adjust: none; margin: 0; font-size: 14px; line-height: 17px; text-align=
+: center;">Get proposals<br style=3D"-webkit-text-size-adjust: none; line-h=
+eight: inherit;"> within<br style=3D"-webkit-text-size-adjust: none; line-h=
+eight: inherit;"> minutes</p> </div> </div> <!--[if mso]></td> </tr> </tabl=
+e><![endif]--><!--[if (!mso)&(!IE)]><!--></div> <!--<![endif]--></div> </di=
+v> <!--[if (mso)|(IE)]></td> </tr> </table> </td> </tr> </table><![endif]--=
+></div> </div> </div> <div style=3D"-webkit-text-size-adjust: none; line-he=
+ight: inherit; background-color: transparent;"> <div style=3D"-webkit-text-=
+size-adjust: none; line-height: inherit; Margin: 0 auto; min-width: 320px; =
+max-width: 545px; overflow-wrap: break-word; word-wrap: break-word; word-br=
+eak: break-word; background-color: #FFFFFF; width: 545px !important;" class=
+=3D"block-grid "> <div style=3D"-webkit-text-size-adjust: none; line-height=
+: inherit; border-collapse: collapse; display: table; width: 100%; backgrou=
+nd-color: #FFFFFF;"><!--[if (mso)|(IE)]><table width=3D"100%" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td style=3D"background-color:t=
+ransparent;" align=3D"center"> <table cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0" style=3D"width: 545px;"> <tr class=3D"layout-full-width" style=
+=3D"background-color:#FFFFFF;"><![endif]--><!--[if (mso)|(IE)]><td align=3D=
+"center" width=3D"545" style=3D" width:545px; padding-right: 0px; padding-l=
+eft: 0px; padding-top:5px; padding-bottom:0px; border-top: 0px solid transp=
+arent; border-left: 0px solid transparent; border-bottom: 0px solid transpa=
+rent; border-right: 0px solid transparent;" valign=3D"top"><![endif]--> <di=
+v style=3D"-webkit-text-size-adjust: none; line-height: inherit; min-width:=
+ 320px; max-width: 545px; display: table-cell; vertical-align: top; width: =
+545px !important;" class=3D"col num12"> <div style=3D"-webkit-text-size-adj=
+ust: none; line-height: inherit; background-color: transparent; width: 100%=
+ !important;"><!--[if (!mso)&(!IE)]><!--> <div style=3D"-webkit-text-size-a=
+djust: none; line-height: inherit; border-top: 0px solid transparent; borde=
+r-left: 0px solid transparent; border-bottom: 0px solid transparent; border=
+-right: 0px solid transparent; padding-top: 5px; padding-bottom: 0px; paddi=
+ng-right: 0px; padding-left: 0px;"><!--<![endif]--> <table border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" style=3D"line-height: inherit; -ms-text-si=
+ze-adjust: 100%; -webkit-text-size-adjust: 100%; border-collapse: collapse;=
+ border-spacing: 0; min-width: 100%; mso-table-lspace: 0pt; mso-table-rspac=
+e: 0pt; table-layout: fixed; vertical-align: top; width: 100%;" class=3D"di=
+vider" width=3D"100%" valign=3D"top"> <tbody style=3D"-webkit-text-size-adj=
+ust: none; line-height: inherit;"> <tr style=3D"-webkit-text-size-adjust: n=
+one; line-height: inherit; border-collapse: collapse; vertical-align: top;"=
+ valign=3D"top"> <td style=3D"line-height: inherit; -ms-text-size-adjust: 1=
+00%; -webkit-text-size-adjust: 100%; min-width: 100%; mso-line-height-rule:=
+ exactly; padding-bottom: 5px; padding-left: 5px; padding-right: 5px; paddi=
+ng-top: 5px; vertical-align: top; word-break: break-word; border-collapse: =
+collapse !important;" class=3D"divider_inner" valign=3D"top"> <table align=
+=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"line-=
+height: inherit; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%=
+; border-collapse: collapse; border-spacing: 0; border-top: 1px solid #ffff=
+ff; mso-table-lspace: 0pt; mso-table-rspace: 0pt; table-layout: fixed; vert=
+ical-align: top; width: 100%;" class=3D"divider_content" width=3D"100%" val=
+ign=3D"top"> <tbody style=3D"-webkit-text-size-adjust: none; line-height: i=
+nherit;"> <tr style=3D"-webkit-text-size-adjust: none; line-height: inherit=
+; border-collapse: collapse; vertical-align: top;" valign=3D"top"> <td styl=
+e=3D"line-height: inherit; -ms-text-size-adjust: 100%; -webkit-text-size-ad=
+just: 100%; mso-line-height-rule: exactly; vertical-align: top; word-break:=
+ break-word; border-collapse: collapse !important;" valign=3D"top"></td> </=
+tr> </tbody> </table> </td> </tr> </tbody> </table> <div style=3D"-webkit-t=
+ext-size-adjust: none; line-height: inherit; font-size: 16px; font-family: =
+'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; text-align: ce=
+nter;"> <table align=3D"center" cellspacing=3D"0" style=3D"-webkit-text-siz=
+e-adjust: none; line-height: inherit; vertical-align: top; border-collapse:=
+ collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" valign=3D"top"> <=
+tbody style=3D"-webkit-text-size-adjust: none; line-height: inherit;"> <tr =
+style=3D"-webkit-text-size-adjust: none; line-height: inherit; border-colla=
+pse: collapse; padding: 0; text-align: left; vertical-align: top;" align=3D=
+"left" valign=3D"top"> <td align=3D"center" style=3D"-webkit-text-size-adju=
+st: none; -moz-hyphens: auto; -webkit-hyphens: auto; color: #515358; font-f=
+amily: 'Open Sans',Arial,Helvetica,sans-serif; font-size: 14px; font-weight=
+: normal; hyphens: auto; line-height: 20px; margin: 0; padding: 0; text-ali=
+gn: center; vertical-align: top; word-break: break-word; border-collapse: c=
+ollapse !important;" class=3D"center" valign=3D"top"><a style=3D"-webkit-te=
+xt-size-adjust: none; line-height: inherit; display: inline-block; color: #=
+2BA6CB; text-decoration: none;" class=3D"social-icon" href=3D"https://links=
+.peopleperhour.com/u/click?_t=3D340bd94a06c74003aba2913912feb81a&_m=3D99107=
+4d5a5ad4fa789e0d837e678908e&_e=3DlOKgKhf5peSCxPPeyKyUdEVTP4efbnfDcCRN3VHVsG=
+jGbtHCyHHIYMMGSlv8YZDAw1UXmSKFkzYHJMz4Ql304gHSDH6Ar3-thWqPB-u3fw3Q5644Cw-uU=
+RJBO47yQVurGMPpaOh-euRygGBZJEZVc1E_oDY3aOxvHSkyze2lld8QCm-MtczGJ6_hBTCqio6o=
+FhCIFqX1HygIlqXJfimhEcAyUSKz1IlfLN_AJcwbt3aXrl03SMO2zbhSUpsf2C2X9r_FsLEdVA4=
+R_XTO25PdrPicicmq9aXWv4vw9ecjqgZWDIeYq5rFkbO_jsRa9plGyEzx4kNKEufKynuPVbZnvI=
+a2kZ8EW326pDU0PgYye0I%3D"><img align=3D"left" alt=3D"PeoplePerHour at Faceb=
+ook" style=3D"-webkit-text-size-adjust: none; line-height: inherit; clear: =
+both; display: block; width: 24px; max-width: 100%; height: 24px; margin: 0=
+px 5px; border: none; outline: none; text-decoration: none; float: left;" s=
+rc=3D"https://www.peopleperhour.com/img/icons-coloured/social-facebook.png?=
+v=3D1" width=3D"24" height=3D"24"></a></td> <td style=3D"-webkit-text-size-=
+adjust: none; line-height: inherit; vertical-align: top; border-collapse: c=
+ollapse;" valign=3D"top"></td> <td style=3D"-webkit-text-size-adjust: none;=
+ line-height: inherit; vertical-align: top; border-collapse: collapse;" val=
+ign=3D"top"><a style=3D"-webkit-text-size-adjust: none; line-height: inheri=
+t; display: inline-block; color: #2BA6CB; text-decoration: none;" class=3D"=
+social-icon" href=3D"https://links.peopleperhour.com/u/click?_t=3D340bd94a0=
+6c74003aba2913912feb81a&_m=3D991074d5a5ad4fa789e0d837e678908e&_e=3D5_9ubcXR=
+CbTQcvQLWKPkULkFPQWW_oIPxfBq4y6crCnLPu-Vje-QtpDw4UKa10dFTTojFDpm9JXqIvL3DGF=
+KVEyd15ajsg7I_cyPFoMrj-pZLYM2QgrOEDOIgq6Dy5YUupBTDVWWuInXr-metqfn3USxPqLg1j=
+_aIW868aR3EFV5iLwN2VgMpnlDSzwGg10PCsqXK51kh9rcDByA4LkDe_a12765n9G3sjXO3gS-T=
+fsvg-HHzJmo8UPtvkjHAUdCw8APVv51fC-eEvwAFdygthXFUhkjnVFOH-SANwyO04uMj7sazwfp=
+GIYJEqeJgBqSlzCuOx2mb5ra_aBdF-zYa8EeX75vGVxEeDUkRJnSV88%3D"><img align=3D"l=
+eft" alt=3D"PeoplePerHour at Twitter" style=3D"-webkit-text-size-adjust: no=
+ne; line-height: inherit; clear: both; display: block; width: 24px; max-wid=
+th: 100%; height: 24px; margin: 0px 5px; border: none; outline: none; text-=
+decoration: none; float: left;" src=3D"https://www.peopleperhour.com/img/ic=
+ons-coloured/social-twitter.png?v=3D1" width=3D"24" height=3D"24"></a></td>=
+ <td style=3D"-webkit-text-size-adjust: none; line-height: inherit; vertica=
+l-align: top; border-collapse: collapse;" valign=3D"top"></td> <td style=3D=
+"-webkit-text-size-adjust: none; line-height: inherit; vertical-align: top;=
+ border-collapse: collapse;" valign=3D"top"><a style=3D"-webkit-text-size-a=
+djust: none; line-height: inherit; display: inline-block; color: #2BA6CB; t=
+ext-decoration: none;" class=3D"social-icon" href=3D"https://links.peoplepe=
+rhour.com/u/click?_t=3D340bd94a06c74003aba2913912feb81a&_m=3D991074d5a5ad4f=
+a789e0d837e678908e&_e=3Dw8KiHuywuXzWWbV2-0MtvpT_Dr-BEheeAYp3a5LW-Z_avJ_IiZD=
+JsBX5d8zRwym_7k9XX4ySFafnG947d9jqM9_QeIjKUHcJaoz10U5D0SvV8v4rkpeWJGgNIVD1aD=
+KX0G0XXxWRe5j6WPPJBewmNddEwfGAtLHhDdymqJYsh_sZrEo1b2MXOuAnjx9sWh-wVX-m5rb4R=
+9vKAqe5lUJHQwZfIh_knF7FEMm9QANJcLNiml-cNVkB7bLVdRR3c5i6jJ0DOGHNhiZ-1ZcVo2vb=
+m4SowGkejECeT0dY79nwY3tgGBYRoHC48EOHMP7tqoos8qIRQ35gJEEyItAplPnP2vT5eV_LAa8=
+QnvvzieiQX10%3D"><img align=3D"left" alt=3D"PeoplePerHour at Google+" style=
+=3D"-webkit-text-size-adjust: none; line-height: inherit; clear: both; disp=
+lay: block; width: 24px; max-width: 100%; height: 24px; margin: 0px 5px; bo=
+rder: none; outline: none; text-decoration: none; float: left;" src=3D"http=
+s://www.peopleperhour.com/img/icons-coloured/social-google-plus.png?v=3D1" =
+width=3D"24" height=3D"24"></a></td> <td style=3D"-webkit-text-size-adjust:=
+ none; line-height: inherit; vertical-align: top; border-collapse: collapse=
+;" valign=3D"top"></td> <td style=3D"-webkit-text-size-adjust: none; line-h=
+eight: inherit; vertical-align: top; border-collapse: collapse;" valign=3D"=
+top"><a style=3D"-webkit-text-size-adjust: none; line-height: inherit; disp=
+lay: inline-block; color: #2BA6CB; text-decoration: none;" class=3D"social-=
+icon" href=3D"https://links.peopleperhour.com/u/click?_t=3D340bd94a06c74003=
+aba2913912feb81a&_m=3D991074d5a5ad4fa789e0d837e678908e&_e=3DeQnDAMsSTuCVC9b=
+qzzRWxNb5S14j4pLPaW_t9r5z87lTeDFpjOClC6zhEoq-0yAjSHO3HdRwkBtZXdUiOnzmYaj1VF=
+NtrGX0129V7DATAOHKVpwN38EEP2E4neJCR8jWK8XIEKxExIZQ6oN0K33rxqGk077k0olV9gF03=
+a_eFTQul1_S6OMn-De-L_Z7G0BrJFJDJkDLBQgntfoW4Y8gkvwxEsOSo-ZrE937eClcjDfsOHHD=
+KzcYi6xxdJKHJBFNDExQqVJdlo0rs2h4SbtIKNXWitMwxT5VTXrdAlqMg7YOx_lrRokSn4hDeVs=
+pFQqS_g7i8kOhjDTDHsVmn8qIEMiBn_gFhcXMR-83xQunUzg%3D"><img align=3D"left" al=
+t=3D"PeoplePerHour at pinterest" style=3D"-webkit-text-size-adjust: none; l=
+ine-height: inherit; clear: both; display: block; width: 24px; max-width: 1=
+00%; height: 24px; margin: 0px 5px; border: none; outline: none; text-decor=
+ation: none; float: left;" src=3D"https://www.peopleperhour.com/img/icons-c=
+oloured/social-pinterest.png?v=3D1" width=3D"24" height=3D"24"></a></td> <t=
+d style=3D"-webkit-text-size-adjust: none; line-height: inherit; vertical-a=
+lign: top; border-collapse: collapse;" valign=3D"top"></td> <td style=3D"-w=
+ebkit-text-size-adjust: none; line-height: inherit; vertical-align: top; bo=
+rder-collapse: collapse;" valign=3D"top"><a style=3D"-webkit-text-size-adju=
+st: none; line-height: inherit; display: inline-block; color: #2BA6CB; text=
+-decoration: none;" class=3D"social-icon" href=3D"https://links.peopleperho=
+ur.com/u/click?_t=3D340bd94a06c74003aba2913912feb81a&_m=3D991074d5a5ad4fa78=
+9e0d837e678908e&_e=3DeQnDAMsSTuCVC9bqzzRWxDo-7awrH30srBgcw7tylAEGQbqvRvnOQ1=
+p6X6y2dyzINW9n2KExfO6oP_r_rbiKHai5X9qEnMJveInOVFIBinoxQhYR04Qhe_qXbh_fTwpQN=
+a8otn0DGnBA4J20dC9F_0OkUKVsxpVE9XVtlYs79NT0uz_lig-ElH1lfdQwZ_6RVTz7SVl5w70B=
+xYYRETYJS7Pnz92y8XjhAAXPlJE_Y5bjSNym-VgJ1KRlS6jTmtZ_Udqw0CfmluncwAd8nsZEppw=
+pEckFJD1r704hdzgaZc57rNWyEVUo9L0oX5upMJ7-v_bAW-chD0uGBeDK5kSAMGIUKyL7Jsp6fF=
+OFiu1ga-Q%3D"><img align=3D"left" alt=3D"PeoplePerHour at LinkedIn" style=
+=3D"-webkit-text-size-adjust: none; line-height: inherit; clear: both; disp=
+lay: block; width: 24px; max-width: 100%; height: 24px; margin: 0px 5px; bo=
+rder: none; outline: none; text-decoration: none; float: left;" src=3D"http=
+s://www.peopleperhour.com/img/icons-coloured/social-linkedin.png?v=3D1" wid=
+th=3D"24" height=3D"24"></a></td> </tr> </tbody> </table> </div> <!--[if (!=
+mso)&(!IE)]><!--></div> <!--<![endif]--></div> </div> <!--[if (mso)|(IE)]><=
+/td> </tr> </table> </td> </tr> </table><![endif]--></div> </div> </div> <d=
+iv style=3D"-webkit-text-size-adjust: none; line-height: inherit; backgroun=
+d-color: transparent;"> <div style=3D"-webkit-text-size-adjust: none; line-=
+height: inherit; Margin: 0 auto; min-width: 320px; max-width: 545px; overfl=
+ow-wrap: break-word; word-wrap: break-word; word-break: break-word; backgro=
+und-color: #FFFFFF; width: 545px !important;" class=3D"block-grid "> <div s=
+tyle=3D"-webkit-text-size-adjust: none; line-height: inherit; border-collap=
+se: collapse; display: table; width: 100%; background-color: #FFFFFF;"><!--=
+[if (mso)|(IE)]><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0"> <tr> <td style=3D"background-color:transparent;" align=3D"cent=
+er"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width=
+: 545px;"> <tr class=3D"layout-full-width" style=3D"background-color:#FFFFF=
+F;"><![endif]--><!--[if (mso)|(IE)]><td align=3D"center" width=3D"545" styl=
+e=3D" width:545px; padding-right: 0px; padding-left: 0px; padding-top:0px; =
+padding-bottom:25px; border-top: 0px dotted transparent; border-left: 0px d=
+otted transparent; border-bottom: 0px dotted transparent; border-right: 0px=
+ dotted transparent;" valign=3D"top"><![endif]--> <div style=3D"-webkit-tex=
+t-size-adjust: none; line-height: inherit; min-width: 320px; max-width: 545=
+px; display: table-cell; vertical-align: top; width: 545px !important;" cla=
+ss=3D"col num12"> <div style=3D"-webkit-text-size-adjust: none; line-height=
+: inherit; background-color: transparent; width: 100% !important;"><!--[if =
+(!mso)&(!IE)]><!--> <div style=3D"-webkit-text-size-adjust: none; line-heig=
+ht: inherit; border-top: 0px dotted transparent; border-left: 0px dotted tr=
+ansparent; border-bottom: 0px dotted transparent; border-right: 0px dotted =
+transparent; padding-top: 0px; padding-bottom: 25px; padding-right: 0px; pa=
+dding-left: 0px;"><!--<![endif]--><!--[if mso]><table width=3D"100%" cellpa=
+dding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td style=3D"padding-right=
+: 10px; padding-left: 10px; padding-top: 10px; padding-bottom: 10px;"><![en=
+dif]--> <div style=3D"-webkit-text-size-adjust: none; color: #555555; line-=
+height: 120%; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial,=
+ sans-serif; padding-right: 10px; padding-left: 10px; padding-top: 10px; pa=
+dding-bottom: 10px;"> <div style=3D"-webkit-text-size-adjust: none; font-si=
+ze: 12px; line-height: 14px; color: #555555; font-family: 'Open Sans', 'Hel=
+vetica Neue', Helvetica, Arial, sans-serif; text-align: left;"> <p style=3D=
+"-webkit-text-size-adjust: none; margin: 0; font-size: 11px; line-height: 1=
+4px; text-align: center;"><span style=3D"-webkit-text-size-adjust: none; fo=
+nt-size: 11px; line-height: 13px;">=C2=A9 2007 - 2017 PeoplePerHour All rig=
+hts reserved</span><br style=3D"-webkit-text-size-adjust: none; line-height=
+: inherit;"> <br style=3D"-webkit-text-size-adjust: none; line-height: inhe=
+rit;"> <span style=3D"-webkit-text-size-adjust: none; font-size: 11px; line=
+-height: 13px;">You can change your notification settings <a rel=3D"noopene=
+r" target=3D"_blank" style=3D"-webkit-text-size-adjust: none; line-height: =
+inherit; color: #FF7300; text-decoration: underline;" href=3D"https://links=
+.peopleperhour.com/e/eh?_t=3D340bd94a06c74003aba2913912feb81a&_m=3D991074d5=
+a5ad4fa789e0d837e678908e&_e=3DeQnDAMsSTuCVC9bqzzRWxN23wER-nryiA3j0k2Cg7MLRx=
+wRSdNqvPlNYqdJ07hIzcOWWyFxx4wvy74wHwgJLPgRnRZbxIJqrH2K99t1rNWquRNWjdSdMSYQt=
+qrSxNiszkHWlhTSRwMKm_AdBSEjSktVi01m832ycyqXIJ8a4cjvXEM4wK81cyeGuGpJzBhNETMc=
+8p36FNiOwBObgB-b60P_YWCZeFlayc6rXTJkwLgvmKdVS1voMkJZrW0GPCRU3e836QQWoUoZrTS=
+bykrNQVCd3DQs4LSrJGAzvCiq5GvVnUjCzVGhC9md0LokQsXSZafpFhfBPgX6U1qtLF7lqcA%3D=
+%3D">here</a></span><br style=3D"-webkit-text-size-adjust: none; line-heigh=
+t: inherit;"> <br style=3D"-webkit-text-size-adjust: none; line-height: inh=
+erit;"> PeoplePerHour, 27 Old Gloucester Street, London WC1 3AX, UK<span st=
+yle=3D"-webkit-text-size-adjust: none; color: #000000; font-size: 11px; lin=
+e-height: 13px;"><a rel=3D"noopener" target=3D"_blank" style=3D"-webkit-tex=
+t-size-adjust: none; line-height: inherit; color: #FF7300; text-decoration:=
+ none; color: rgb(0, 0, 0);" href=3D"#">=EF=BB=BF</a> </span></p> </div> </=
+div> <!--[if mso]></td> </tr> </table><![endif]--><!--[if (!mso)&(!IE)]><!-=
+-></div> <!--<![endif]--></div> </div> <!--[if (mso)|(IE)]></td> </tr> </ta=
+ble> </td> </tr> </table><![endif]--></div> </div> </div> <!--[if (mso)|(IE=
+)]></td> </tr> </table><![endif]--></td> </tr> </tbody> </table> <!--[if (m=
+so)|(IE)]></div><![endif]--></body> </html>
+------=_Part_821582_1255312252.1539266299688--

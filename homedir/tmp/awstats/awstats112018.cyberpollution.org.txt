@@ -1,0 +1,353 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201811 will be lost/reset.
+# Last config file used to build this data file was /home/cyberpollution/tmp/awstats/awstats.cyberpollution.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2021                
+POS_TIME 2701                
+POS_VISITOR 9784                
+POS_DAY 9980                
+POS_DOMAIN 3411                
+POS_LOGIN 3642                
+POS_ROBOT 3797                
+POS_WORMS 4434                
+POS_EMAILSENDER 4565                
+POS_EMAILRECEIVER 4708                
+POS_SESSION 10160               
+POS_SIDER 10356               
+POS_FILETYPES 4843                
+POS_DOWNLOADS 5054                
+POS_OS 5150                
+POS_BROWSER 5325                
+POS_SCREENSIZE 5696                
+POS_UNKNOWNREFERER 5770                
+POS_UNKNOWNREFERERBROWSER 6251                
+POS_ORIGIN 6527                
+POS_SEREFERRALS 6664                
+POS_PAGEREFS 6829                
+POS_SEARCHWORDS 6977                
+POS_KEYWORDS 7129                
+POS_MISC 2364                
+POS_ERRORS 7188                
+POS_CLUSTER 3498                
+POS_SIDER_404 7313                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20181105165928 88 19101 25980116461583
+FirstTime 20181101020553
+LastTime 20181105161403
+LastUpdate 20181105180934 88 0 88 0 0
+TotalVisits 38                  
+TotalUnique 2                   
+MonthHostsKnown 1                   
+MonthHostsUnknown 1                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 19 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 3 3 0 14 17 335975
+1 3 3 64121 6 8 143406
+2 5 5 5912 9 12 310205
+3 6 6 5912 23 23 460361
+4 22 22 775260 8 10 137827
+5 8 10 256022 8 10 189973
+6 10 23 666670 11 30 711088
+7 13 79 2970623 9 16 74944
+8 6 6 46915 2 3 85408
+9 10 10 70033 9 12 257225
+10 5 5 0 5 26 760786
+11 3 3 0 14 23 396011
+12 5 5 5912 3 8 65349
+13 8 66 2666528 6 9 66334
+14 8 8 262331 11 55 2050325
+15 2 2 0 4 6 255804
+16 7 7 70033 4 7 121526
+17 3 3 64121 1 1 64121
+18 6 6 5912 5 8 65670
+19 7 61 2080807 4 51 2143424
+20 0 0 0 1 3 181058
+21 3 3 64121 2 4 110503
+22 7 7 100763 13 15 486021
+23 12 71 3294518 3 5 126909
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ca 162 414 13476514
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+bingbot/ 112 4925091 20181105161402 5
+Googlebot/ 30 785602 20181105124325 4
+SemrushBot/ 19 395571 20181105132728 9
+YandexBot/ 13 165509 20181105151902 7
+spider 11 458531 20181105063003 0
+MJ12bot/ 10 176751 20181102115540 2
+no_user_agent 8 402376 20181104222613 0
+bingpreview 7 527664 20181104155527 0
+Uptimebot/ 6 320730 20181105022713 1
+link 3 192363 20181104001241 0
+facebookexternalhit/ 2 128236 20181103225509 0
+Sogou[\x20]web[\x20]spider/ 2 128242 20181102024250 0
+AhrefsBot/ 2 250 20181101123813 2
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+jpeg 21 472882 0 0
+css 67 5102045 0 0
+html 59 2730386 0 0
+jpg 5 825995 0 0
+js 121 4116927 0 0
+woff2 1 77160 0 0
+php 102 76849 0 0
+png 38 74270 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+//wp-content/plugins/give/readme.txt 3 0 186129
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+Unknown 79 79
+winxp 12 12
+macosx12 23 23
+win10 59 1
+winlong 6 6
+linux 190 17
+win7 40 19
+win8 4 4
+macosx10 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 18
+chrome50.0.2661.75 1 1
+firefox50.0 54 1
+chrome49.0.2623.75 1 1
+firefox33.0 2 2
+mozilla 2 2
+firefox62.0 58 4
+firefox28.0 6 6
+chrome55.0.2883.87 59 1
+msie6.0 2 2
+firefox31.0 4 4
+firefox45.0 77 11
+Unknown 77 77
+chrome45.0.2454.101 1 1
+chrome61.0.3163.100 3 3
+msie9.0 33 12
+firefox29.0 6 6
+firefox36.0 8 8
+firefox52.0 20 20
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Go-http-client/2.0 20181101145457
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12sns;__http://researchscan.comsys.rwth-aachen.de) 20181101211908
+Softaculous 20181103222701
+WordPress/4.9.8;_https://www.cyberpollution.org/ariyan 20181104222613
+WordPress/4.9.8;_https://www.cyberpollution.org 20181105161403
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20181101190202
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+WordPress/4.9.8;_https://www.cyberpollution.org/ariyan 20181104222613
+Softaculous 20181103222701
+WordPress/4.9.8;_https://www.cyberpollution.org 20181105161403
+Go-http-client/2.0 20181101145457
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 39 92
+From1 1 1
+From2 35 56
+From3 0 0
+From4 87 265
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 35 56
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+302 65 14618
+301 18 2200
+404 33 976017
+500 2 502
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 29
+/am/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js 1 https://www.cyberpollution.org/am/about/
+/am/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js 1 https://www.cyberpollution.org/am/about/
+/am/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.kreaturamedia.jquery.js 1 https://www.cyberpollution.org/am/about/
+/.git/index 1 -
+/am/wp-content/plugins/contact-form-7/includes/js/scripts.js 1 https://www.cyberpollution.org/am/about/
+/seomarket.php 1 cyberpollution.org
+/wp-content/uploads/2018/08/seos.php 1 cyberpollution.org
+/wp-main.php 1 cyberpollution.org
+/wp-content/uploads/2018/08/st.php 1 cyberpollution.org
+/am/wp-content/plugins/LayerSlider/static/layerslider/css/layerslider.css 1 https://www.cyberpollution.org/am/work/
+/am/wp-content/plugins/LayerSlider/static/layerslider/js/greensock.js 1 https://www.cyberpollution.org/am/about/
+/am/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.transitions.js 1 https://www.cyberpollution.org/am/about/
+/am/wp-content/plugins/revslider/public/assets/css/settings.css 2 https://www.cyberpollution.org/am/about/
+/wp-content/plugins/background-image-cropper/image/ico/seo_script.php 1 cyberpollution.org
+/th1s_1s_a_4o4.html 3 -
+/wp-content/uploads/2018/08/seo_script.php 1 cyberpollution.org
+/seos.php 1 cyberpollution.org
+/am/wp-includes/js/jquery/jquery-migrate.min.js 1 https://www.cyberpollution.org/am/about/
+/wp-content/themes/twentyeleven/seo_script.php 1 cyberpollution.org
+/Download 1 -
+/Help 1 -
+/am/wp-content/themes/Avada/assets/css/style.min.css 2 https://www.cyberpollution.org/am/about/
+/assets/images/seo_script.php 1 cyberpollution.org
+/am/wp-content/plugins/contact-form-7/includes/css/styles.css 1 https://www.cyberpollution.org/am/sample-page/
+/wp-clear.php 1 cyberpollution.org
+/wp-content/themes/pridmag/db.php 1 cyberpollution.org
+/am/wp-includes/js/wp-embed.min.js 1 https://www.cyberpollution.org/am/about/
+/am/wp-content/uploads/fusion-scripts/e5b478c9056c47a9c6547a192a33d3cb.min.js 1 https://www.cyberpollution.org/am/about/
+/wp-content/themes/clean-commerce/test2.php 1 cyberpollution.org
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 2
+s1.bitsboxhost.com 99 298 10826868 20181102112327
+167.114.173.207 63 116 2649646 20181105161403 20181105151856 /wp-cron.php
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 5
+20181101 83 282 10750923 9
+20181102 16 16 75945 6
+20181103 19 57 1715130 5
+20181104 28 30 331967 10
+20181105 16 29 602549 8
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+15mn-30mn 3
+30s-2mn 1
+30mn-1h 8
+5mn-15mn 4
+1h+ 7
+0s-30s 14
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 29
+/wp-cron.php 70 0 36 24
+/wp-login.php 26 76797 1 6
+/ 22 1434232 1 4
+/contact/ 7 286839 0 2
+/ariyan/wp-cron.php 4 0 0 1
+/get-involved/ 3 102723 0 0
+/about/our-team/ 2 92514 0 0
+/placed-an-order-2/ 2 70064 0 0
+/wp-admin/admin-ajax.php 2 52 0 0
+/category/all/ 2 65258 0 0
+/events/ 2 86146 0 0
+/about-us/ 2 72553 0 0
+/pricing/ 2 142074 0 0
+/feed/ 1 2170 0 0
+/event-response/ 1 30848 0 0
+/cyber-security/ 1 30649 0 0
+/digital-forensic/ 1 31069 0 0
+/wp-content/plugins/unyson/framework/extensions/shortcodes/shortcodes/calendar/views/events-list.html 1 538 0 0
+/website-hacked/ 1 30747 0 0
+/about/faq/ 1 37300 0 0
+/ariyan/ 1 36642 0 0
+/wp-content/plugins/unyson/framework/extensions/shortcodes/shortcodes/calendar/views/month.html 1 938 0 0
+/about/in-the-press/ 1 29834 0 0
+/our-vission/ 1 31129 0 0
+/about/our-mission/ 1 32202 0 0
+/wp-content/plugins/unyson/framework/extensions/shortcodes/shortcodes/calendar/views/month-day.html 1 1154 0 0
+/projects/ 1 53081 0 0
+/image-gallery/ 1 29682 0 0
+/wp-content/plugins/unyson/framework/static/libs/font-awesome/fonts/fontawesome-webfont.woff2 1 77160 0 0
+END_SIDER

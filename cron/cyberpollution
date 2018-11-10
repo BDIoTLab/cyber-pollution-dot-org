@@ -1,0 +1,4 @@
+09 18 * * 3 /usr/local/cpanel/3rdparty/bin/php "/usr/local/cpanel/whostmgr/docroot/cgi/softaculous"/cli.php --backup --auto=1 --insid=26_60477
+
+
+

@@ -1,0 +1,25 @@
+<?php if ( ! defined( 'FW' ) ) {
+	die( 'Forbidden' );
+}
+/**
+ * Display the stars in the form of introduction of review.
+ * @var int $stars_number
+ * @var string $input_name
+ */
+?>
+<!--Rating-->
+<div class="right-side-comment">
+	<div class="wrap-rating in-post">
+		<span class="rating-title"><?php esc_html_e( 'Rating', 'the-core' ); ?><sup>*</sup></span>
+
+		<div class="rating">
+			<?php
+			for ( $i = 1; $i <= $stars_number; $i ++ ) {
+				echo '<span class="fa fa-star" data-vote="' . $i . '"></span>';
+			}
+			?>
+		</div>
+		<input type="hidden" name="<?php echo esc_attr($input_name); ?>" id="rate" value="">
+	</div>
+</div>
+<!--/Rating-->

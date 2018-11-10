@@ -1,0 +1,366 @@
+Return-Path: <support@peopleperhour.zendesk.com>
+Delivered-To: hello@cyberpollution.org
+Received: from s1.bitsboxhost.com
+	by s1.bitsboxhost.com with LMTP id mFUWBr2/1ltgSQAA+UFKaw
+	for <hello@cyberpollution.org>; Mon, 29 Oct 2018 08:07:25 +0000
+Return-path: <support@peopleperhour.zendesk.com>
+Envelope-to: hello@cyberpollution.org
+Delivery-date: Mon, 29 Oct 2018 08:07:25 +0000
+Received: from out8.pod5.iad1.zdsys.com ([192.161.153.75]:56832)
+	by s1.bitsboxhost.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <support@peopleperhour.zendesk.com>)
+	id 1gH2a3-0004uC-Bf
+	for hello@cyberpollution.org; Mon, 29 Oct 2018 08:07:25 +0000
+Received: from out6.pod19.use1.zdsys.com (unknown [10.219.12.39])
+	by out8.pod5.iad1.zdsys.com (Postfix) with ESMTP id 509A31AC2CA
+	for <hello@cyberpollution.org>; Mon, 29 Oct 2018 08:06:43 +0000 (UTC)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by out6.pod19.use1.zdsys.com (Postfix) with ESMTP id 4BC0680008D
+	for <hello@cyberpollution.org>; Mon, 29 Oct 2018 08:06:43 +0000 (UTC)
+Auto-Submitted: auto-generated
+Content-Transfer-Encoding: 7bit
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_5bd6bf92d245e_37693fec53ccb954127539";
+ charset=utf-8
+Date: Mon, 29 Oct 2018 08:06:42 +0000
+Dkim-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=zendesk.com;
+ q=dns/txt; s=zendesk1; t=1540800402;
+ bh=PToMlQdkv/o5GhuGsz7CRX1rqKISkDSS1qwKPKJJrTA=;
+ h=date:from:reply-to:to:message-id:in-reply-to:subject:mime-version:content-type:content-transfer-encoding;
+ b=nWaOqDt/+jUS/Hy4cl+dVUJJTdZQuIJKFVOMIbooBrqJ1hzj9B7c9GfTf++p5eOPOtiG0cCFxpX/PVvD7BXC12zGducr9znNEc0dGEGKqWB2475duF56fskZgKXZUpdh2v9hekeOYUuC0/BoCATYJreJB4RMFXgzdrVWPnrIPS8=
+From: PeoplePerHour Support <support@peopleperhour.zendesk.com>
+In-Reply-To: <KZ3LMZ4LDY@zendesk.com>
+Message-Id:
+ <KZ3LMZ4LDY_5bd6bf929e30d_37693fec53ccb95412746e_sprut@zendesk.com>
+Mime-Version: 1.0
+Received: from zendesk.com (unknown [10.219.24.47]) by
+ out6.pod19.use1.zdsys.com (Postfix) with ESMTP id D5F60800090 for
+ <hello@cyberpollution.org>; Mon, 29 Oct 2018 08:06:42 +0000 (UTC)
+Reply-To: PeoplePerHour Support
+ <support+id737639@peopleperhour.zendesk.com>
+Subject: [PeoplePerHour Support] Re: Please approve my seller profile thus
+ i can apply job.
+To: Md Morshed <hello@cyberpollution.org>
+X-Auto-Response-Suppress: All
+X-Delivery-Context: event-id-501917233094
+X-Mailer: Zendesk Mailer
+X-Zendesk-From-Account-Id: f0bfa80
+X-Zendesk-Message-Id:
+ <KZ3LMZ4LDY_5bd6bf929e30d_37693fec53ccb95412746e_sprut@zendesk.com>
+X-Spam-Status: No, score=-10.4
+X-Spam-Score: -103
+X-Spam-Bar: ----------
+X-Ham-Report: Spam detection software, running on the system "s1.bitsboxhost.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  ##- Please type your reply above this line -## Hello! We’ve
+    got news for you: Your ticket (#737639) has been updated. Feel free to reply
+    to this email with any questions or follow this link to add an update: https://support.peopleperhour.com/hc/request
+    [...] 
+ 
+ Content analysis details:   (-10.4 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -2.3 RCVD_IN_DNSWL_MED      RBL: Sender listed at http://www.dnswl.org/,
+                             medium trust
+                             [192.161.153.75 listed in list.dnswl.org]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -7.5 USER_IN_DEF_SPF_WL     From: address is in the default SPF
+                             white-list
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or
+                             identical to background
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.5 ENV_AND_HDR_SPF_MATCH  Env and Hdr From used in default SPF WL
+                             Match
+  0.0 MSGID_FROM_MTA_HEADER  Message-Id was added by a relay
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+X-Spam-Flag: NO
+
+
+----==_mimepart_5bd6bf92d245e_37693fec53ccb954127539
+Content-Type: text/plain;
+ charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+##- Please type your reply above this line -##
+
+Hello!
+
+We=E2=80=99ve got news for you: Your ticket (#737639) has been updated. F=
+eel free to reply to this email with any questions or follow this link to=
+ add an update: https://support.peopleperhour.com/hc/requests/737639
+
+Thanks,
+
+The PeoplePerHour Support Team
+
+----------------------------------------------
+
+fortune, Oct 29, 10:06 EET
+
+Hello Md,
+
+My name is Fortune and I am with the Customer Support team. I will be tak=
+ing over the case from now and I will do my best in order for us to resol=
+ve it.
+
+I have reviewed your Profile account hello@cyberpollution.org and I can s=
+ee that you have not submitted your Freelancer application yet. Please le=
+t me guide you through the process in order to start selling on our Platf=
+orm.
+
+The first thing and most important is to submit your application which wi=
+ll be reviewed by the Moderation team, which the department in charge of =
+evaluating our Freelancers' applications.
+
+For your convenience, please follow this link and submit your application=
+. The verification process can take up to 1 working day. Once it gets app=
+roved then you will be able to apply for Jobs on the site.
+
+If you have any remaining questions about the issue, you=E2=80=99re more =
+than welcome to let me know. If however my reply has solved your issue th=
+en I=E2=80=99d appreciate it if you inform me accordingly; you=E2=80=99ll=
+ then receive a separate email containing a customer satisfaction survey.=
+ Your feedback is extremely important to us because it helps us improve t=
+he quality of our services so I=E2=80=99d be very grateful if you took th=
+e time to participate and rate my support to you.
+
+Have a nice day.
+
+Fortune
+PPH Customer Support
+
+Follow us on https://www.facebook.com/peopleperhour
+Follow us on http://twitter.com/#!/peopleperhour
+
+----------------------------------------------
+
+Md Morshed, Oct 28, 17:15 EET
+
+Please approve my seller profile thus i can apply job.
+
+
+
+
+
+
+
+
+
+[KZ3LMZ-4LDY]=
+
+----==_mimepart_5bd6bf92d245e_37693fec53ccb954127539
+Content-Type: text/html;
+ charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<body>
+<div style=3D"width:100%;font-size:13px;line-height:18px;color:#484848;te=
+xt-align:center;font-family:Arial,Tahoma,sans-serif;">
+        <table width=3D"100%" align=3D"center" style=3D"text-align:center=
+;">
+        ##- Please type your reply above this line -##
+            <tbody><tr>
+                <td width=3D"600" cellpadding=3D"0" cellspacing=3D"0" bor=
+der=3D"0" align=3D"center">
+                    <table height=3D"75" cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0" align=3D"center" style=3D"background: hsla(0,0%,100%,.98=
+); width: 100%; height: 10px;">
+
+                        <tbody><tr>
+                            <td width=3D"30">&nbsp;</td>
+                            <td width=3D"200" valign=3D"middle">
+                                <a href=3D"http://www.peopleperhour.com/"=
+ title=3D"PeoplePerHour" target=3D"_blank"><img src=3D"https://s3.amazona=
+ws.com/pph-email-templates/img/logo-new.png" alt=3D"PeoplePerHour.com" ti=
+tle=3D"PeoplePerHour" width=3D"190" height=3D"34" style=3D"padding-top:5p=
+x"></a>
+
+                            </td>
+                            <td width=3D"370">&nbsp;</td>
+                        </tr>
+                    </tbody></table>
+
+                                        <table width=3D"600" cellpadding=3D=
+"0" cellspacing=3D"0" border=3D"0" align=3D"center" bgcolor=3D"#fff" styl=
+e=3D"background:#fff; width: 100%;">
+                                                <tbody><tr align=3D"left"=
+>
+                        </tr>
+                                                <tr align=3D"left">
+                            <td width=3D"40">&nbsp;</td>
+                            <td width=3D"550" cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0" align=3D"left" bgcolor=3D"#fff" style=3D"text-align=
+:left;background:#fff">
+                                <br>
+<p>Hello!</p><p>We=E2=80=99ve got news for you: Your ticket (<a target=3D=
+"_blank" href=3D"https://support.peopleperhour.com/hc/requests/737639">#7=
+37639</a>) has been updated. Feel free to reply to this email with any qu=
+estions or follow this link to add an update: <a href=3D"https://support.=
+peopleperhour.com/hc/requests/737639" rel=3D"noreferrer">https://support.=
+peopleperhour.com/hc/requests/737639</a></p><p>Thanks,</p><p>The PeoplePe=
+rHour Support Team</p><p></p><div style=3D"margin-top: 25px" data-version=
+=3D"2"><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0" role=3D"presentation">  <tr>    <td width=3D"100%" style=3D"padding: =
+15px 0; border-top: 1px dotted #c5c5c5;">      <table width=3D"100%" cell=
+padding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"table-layout:fixed;=
+" role=3D"presentation">        <tr>                      <td valign=3D"t=
+op" style=3D"padding: 0 15px 0 15px; width: 40px;">              <img wid=
+th=3D"40" height=3D"40" alt=3D"" style=3D"height: auto; line-height: 100%=
+; outline: none; text-decoration: none; -webkit-border-radius: 5px; -moz-=
+border-radius: 5px; border-radius: 5px;" src=3D"https://peopleperhour.zen=
+desk.com/system/photos/3602/0292/8753/446ea680528e2d94c2852f97678e57d6.pn=
+g" />            </td>                    <td width=3D"100%" style=3D"pad=
+ding: 0; margin: 0;" valign=3D"top">            <p style=3D"font-family: =
+'Lucida Grande','Lucida Sans Unicode','Lucida Sans',Verdana,Tahoma,sans-s=
+erif; font-size: 15px; line-height: 18px; margin-bottom: 0; margin-top: 0=
+; padding: 0; color:#1b1d1e;">                                           =
+                         <strong>fortune</strong> (PeoplePerHour Support)=
+                                                            </p>         =
+   <p style=3D"font-family: 'Lucida Grande','Lucida Sans Unicode','Lucida=
+ Sans',Verdana,Tahoma,sans-serif; font-size: 13px; line-height: 25px; mar=
+gin-bottom: 15px; margin-top: 0; padding: 0; color:#bbbbbb;">            =
+  Oct 29, 10:06 EET            </p>                                    <d=
+iv class=3D"zd-comment" style=3D"color: #2b2e2f; font-family: 'Lucida San=
+s Unicode', 'Lucida Grande', 'Tahoma', Verdana, sans-serif; font-size: 14=
+px; line-height: 22px; margin: 15px 0">Hello Md,<br /><br />My name is Fo=
+rtune and I am with the Customer Support team. I will be taking over the =
+case from now and I will do my best in order for us to resolve it.<br /><=
+br />I have reviewed your Profile account <a href=3D"mailto:hello@cyberpo=
+llution.org" rel=3D"noreferrer">hello@cyberpollution.org</a> and I can se=
+e that you have not submitted your Freelancer application yet. Please let=
+ me guide you through the process in order to start selling on our Platfo=
+rm.=C2=A0<br /><br />The first thing and most important is to submit your=
+ application which will be reviewed by the Moderation team, which the dep=
+artment in charge of evaluating our Freelancers' applications.=C2=A0<br /=
+><br />For your convenience, please follow this=C2=A0<a href=3D"https://w=
+ww.peopleperhour.com/dashboard/seller" rel=3D"noreferrer" style=3D"font-s=
+ize: 14px">link</a>=C2=A0and submit your application. The verification pr=
+ocess can take up to 1 working day. Once it gets approved then you will b=
+e able to apply for Jobs on the site.=C2=A0<br /><br />If you have any re=
+maining questions about the issue, you=E2=80=99re more than welcome to le=
+t me know. If however my reply has solved your issue then I=E2=80=99d app=
+reciate it if you inform me accordingly; you=E2=80=99ll then receive a se=
+parate email containing a customer satisfaction survey. Your feedback is =
+extremely important to us because it helps us improve the quality of our =
+services so I=E2=80=99d be very grateful if you took the time to particip=
+ate and rate my support to you.<br /><br />Have a nice day.<br /><br />Fo=
+rtune<br />PPH Customer Support<br /><br />Follow us on <a href=3D"https:=
+//www.facebook.com/peopleperhour" rel=3D"noreferrer">https://www.facebook=
+.com/peopleperhour</a><br />Follow us on <a href=3D"http://twitter.com/#!=
+/peopleperhour" rel=3D"noreferrer">http://twitter.com/#!/peopleperhour</a=
+><br /><br /></div><p>                                  </p></td>        =
+</tr>      </table>    </td>  </tr></table><p></p><table width=3D"100%" c=
+ellpadding=3D"0" cellspacing=3D"0" border=3D"0" role=3D"presentation">  <=
+tr>    <td width=3D"100%" style=3D"padding: 15px 0; border-top: 1px dotte=
+d #c5c5c5;">      <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"=
+0" border=3D"0" style=3D"table-layout:fixed;" role=3D"presentation">     =
+   <tr>                      <td valign=3D"top" style=3D"padding: 0 15px =
+0 15px; width: 40px;">              <img width=3D"40" height=3D"40" alt=3D=
+"" style=3D"height: auto; line-height: 100%; outline: none; text-decorati=
+on: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-rad=
+ius: 5px;" src=3D"https://peopleperhour.zendesk.com/system/photos/3602/36=
+01/9053/avatar-1540738743.png" />            </td>                    <td=
+ width=3D"100%" style=3D"padding: 0; margin: 0;" valign=3D"top">         =
+   <p style=3D"font-family: 'Lucida Grande','Lucida Sans Unicode','Lucida=
+ Sans',Verdana,Tahoma,sans-serif; font-size: 15px; line-height: 18px; mar=
+gin-bottom: 0; margin-top: 0; padding: 0; color:#1b1d1e;">               =
+               <strong>Md Morshed</strong>                          </p> =
+           <p style=3D"font-family: 'Lucida Grande','Lucida Sans Unicode'=
+,'Lucida Sans',Verdana,Tahoma,sans-serif; font-size: 13px; line-height: 2=
+5px; margin-bottom: 15px; margin-top: 0; padding: 0; color:#bbbbbb;">    =
+          Oct 28, 17:15 EET            </p>                              =
+      <div class=3D"zd-comment" style=3D"color: #2b2e2f; font-family: 'Lu=
+cida Sans Unicode', 'Lucida Grande', 'Tahoma', Verdana, sans-serif; font-=
+size: 14px; line-height: 22px; margin: 15px 0"><p style=3D"color: #2b2e2f=
+; font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Tahoma', Verdana,=
+ sans-serif; font-size: 14px; line-height: 22px; margin: 15px 0" dir=3D"a=
+uto">Please approve my seller profile thus i can apply job.</p></div>    =
+                              </td>        </tr>      </table>    </td>  =
+</tr></table></div>
+                          </td>
+                            <td width=3D"10">&nbsp;</td>
+                        </tr>
+                                                <tr align=3D"left">
+                            <td width=3D"40">&nbsp;</td>
+                            <td width=3D"550" height=3D"31">&nbsp;<br></t=
+d>
+                            <td width=3D"10">&nbsp;</td>
+                        </tr>
+                    </tbody></table>
+
+                              =
+
+          <!--<table width=3D"600" height=3D"75" cellpadding=3D"0" cellsp=
+acing=3D"0" border=3D"0" align=3D"center" style=3D"background: #fff; widt=
+h: 100%; max-width: 1000px;">
+                        <tbody><tr>
+                            <td width=3D"30">&nbsp;</td>
+                            <td width=3D"145" valign=3D"middle">
+                                <a href=3D"http://support.peopleperhour.c=
+om/forums" style=3D"font-size:13px;color:#000;text-decoration:none" targe=
+t=3D"_blank">Help</a>
+
+                            </td>
+                            <td width=3D"275">&nbsp;</td>
+                            <td width=3D"53" valign=3D"middle" style=3D"f=
+ont-size:11px;color:#565656">
+                                Follow Us                            </td=
+>
+                            <td width=3D"18" valign=3D"middle">
+                                <a href=3D"http://facebook.com/peopleperh=
+our" target=3D"_blank">
+                                <img src=3D"https://s3.amazonaws.com/pph-=
+email-templates/img/facebook.png" alt=3D"PeoplePerHour at Facebook" title=
+=3D"PeoplePerHour at Facebook" width=3D"8" height=3D"14" style=3D"padding=
+-top:4px;padding-left:5px">
+                                </a>
+                            </td>
+                            <td width=3D"20" valign=3D"middle">
+                                <a href=3D"http://twitter.com/peopleperho=
+ur" target=3D"_blank">
+                                <img src=3D"https://s3.amazonaws.com/pph-=
+email-templates/img/twitter.png" alt=3D"PeoplePerHour at Twitter" title=3D=
+"PeoplePerHour at Twitter" width=3D"20" height=3D"14" style=3D"padding-to=
+p:3px;padding-left:5px">
+
+                                </a>
+                            </td>
+                            <td width=3D"30">&nbsp;</td>
+                        </tr>
+                    </tbody></table>-->
+
+
+
+                </td>
+            </tr>
+            <tr>
+               =
+
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+        </tbody></table><div class=3D"yj6qo"></div><div class=3D"adL">
+    </div></div>
+<span style=3D'color:#FFFFFF' aria-hidden=3D'true'>[KZ3LMZ-4LDY]</span></=
+body></html><div itemscope itemtype=3D"http://schema.org/EmailMessage" st=
+yle=3D"display:none">  <div itemprop=3D"action" itemscope itemtype=3D"htt=
+p://schema.org/ViewAction">    <link itemprop=3D"url" href=3D"https://sup=
+port.peopleperhour.com/hc/requests/737639" />    <meta itemprop=3D"name" =
+content=3D"View ticket"/>  </div></div>=
+
+----==_mimepart_5bd6bf92d245e_37693fec53ccb954127539--

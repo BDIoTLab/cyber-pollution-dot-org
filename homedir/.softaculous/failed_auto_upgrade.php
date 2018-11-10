@@ -1,0 +1,2 @@
+a:1:{s:8:"26_60477";a:5:{s:5:"insid";s:8:"26_60477";s:8:"from_ver";s:5:"4.9.5";s:6:"to_ver";s:5:"4.9.6";s:10:"error_code";i:1;s:5:"error";s:145:"Backup was not successful so aborting the upgrade process. Following are the details :
+There were errors while adding the Database to the backup.";}}

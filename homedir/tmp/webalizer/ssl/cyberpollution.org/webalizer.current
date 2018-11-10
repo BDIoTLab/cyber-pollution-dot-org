@@ -1,0 +1,428 @@
+# Webalizer V2.23-08 Incremental Data - 08/03/2018 21:47:01
+2018 8 3 21 47 1
+1097 1058 1 116 12 26 17703963 136 38 0
+1 9 47 1 3
+460 450 9476876 1 57 18
+301 284 2850803 1 21 10
+336 324 5376284 1 58 10
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+38 36 2188029 9
+40 37 1335579 8
+20 20 775348 3
+55 54 1255697 4
+42 41 582319 2
+36 36 110536 1
+74 74 1926226 5
+41 41 214857 2
+53 52 473254 6
+95 88 1683768 40
+61 56 417900 1
+63 61 328457 4
+72 71 652057 3
+72 71 1799093 4
+34 33 218471 1
+55 53 848147 6
+54 50 1012642 29
+14 14 151326 2
+33 32 228542 2
+33 29 106689 1
+37 36 641200 2
+35 35 305311 1
+12 11 234353 0
+28 27 214162 0
+0
+0
+0
+1058
+0
+0
+0
+0
+0
+0
+0
+7
+0
+0
+0
+0
+0
+0
+0
+0
+0
+28
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+2
+0
+# -urls- 
+/sitemap_index.xml
+0 1 0 827 0 0
+/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js
+0 4 8820700510700271407 259884 0 0
+/sitemap-page.xml
+0 1 0 6617 0 0
+/sql-injection-attack/
+0 3 0 88756 1 1
+/donation-confirmation/
+0 3 0 90245 0 0
+/wp-content/plugins/unyson/framework/extensions/shortcodes/shortcodes/calendar/static/js/scripts.js
+0 1 0 5145 0 0
+/fw-event-slug/gift-unwrapping-day/
+0 2 0 66809 0 0
+/wp-content/themes/philanthropy-parent/js/lazysizes.min.js
+0 3 0 79962 0 0
+/wp-content/themes/philanthropy-parent/css/calendar.css
+0 1 0 10339 0 0
+/wp-content/themes/philanthropy-parent/js/lib/respond.min.js
+0 2 0 8754 0 0
+/donation-history/
+0 2 0 62303 0 0
+/pricing/
+0 2 0 141050 0 0
+/wp-content/plugins/unyson/framework/extensions/shortcodes/shortcodes/section/static/js/background.js
+0 3 0 20223 0 0
+/event-response/
+0 1 0 30737 0 1
+/wp-json/wp/v2/users/
+0 1 7021664 625 0 0
+/category/all/
+0 1 6996496 32039 1 0
+/fw-event-slug/charity-for-the-blind/
+0 4 0 137490 1 1
+/wp-content/themes/philanthropy-parent/js/lib/html5shiv.js
+0 2 0 4858 0 0
+/about/our-mission/
+0 3 0 96305 1 1
+/wp-content/plugins/unyson/framework/extensions/shortcodes/shortcodes/calendar/static/libs/jstimezonedetect/jstz.min.js
+0 1 0 5449 0 0
+/wp-content/plugins/give/readme.txt
+0 2 0 110978 0 0
+/am/wp-cron.php
+0 8 0 0 0 0
+/wp-content/themes/philanthropy-parent/css/animate.css
+0 4 0 289036 0 0
+/wp-content/themes/philanthropy-parent/js/lib/modernizr.min.js
+0 2 0 26644 0 0
+/placed-an-order-2/
+0 3 0 105664 1 0
+/emergency/
+0 3 0 88294 0 0
+/am/wp-content/uploads/2016/07/article3.jpg
+0 1 0 84329 0 0
+/am/category-sitemap.xml
+0 1 6996368 1023 0 0
+/wp-includes/js/underscore.min.js
+0 1 0 16410 0 0
+/wp-content/plugins/LayerSlider/static/layerslider/js/greensock.js
+0 2 0 235114 0 0
+/pricing-2/
+0 1 0 29430 0 1
+/am/wp-content/uploads/fusion-styles/fusion-0-archive.min.css
+0 2 0 1131666 0 0
+/am/portfolio-items/
+0 2 0 62282 2 1
+/contact/
+0 2 0 80963 0 0
+/wp-content/themes/philanthropy-parent/css/prettyPhoto.css
+0 4 0 79656 0 0
+/wp-content/themes/philanthropy-parent/js/jquery.mmenu.min.all.js
+0 3 0 107598 0 0
+/wp-content/plugins/unyson/framework/extensions/shortcodes/shortcodes/section/static/js/core.js
+0 4 0 29552 0 0
+/wp-includes/js/imagesloaded.min.js
+0 2 0 15988 0 0
+/malware-remove/
+0 2 0 59005 0 0
+/favicon.ico
+0 15 0 0 0 0
+/wp-content/themes/philanthropy-parent/js/jquery.carouFredSel-6.2.1-packed.js
+0 4 0 219120 0 0
+/wp-content/themes/philanthropy-parent/js/lib/bootstrap.min.js
+0 2 0 58194 0 0
+/wp-content/plugins/give/assets/dist/js/babel-polyfill.js
+0 2 0 180230 0 0
+/wp-includes/Requests/Hooker.php
+0 1 0 0 0 0
+/am/wp-content/uploads/2016/07/article5-500x383.jpg
+0 1 0 30975 0 0
+/cross-site-scripting-xss/
+0 2 0 59305 0 0
+/image-gallery/
+0 2 0 58112 1 2
+/wp-content/plugins/unyson/framework/extensions/shortcodes/shortcodes/section/static/js/transition.js
+0 3 0 4143 0 0
+/wp-content/plugins/give/assets/dist/js/give.js
+0 3 0 278001 0 0
+/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.transitions.js
+0 4 0 95324 0 0
+/project/stop-bullying/
+0 2 0 100969 0 0
+/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.kreaturamedia.jquery.js
+0 2 0 233222 0 0
+/wp-includes/js/jquery/jquery-migrate.min.js
+0 1 0 10056 0 0
+/our-vission/
+0 2 0 62545 0 0
+/category/all/ideas/
+0 2 0 63579 0 0
+/projects/
+0 1 0 52781 1 0
+/wp-admin/upgrade.php
+0 1 0 1 0 0
+/wp-content/plugins/unyson/framework/extensions/shortcodes/shortcodes/calendar/static/libs/bootstrap3/js/bootstrap.min.js
+0 1 0 36869 0 0
+/category/uncategorized/
+0 2 0 63427 0 0
+/wp-content/themes/philanthropy-parent/js/jquery.touchSwipe.min.js
+0 3 0 32406 0 0
+/wp-content/themes/philanthropy-parent/js/general.js
+0 2 0 103152 0 0
+/wp-content/themes/philanthropy-parent/js/selectize.min.js
+0 4 0 159648 0 0
+/wp-login.php
+0 635 0 1851313 0 0
+/am/
+0 3 0 261974 0 3
+/wp-content/uploads/the-core-style.css
+0 6 0 3419064 0 0
+/wp-content/plugins/translatepress-multilingual/assets/css/trp-floater-language-switcher.css
+0 2 0 3884 0 0
+/wp-includes/js/jquery/jquery.js
+0 1 0 97184 0 0
+/wp-includes/js/wp-embed.min.js
+0 3 0 4194 0 0
+/about/faq/
+0 3 0 106513 0 1
+/wp-includes/js/wp-emoji-release.min.js
+0 6 0 70936 0 0
+/am/wp-content/uploads/2016/07/creative-portfolio-6-2.jpg
+0 1 0 27917 0 0
+/wp-content/plugins/give/assets/dist/css/give.css
+0 2 0 112364 0 0
+/wp-content/plugins/revslider/public/assets/css/settings.css
+0 6 0 239370 0 0
+/wp-content/plugins/unyson/framework/extensions/shortcodes/shortcodes/section/static/css/background.css
+0 3 0 7698 0 0
+/wp-content/plugins/translatepress-multilingual/assets/css/trp-language-switcher.css
+0 2 0 5264 0 0
+/donations/
+0 4 0 132189 1 2
+/wp-content/plugins/translatepress-multilingual/assets/js/trp-language-switcher.js
+0 1 7021232 5476 0 0
+/am/author-sitemap.xml
+0 1 0 755 0 0
+/wp-content/themes/philanthropy-parent/js/scrollTo.min.js
+0 2 0 4506 0 0
+/get-involved/
+0 3 0 101963 1 1
+/wp-content/themes/philanthropy-parent/css/jquery.mmenu.all.css
+0 3 0 140841 0 0
+/wp-content/plugins/unyson/framework/static/libs/font-awesome/fonts/fontawesome-webfont.ttf
+0 4 0 662192 0 0
+/website-hacked/
+0 3 0 91487 1 1
+/events/
+0 4 0 169926 0 0
+/wp-content/plugins/unyson/framework/extensions/shortcodes/shortcodes/section/static/js/background.init.js
+0 4 0 1540 0 0
+/digital-forensic/
+0 2 0 61741 0 0
+/wp-content/plugins/give/assets/dist/images/icomoon.svg
+0 3 0 49158 0 0
+/
+0 29 0 1837930 17 14
+/wp-content/uploads/2016/03/footer-social-facebook.png
+0 2 0 400 0 0
+/wp-content/themes/philanthropy-parent/js/jquery.prettyPhoto.js
+0 3 0 127827 0 0
+/comments/feed/
+0 1 0 743 0 0
+/wp-content/themes/philanthropy-parent/js/jquery.customInput.js
+0 2 0 6968 0 0
+/wp-content/themes/philanthropy-parent/js/jquery.parallax.js
+0 3 0 5220 0 0
+/wp-content/plugins/LayerSlider/static/layerslider/css/layerslider.css
+0 5 0 105765 0 0
+/about/in-the-press/
+0 1 0 29127 0 0
+/wp-content/plugins/unyson/framework/extensions/shortcodes/shortcodes/calendar/static/js/calendar.js
+0 1 0 36957 0 0
+/project/the-time-is-now/
+0 1 0 51064 1 1
+/robots.txt
+0 27 0 1809 0 0
+/am/post-sitemap.xml
+0 1 0 8102 0 0
+/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js
+0 5 0 552820 0 0
+/feed/
+0 1 7021408 852 0 0
+/wp-content/themes/philanthropy-child/style.css
+0 2 0 1266 0 0
+/cyber-security/
+0 2 0 61229 0 0
+/am/wp-admin/upgrade.php
+0 1 0 1 0 0
+/wp-content/plugins/unyson/framework/static/libs/font-awesome/css/font-awesome.min.css
+0 2 0 62000 0 0
+/wp-content/themes/philanthropy-parent/css/bootstrap.css
+0 2 0 245994 0 0
+/wp-cron.php
+0 88 0 0 0 0
+/donations/donation-form-2/
+0 1 0 35136 0 1
+/about/our-team/
+0 3 0 137935 1 0
+/man-in-the-middle-attacks/
+0 3 0 88966 1 0
+/wp-content/themes/philanthropy-parent/style.css
+0 3 0 5919 0 0
+/am/wp-content/uploads/2016/07/article2-500x383.jpg
+0 1 0 22110 0 0
+/about/
+0 2 0 58761 0 0
+/wp-includes/js/jquery/ui/effect.min.js
+0 2 0 26840 0 0
+/readme.html
+0 1 0 7415 0 1
+/donations/donation-form-1/
+0 4 0 142408 4 3
+# End Of Table - urls
+# -sites- (monthly)
+s1.bitsboxhost.com
+0 1097 1058 17703963 38 1533308620
+/wp-json/wp/v2/users/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+s1.bitsboxhost.com
+0 336 324 5376284 10 1533308620
+/wp-json/wp/v2/users/
+# End Of Table - sites (daily)
+# -referrers- 
+https://www.cyberpollution.org/am/wp-cron.php
+0 8
+https://www.cyberpollution.org/wp-cron.php
+0 90
+https://www.cyberpollution.org/am/portfolio-items/
+0 2
+https://www.cyberpollution.org/wp-login.php
+0 314
+http://www.google.com/url
+0 23
+cyberpollution.org
+0 8
+https://www.cyberpollution.org/wp-admin/upgrade.php
+0 1
+- (Direct Request)
+0 580
+https://www.cyberpollution.org/
+0 65
+https://www.cyberpollution.org/am/wp-admin/upgrade.php
+0 1
+https://www.cyberpollution.org/donations/donation-form-1/
+0 3
+http://www.cyberpollution.org/
+0 2
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.1 (Windows NT 6.0; WOW64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/58.0.1145.75 Safari/537.37
+0 4
+Mozilla/5.0 (Windows NT 5.1; rv:29.0) Gecko/20100101 Firefox/29.0
+0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/6.0)
+0 23
+Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
+0 7
+SiteLockSpider [en] (WinNT; I ;Nav)
+0 10
+WordPress/4.9.7; https://www.cyberpollution.org/am
+0 7
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 16
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 141
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+0 3
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Safari/537.36
+0 43
+Googlebot-Image/1.0
+0 7
+Mozilla/5.0 zgrab/0.x (compatible; Researchscan/t13rl; +http://researchscan.comsys.rwth-aachen.de)
+0 1
+WordPress/4.9.8; https://www.cyberpollution.org
+0 28
+WordPress/4.9.7; https://www.cyberpollution.org
+0 63
+my.support.wordpress.com
+0 1
+Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)
+0 6
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 27
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 8
+Mozilla/5.0 (compatible; SeznamBot/3.2; +http://napoveda.seznam.cz/en/seznambot-intro/)
+0 23
+Mozilla/5.0 (Windows NT 6.0; rv:34.0) Gecko/20100101 Firefox/34.0
+0 631
+WordPress/4.9.8; https://www.cyberpollution.org/am
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.75 Safari/537.36
+0 4
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+0 16
+Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0
+0 12
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

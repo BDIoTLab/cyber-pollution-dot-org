@@ -1,0 +1,18 @@
+--- 
+documentroot: /home/cyberpollution/public_html
+group: cyberpollution
+hascgi: 0
+homedir: /home/cyberpollution
+ip: 167.114.173.207
+ipv6: ~
+owner: biswasit
+phpopenbasedirprotect: 1
+port: 8443
+secruleengineoff: ~
+serveradmin: webmaster@cyberpollution.org
+serveralias: mail.cyberpollution.org www.cyberpollution.org
+servername: cyberpollution.org
+ssl: 1
+usecanonicalname: 'Off'
+user: cyberpollution
+userdirprotect: ''

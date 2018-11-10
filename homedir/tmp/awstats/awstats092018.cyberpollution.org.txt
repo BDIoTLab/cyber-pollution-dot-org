@@ -1,0 +1,764 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201809 will be lost/reset.
+# Last config file used to build this data file was /home/cyberpollution/tmp/awstats/awstats.cyberpollution.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2021                
+POS_TIME 2706                
+POS_VISITOR 21278               
+POS_DAY 21399               
+POS_DOMAIN 3637                
+POS_LOGIN 3872                
+POS_ROBOT 4027                
+POS_WORMS 5419                
+POS_EMAILSENDER 5550                
+POS_EMAILRECEIVER 5693                
+POS_SESSION 22256               
+POS_SIDER 22465               
+POS_FILETYPES 5828                
+POS_DOWNLOADS 6226                
+POS_OS 6565                
+POS_BROWSER 7016                
+POS_SCREENSIZE 9749                
+POS_UNKNOWNREFERER 9823                
+POS_UNKNOWNREFERERBROWSER 11396               
+POS_ORIGIN 12005               
+POS_SEREFERRALS 12152               
+POS_PAGEREFS 12390               
+POS_SEARCHWORDS 13039               
+POS_KEYWORDS 13191               
+POS_MISC 2368                
+POS_ERRORS 13250               
+POS_CLUSTER 3728                
+POS_SIDER_404 13417               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20181001011836 366 100683 10075683812947
+FirstTime 20180901014102
+LastTime 20180930233541
+LastUpdate 20181001121509 366 0 365 0 0
+TotalVisits 288                 
+TotalUnique 1                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 1                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 331 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 112 523 18384085 81 165 5063415
+1 37 50 1474355 60 147 5028791
+2 39 103 3177734 82 193 5433894
+3 35 35 343020 65 144 4688123
+4 42 58 1309574 55 161 3978568
+5 53 425 13996938 67 106 1722202
+6 92 293 9524036 82 159 5015599
+7 46 219 5996273 69 130 3377522
+8 27 28 443829 70 216 8809907
+9 83 83 343985 122 148 7393351
+10 76 261 6568208 134 271 7158149
+11 54 311 12483860 59 179 4473283
+12 79 552 12367724 97 158 4353847
+13 47 169 5423492 50 153 5191962
+14 96 334 13394783 107 409 12671626
+15 421 1817 62668929 226 505 11435060
+16 657 2312 141192375 282 970 13888169
+17 216 840 33331935 126 214 5378754
+18 247 1054 48032560 150 292 8231638
+19 373 1069 70443314 183 374 9534847
+20 50 166 6073771 96 136 2109384
+21 32 32 587677 46 94 2997778
+22 38 38 414828 78 156 4214208
+23 219 622 29257140 196 324 8593380
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ca 3171 11394 497234425
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 30
+Googlebot/ 955 48251340 20180930232530 48
+bingbot/ 916 38050356 20180930232947 47
+bingpreview 257 11930218 20180927191617 0
+YandexBot/ 189 4334113 20180930230804 95
+facebookexternalhit/ 130 5058860 20180929143407 0
+spider 124 5473615 20180930233548 0
+PhantomJS 119 4865742 20180923191546 0
+SeznamBot/ 89 1627679 20180930051719 42
+no_user_agent 65 4803618 20180930092428 0
+MJ12bot/ 64 1612153 20180930045931 24
+Google[\x20]Web[\x20]Preview 61 2378345 20180924153536 0
+crawl 60 2478214 20180926024940 0
+YandexMobileBot/ 51 2278101 20180929161436 0
+Sogou[\x20]web[\x20]spider/ 45 2881928 20180930190528 0
+(firefox/)([0-9]\.|[0-1][0]\.) 35 1339936 20180925193727 0
+sitemap 27 1090861 20180921173433 0
+unknown 25 2835 20180927173304 25
+XML[\x20]Sitemaps[\x20]Generator 22 816697 20180920153100 1
+MegaIndex\.ru/ 21 779840 20180908104636 1
+Baiduspider/ 15 737749 20180927190931 1
+php 4 1480 20180929162059 0
+Seobility 4 191984 20180924002143 1
+Python\-urllib/ 4 64469 20180930070015 1
+AhrefsBot/ 3 259 20180923033538 3
+link 3 191427 20180911164026 0
+Googlebot\-Image/ 1 16335 20180925182817 0
+curl 1 64344 20180926081337 0
+Slackbot\-LinkExpanding 2 66169 20180924041900 0
+DuckDuckGo\-Favicons\-Bot/ 1 63779 20180919032645 0
+Who\.is[\x20]Bot 1 63953 20180923154842 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 17
+eot 12 269388 0 0
+map 3 1608966 0 0
+svg 52 83993 0 0
+css 2246 88325196 0 0
+png 1075 2146893 0 0
+ttf 3 347264 0 0
+woff2 40 2515856 0 0
+woff 36 532224 0 0
+php 2151 212627944 0 0
+xml 15 26438 0 0
+gif 26 248038 0 0
+jpg 157 16682806 0 0
+jpeg 435 7431193 0 0
+html 891 46788768 0 0
+xsl 1 3626 0 0
+Unknown 20 17479 0 0
+js 4231 117578353 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 6
+//wp-content/plugins/give/readme.txt 30 0 2000446
+/wp-content/plugins/give/readme.txt 4 0 268604
+/wp-content/plugins/unyson/readme.txt 4 0 77556
+/wp-content/plugins/translatepress-multilingual/readme.txt 4 0 79032
+/wp-content/plugins/wordpress-seo/readme.txt 2 0 20364
+/sitemap.xsl 1 0 3626
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 28
+winlong 66 13
+macosx5 2 2
+Unknown 840 785
+macosx8 10 10
+ios_ipad 4 3
+macosx6 1 1
+macosx10 15 15
+macosx4 3 3
+linuxubuntu 167 17
+win8 114 15
+linuxandroid 487 35
+macosx7 2 2
+winxp 64 40
+unix 64 3
+ios_iphone 67 9
+linuxsuse 1 1
+win7 1815 311
+macosx12 146 30
+macosx9 2 2
+win10 1404 163
+win2003 7 7
+win8.1 237 38
+macosx11 68 7
+winunknown 5 5
+macosx 193 12
+win2000 5 5
+linux 5604 1636
+psp 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 131
+chrome38.0.1025.166 57 1
+chrome61.0.3163.100 32 32
+chrome66.0.3359.139 64 4
+opera40.6.1077.6349 1 1
+chrome13.0.782.32 1 1
+chrome58.0.1145.75 2 2
+chrome12.0.742.112 1 1
+chrome65.0.3325.181 3 1
+safari8.0 1 1
+opera42.0.4316.9044 1 1
+chrome37.0.2062.120 96 4
+firefox46.0 2 2
+Unknown 797 742
+chrome69.0.3497.100 2772 170
+firefox47.0 7 7
+chrome54.0.2857.67 2 2
+chrome52.0.2784.33 2 2
+chrome49.0.2638.31 2 2
+netscape4.0 1 1
+chrome59.0.3071.36 6 1
+android 4 4
+firefox61.0 401 41
+chrome67.0.3396.99 164 49
+mozilla 100 51
+chrome40.0.2214.109 57 2
+chrome53.0.2786.69 2 2
+chrome61.0.3163.79 2 2
+firefox45.65.18 1 1
+opera41.9.3063.8791 1 1
+safari6.0.5 4 4
+chrome49.0.2627.47 2 2
+firefox57.0 2 2
+chrome50.0.2702.4 2 2
+msie11.0 3 2
+chrome50.0.2666.55 2 2
+msie5.01 1 1
+firefox42.0 1 1
+chrome70.0.3538.22 2 1
+firefox52.59.02 1 1
+safari5.2.7 4 4
+firefox59.0 2 2
+chrome57.5.9568.4296 1 1
+chrome63.0.3239.84 1 1
+chrome14.0.794.0 1 1
+chrome53.0.2822.42 2 2
+chrome55.0.2903.72 2 2
+firefox49.0 6 6
+safari5.1.3 1 1
+chrome33.0.1750.517 1 1
+chrome52.0.2749.9 2 2
+chrome53.0.2809.59 2 2
+netscape 3 3
+chrome41.0.2272.96 3 3
+safari11.0 60 3
+chrome51.0.2725.86 2 2
+chrome69.0.3452.0 58 1
+firefox52.51.08 1 1
+firefox53.0 30 30
+chrome69.0.3494.0 60 1
+safari11.1.2 62 1
+chrome64.0.3282.167 1 1
+opera8.50 3 3
+chrome66.0.3349.0 64 2
+firefox45.60.18 1 1
+chrome41.0.2272.118 247 13
+netscape5.0 3 3
+chrome65.0.3325.146 73 6
+chrome52.0.2769.59 2 2
+firefox45.67.10 1 1
+firefox45.68.11 1 1
+chrome56.0.2948.8 2 2
+chrome63.0.3239.132 29 26
+chrome49.0.2623.75 78 78
+chrome66.0.3440.43 118 2
+safari5.5.1 1 1
+chrome56.0.2969.61 2 2
+firefox63.0 64 2
+chrome67.0.3396.79 62 3
+chrome34.0.1847.116 6 6
+opera44.5.1791.6963 1 1
+chrome52.0.2743.116 169 33
+firefox52.0.2 1 1
+safari4.7.2 3 3
+chrome60.0.3112.101 3 3
+firefox62.0 4474 1411
+chrome68.0.3440.106 101 12
+msie9.0 380 179
+edge36 4 4
+firefox51.0 6 6
+safari6.0 6 4
+chrome57.4.9156.5428 1 1
+firefox45.0 12 12
+edge12 2 2
+chrome45.0.2454.101 1 1
+firefox50.0 118 6
+chrome53.8.3492.8764 1 1
+chrome52.0.2770.86 2 2
+firefox48.0 10 10
+safari5.3.8 1 1
+chrome49.0.2632.9 2 2
+opera42.0.5060.0708 1 1
+chrome49.0.2624.77 2 2
+edge34 4 4
+firefox33.0 1 1
+chrome34.0.1847.131 2 2
+chrome52.0.2766.28 2 2
+chrome54.0.2840.71 14 14
+msie6.0 26 2
+safari4.6.2 1 1
+chrome60.0.3112.50 1 1
+chrome24.0.1295.0 1 1
+edge15 1 1
+chrome45.0.2454.94 1 1
+msie7.0 53 0
+safari5.6.1 1 1
+chrome54.0.2870.86 2 2
+firefox 20 20
+chrome54.0.2855.62 2 2
+chrome57.4.9168.5430 1 1
+iphone 4 4
+msie8.0 82 9
+chrome53.0.2785.104 4 4
+chrome63.0.3239.26 1 1
+opera40.6.1925.7297 1 1
+opera44.5.1703.6075 1 1
+firefox52.64.17 2 2
+safari 2 1
+chrome66.0.3359.158 64 3
+chrome69.0.3497.81 75 13
+chrome66.0.3359.126 58 2
+opera52.0.2871.40 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 23
+Mozilla/5.0_(compatible) 20180923155356
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20180909075114
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t13rl;__http://researchscan.comsys.rwth-aachen.de) 20180917122234
+Go-http-client/1.1 20180925163153
+Mozilla/4.0 20180913142657
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12sns;__http://researchscan.comsys.rwth-aachen.de) 20180926005207
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20180910212505
+Mozilla 20180925192442
+Mozilla/5.0_(compatible;_WPScans/1.0;__https://wpscans.com) 20180919160906
+WordPress/4.9.8;_https://www.cyberpollution.org/am 20180930232517
+WordPress/4.9.8;_https://www.cyberpollution.org 20180930232947
+Mozilla/5.0_zgrab/0.x 20180926152719
+\ 20180925204058
+WordPress 20180926132133
+WordPress/4.7.11;_https://firstsiteguide.com 20180919155455
+Mozilla/5.0_(compatible;_Dataprovider.com) 20180916172350
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20180927164723
+Mozilla/5.0_(compatible;_ips-agent) 20180917080625
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t13a;__http://researchscan.comsys.rwth-aachen.de) 20180926014915
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12ca;__http://researchscan.comsys.rwth-aachen.de) 20180927221751
+WhatsApp/2.18.277_A 20180923165637
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20180924171010
+Grammarly/1.0_(http://www.grammarly.com) 20180910114009
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 11
+wp-windowsphone 20180911153143
+Go-http-client/1.1 20180925163153
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20180910212505
+WhatsApp/2.18.277_A 20180923165637
+WordPress/4.9.8;_https://www.cyberpollution.org/am 20180930232517
+WordPress/4.9.8;_https://www.cyberpollution.org 20180930232947
+\ 20180925204058
+WordPress 20180926132133
+Windows_Live_Writer 20180925100431
+WordPress/4.7.11;_https://firstsiteguide.com 20180919155455
+Grammarly/1.0_(http://www.grammarly.com) 20180910114009
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 523 788
+From1 2 2
+From2 235 548
+From3 27 27
+From4 2384 10029
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 5
+www_google_com 184 386
+www_google_com_lb 3 58
+www_google_nl 0 1
+google_com 47 102
+youtube 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 12
+http://m.facebook.com 5 5
+https://www.facebook.com 5 5
+https://l.facebook.com 4 4
+https://www.dareboost.com 3 3
+https://www.freelancer.com/projects/wordpress/Complete-SEO-for-wordpress-website/ 2 2
+http://192.99.3.110:80 2 2
+http://192.99.3.110 1 1
+https://www.freelancer.com/projects/internet-marketing/need-seo-expert-for-keywords-17825117/ 1 1
+https://www.freelancer.com/messages 1 1
+https://www.freelancer.com/dashboard/ 1 1
+https://lm.facebook.com 1 1
+https://www.freelancer.com/jobs/seo/1/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+302 1578 350606
+503 12 288
+405 14 504
+500 42 29360
+301 202 20398
+400 13 13
+404 318 8825437
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 132
+/wp-content/plugins/category-grid-view-gallery/cat_grid.php 1 -
+/javascript:void(0 6 http://cyberpollution.org
+/seos.php 1 cyberpollution.org
+/am/wp-content/uploads/fusion-scripts/bb9ea80e058a3d93902bbd8d9be09f8b.min.js 2 https://www.cyberpollution.org/am/about-2/
+/am/wp-content/uploads/fusion-styles/fusion-735.min.css 2 https://www.cyberpollution.org/am/2016/05/29/the-best-creative-tools-to-use/
+/en/news-sitemap.xml 1 -
+/ 20 -
+/am/wp-content/uploads/fusion-styles/fusion-1052.min.css 2 https://www.cyberpollution.org/am/event/
+/wp-admin/admin-ajax.php 1 http://cyberpollution.org/wp-admin/admin-ajax.php
+/google822c13372855c536.html 2 -
+/wp-content/plugins/wp-homepage-slideshow/functions.php 1 -
+/wp-content/plugins/wp-filemanager/fm.php 1 -
+/wp/wp-content/themes/twentyseventeen/assets/js/skip-link-focus-fix.js 2 http://www.cyberpollution.org/wp/
+/wp-content/uploads/2018/08/tbl_status.php 1 cyberpollution.org
+/post-a-job/ 2 http://cyberpollution.org/post-a-job/
+/wp/wp-includes/js/wp-embed.min.js 2 http://www.cyberpollution.org/wp/
+/pma/scripts/setup.php 4 -
+/wp-content/plugins/cimy-user-extra-fields/README_OFFICIAL.txt 1 -
+/searchreplacedb2.php 8 http://cyberpollution.org/searchreplacedb2.php
+/wp-includes/SimplePie/Canonical.php 1 cyberpollution.org
+/wp-content/plugins/duplicator/readme.txt 1 https://www.cyberpollution.org/wp-content/plugins/duplicator/readme.txt
+/wp-content/uploads/2018/09/seo_script.php 1 cyberpollution.org
+/license.php 3 https://www.cyberpollution.org/license.php
+/am/wp-content/uploads/fusion-scripts/60516e85885c9a8e527096f936c51d3c.min.js 3 https://www.cyberpollution.org/am/portfolio-items/when-the-planets-align/
+/baer.php 1 -
+/tbl_status.php 1 cyberpollution.org
+/wp-content/plugins/wp-e-commerce/license.txt 1 -
+/wp-content/plugins/simple-dropbox-upload-form/ 1 -
+/xmlsitemap.php 1 -
+/wp-content/plugins/mac-dock-gallery/bugslist.txt 1 -
+/wp-content/plugins/fcchat/default.png 1 -
+/index.html 1 http://google.com
+/wp-content/themes/twentyfifteen/genericons/wp-console.php 1 cyberpollution.org
+/wp-content/plugins/smart-google-code-inserter/screenshot1.jpg 8 http://cyberpollution.org/wp-content/plugins/smart-google-code-inserter/screenshot1.jpg
+/sitemap.xml/bingsiteauth.xml 1 -
+/page-sitemap.xml 2 -
+/wp-content/uploads/ 2 -
+/th1s_1s_a_4o4.html 30 -
+/sitemap.xml/BingSiteAuth.xml 1 -
+/scripts/setup.php 4 -
+/status 1 -
+/wp-content/plugins/zingiri-web-shop/admin.css 1 -
+/wp-content/themes/sketch/wp-telemetry.php 1 -
+/wdb.php 1 -
+/installer.php 19 http://www.cyberpollution.org/installer.php
+/wp-content/plugins/woocommerce-product-addon/js/script.js 1 cyberpollution.org
+/wp-res.php 1 -
+/wp-includes/class-wp-bar.php 1 cyberpollution.org
+/en/sitemap.xml 1 -
+/phpmyadmin/ 2 -
+/assets/images/seo_script.php 1 cyberpollution.org
+/console 2 -
+/about-us/javascript:void(0 5 -
+/wp-content/plugins/wpstorecart/lgpl.txt 1 -
+/am/wp-content/uploads/fusion-styles/fusion-10.min.css 2 https://www.cyberpollution.org/am/contact/
+/am/wp-content/uploads/fusion-styles/fusion-362.min.css 1 https://www.cyberpollution.org/am/portfolio-items/when-the-planets-align/
+/wp-content/plugins/user-meta/readme.txt 1 -
+/ads.txt 1 -
+/wp-content/plugins/wp-property/action_hooks.php 1 -
+/wp-content/plugins/background-image-cropper/image/ico/seo_script.php 1 cyberpollution.org
+/wp-content/themes/maxbusiness/baer.php 1 -
+/wp-content/uploads/2018/2018.php 1 cyberpollution.org
+/wp-content/uploads/the-core-style.css/readme.html 8 -
+/home-2/ 6 -
+/am/wp-content/uploads/fusion-styles/fusion-61.min.css 3 https://www.cyberpollution.org/am/portfolio-items/avada-law-project/
+/wp-content/plugins/wpmarketplace/readme.txt 2 -
+/am/wp-content/uploads/fusion-styles/fusion-359.min.css 2 https://www.cyberpollution.org/am/2016/07/22/when-is-creative-too-creative/
+/about/faq/javascript:void(0 5 -
+/wp-content/plugins/nmedia-user-file-uploader/readme.txt 1 -
+/wp-content/plugins/contact-form-7/license.txt 1 -
+/wp/wp-includes/js/jquery/jquery-migrate.min.js 2 http://www.cyberpollution.org/wp/
+/wp-content/themes/clean-commerce/test2.php 1 cyberpollution.org
+/wp-content/plugins/resume-submissions-job-postings/installer.php 1 -
+/wp-content/plugins/magic-fields/MF_Constant.php 1 -
+/wp/wp-content/themes/twentyseventeen/assets/js/global.js 2 http://www.cyberpollution.org/wp/
+/wp-config.php~ 2 http://cyberpollution.org/wp-config.php~
+/wp-content/plugins/ckeditor-for-wordpress/ckeditor.config.js 1 -
+/wp-content/plugins/wp-editor/readme.txt 1 -
+/installer-backup.php 22 http://www.cyberpollution.org/installer-backup.php
+/.well-known/assetlinks.json 5 -
+/wp-content/plugins/user-avatar/readme.txt 1 -
+/- 2 -
+/wp-content/plugins/user-photo/admin.css 1 -
+/wp-content/plugins/wp-image-news-slider/functions.php 1 -
+/wp-content/plugins/apikey/tbl_status.php 1 cyberpollution.org
+/wp-content/uploads/wp-crawl.php 1 cyberpollution.org
+/am/wp-content/uploads/fusion-styles/fusion-74.min.css 1 https://www.cyberpollution.org/am/2016/07/18/design-basics-always-carry-a-notebook/
+/give_forms-sitemap.xml 1 -
+/wp-content/uploads/2016/03/project-details-img-1.jpg 1 https://www.cyberpollution.org/
+/.well-known/security.txt 1 -
+/wp-content/plugins/another-wordpress-classifieds-plugin/AWPCP.po 1 -
+/css_.php 1 cyberpollution.org
+/wp-content/plugins/font-uploader/font-uploader-free.php 1 -
+/wp-content/plugins/custom-content-type-manager/index.html 1 -
+/wp-content/plugins/wp-ceo/sh.php 1 cyberpollution.org
+/am/wp-content/uploads/fusion-styles/fusion-975.min.css 1 https://www.cyberpollution.org/am/about-2/
+/sitemap_index.xml 3 -
+/wp-content/plugins/gallery-plugin/gallery-plugin.php 1 -
+/wp-content/uploads/2018/08/seos.php 1 cyberpollution.org
+/wp-content/plugins/kingcomposer/assets/js/kc.fonts.js 1 cyberpollution.org
+/43bb8195670bc96b6e09c53ebba3dbec.html 1 http://cyberpollution.org/
+/test_error_page_url/ 1 http://google.com
+/wp-content/plugins/give/assets/js/admin/admin-widgets.min.js 2 https://www.cyberpollution.org/wp-admin/widgets.php
+/wp/wp-includes/js/jquery/jquery.js 2 http://www.cyberpollution.org/wp/
+/wp/wp-content/themes/twentyseventeen/style.css 2 http://www.cyberpollution.org/wp/
+/data:image/gif 1 https://www.cyberpollution.org/data:image/gif
+/home/ 1 -
+/wp-content/uploads/sgqn82nf032.php 1 https://www.cyberpollution.org/wp-content/uploads/sgqn82nf032.php
+/phpMyAdmin/scripts/setup.php 2 -
+/wp-crawl.php 2 cyberpollution.org
+/sitemap.xml/LiveSearchSiteAuth.xml 1 -
+/wp-content/plugins/revslider/readme.txt 4 -
+/41168077 1 http://google.com
+/wp-content/uploads/2018/08/seo_script.php 1 cyberpollution.org
+/news-sitemap.xml 1 -
+/browserconfig.xml 1 http://google.com
+/wp/wp-content/themes/twentyseventeen/assets/js/jquery.scrollTo.js 2 http://www.cyberpollution.org/wp/
+/wp-content/plugins/ultimate-member/assets/js/um-scripts.js 10 http://cyberpollution.org/wp-content/plugins/ultimate-member/assets/js/um-scripts.js
+/fw-portfolio-sitemap.xml 1 -
+/wp-content/plugins/ninja-forms/ninja_forms.php 1 -
+/wp-content/plugins/arforms/js/filedrag/filedrag.js 1 cyberpollution.org
+/en/sitemap_index.xml 1 -
+/wp-content/plugins/wp-db-ajax-made/wp-ajax.php 1 -
+/te3/signup.php 1 -
+/wp-content/plugins/front-end-upload/destination.php 2 -
+/wp-upload-class.php 2 cyberpollution.org
+/wp/wp-includes/js/wp-emoji-release.min.js 2 http://www.cyberpollution.org/wp/
+/wp-content/plugins/auto-attachments/a-a.css 1 -
+/wp-content/plugins/LayerSlider/readme.txt 4 -
+/wp-content/themes/twentyeleven/seo_script.php 1 cyberpollution.org
+/wp-content/uploads/2018/08/st.php 1 cyberpollution.org
+/wp-content/plugins/nextgen-gallery/changelog.txt 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1
+192.99.3.110 3171 11394 497234425 20180930233541
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20180901 52 143 5655255 9
+20180902 57 66 1838034 11
+20180903 62 62 1094927 5
+20180904 54 67 2348995 10
+20180905 52 122 4101375 9
+20180906 63 75 938269 9
+20180907 75 267 15902233 10
+20180908 35 44 1500976 11
+20180909 40 53 1491081 9
+20180910 33 38 1394277 13
+20180911 31 38 807496 11
+20180912 38 101 3187955 13
+20180913 32 155 5781733 10
+20180914 32 98 3360094 13
+20180915 35 97 3583770 8
+20180916 33 39 895706 9
+20180917 44 169 6539835 11
+20180918 189 717 27683271 9
+20180919 237 774 36302322 10
+20180920 81 197 9567906 12
+20180921 504 1324 93244599 9
+20180922 337 813 84614438 9
+20180923 402 2389 57340694 10
+20180924 191 1903 55430873 6
+20180925 58 381 15401096 9
+20180926 138 358 19364171 8
+20180927 59 417 16594423 9
+20180928 38 194 7812988 9
+20180929 31 36 745311 10
+20180930 138 257 12710322 7
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30mn-1h 60
+30s-2mn 5
+0s-30s 99
+2mn-5mn 1
+5mn-15mn 8
+15mn-30mn 30
+1h+ 85
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 106
+/wp-admin/admin-ajax.php 715 35016908 0 0
+/wp-cron.php 629 0 257 170
+/ 482 31121724 14 47
+/wp-admin/load-styles.php 146 24427743 0 2
+/wp-login.php 141 409690 8 26
+/wp-admin/load-scripts.php 107 25445534 0 0
+/wp-admin/admin.php 95 16116768 0 0
+/am/wp-cron.php 70 0 9 14
+/wp-admin/post.php 67 94140453 0 0
+/contact/ 52 2123201 0 12
+/wp-admin/edit.php 39 5463136 0 0
+/wp-content/plugins/unyson/framework/static/libs/font-awesome/fonts/fontawesome-webfont.woff2 37 2391960 0 1
+/wp-admin/update-core.php 34 1842670 0 0
+/about-us/ 30 965919 0 0
+/about/our-team/ 26 1205043 0 0
+/about/faq/ 23 864496 0 0
+/about/our-mission/ 21 690055 0 0
+/pricing/ 21 1538671 0 2
+/digital-forensic/ 19 615670 0 1
+/wp-admin/options-general.php 18 1515095 0 0
+/get-involved/ 17 594487 0 0
+/website-hacked/ 16 490217 0 1
+/wp-admin/plugins.php 16 1239079 0 0
+/events/ 15 681113 0 0
+/wp-content/plugins/give/assets/dist/fonts/icomoon.woff 15 85800 0 0
+/wp-admin/nav-menus.php 2 692724 0 0
+/comments/feed/ 4 2972 0 0
+/category/uncategorized/ 1 34103 0 0
+/donations/donation-form-1/ 2 83086 0 0
+/wp-admin/upgrade.php 9 1096 0 0
+/placed-an-order-2/ 12 434835 0 1
+/wp-content/plugins/unyson/framework/extensions/shortcodes/shortcodes/calendar/views/events-list.html 7 3766 0 0
+/wp-admin/ 14 1679054 0 0
+/category/all/ 10 323539 0 0
+/project/the-time-is-now/ 1 51135 0 0
+/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 1 18720 0 0
+/donate/ 1 46193 0 0
+//xmlrpc.php 6 2406 0 0
+/sitemap-give_forms.xml 1 621 0 0
+/wp-json/oembed/1.0/embed 7 15833 0 0
+/am/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-regular-400.woff2 1 12188 0 0
+/wp-admin/post-new.php 1 829873 0 0
+/wp-admin/index.php 5 671470 0 0
+/xmlrpc.php 14 5642 0 7
+/wp-admin/profile.php 3 178351 0 0
+/search/1/feed/rss2/ 6 157821 0 2
+/wp-content/plugins/unyson/framework/static/libs/unycon/fonts/Unycon.ttf 1 180520 0 0
+/our-vission/ 12 374797 0 1
+/wp-admin/install.php 1 1140 0 0
+/feed/atom/ 1 676 0 0
+/wp-content/themes/philanthropy-parent/css/bootstrap.css.map 1 220790 0 0
+/wp-admin/credits.php 1 106207 0 0
+/search/1/ 1 50559 0 0
+/readme.html 2 14830 0 0
+/am/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-solid-900.woff2 1 50372 0 0
+/wp-admin/theme-editor.php 7 2600129 0 0
+/wp-content/plugins/give/assets/dist/js/babel-polyfill.js.map 1 737603 0 0
+/about/ 1 29466 0 0
+/wp-json/wp/v2/ 4 236456 0 0
+/image-gallery/ 9 266095 0 0
+/page/2/ 1 50543 0 0
+/search/1/page/2/ 1 50561 0 0
+/am/ 1 87377 0 0
+/wp-admin/about.php 10 577795 0 0
+/wp-includes/fonts/dashicons.eot 12 269388 0 0
+/am/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/icomoon.woff 1 17800 0 0
+/wp-admin/freedoms.php 2 96807 0 0
+/fw-event-slug/charity-for-the-blind/ 1 34458 0 0
+/about/in-the-press/ 14 419376 0 0
+/wp-json/yoast/v1/statistics 5 640 0 0
+/feed/ 5 4260 0 0
+/.well-known/acme-challenge/eQeDHpmCCYa-9xXzHUuIkrJQxqNrJkE_gTSqulwjTbM 1 87 0 0
+/project/healing-through-art/ 1 50673 0 0
+/project/stop-bullying/ 1 50560 0 0
+//wp-json/wp/v2/users/ 2 1250 0 0
+/projects/ 4 211842 0 0
+/.well-known/acme-challenge/Ip-oGidlU_b-1bgziNGPkk17OOBHXBrRa39ATWJpuQI 1 87 0 0
+/category/all/feed/ 1 883 0 0
+/wp-content/plugins/unyson/framework/static/libs/font-awesome/fonts/fontawesome-webfont.ttf 1 165548 0 0
+/wp-content/plugins/give/assets/dist/js/give.js.map 1 650573 0 0
+/project/the-time-is-now/feed/ 1 778 0 0
+/wp-admin/widgets.php 2 614952 0 0
+/2018/09/ 1 30564 0 0
+//wp-includes/wlwmanifest.xml 2 2090 0 0
+/wp-admin/plugin-install.php 6 540934 0 0
+/wp-content/plugins/unyson/framework/extensions/shortcodes/shortcodes/calendar/views/month.html 7 6566 0 0
+/google81c7c780c2ffbd63.html 3 159 0 0
+/sitemap.xml 6 17457 0 0
+/sitemap.xml. 1 762 0 0
+/wp-content/plugins/unyson/framework/core/components/extensions/manager/static/unyson-font-icon/fonts/icomoon.ttf 1 1196 0 0
+/wp-content/plugins/unyson/framework/static/libs/font-awesome/fonts/fontawesome-webfont.woff 5 392096 0 1
+/wp-content/plugins/unyson/framework/extensions/shortcodes/shortcodes/calendar/views/month-day.html 7 8078 0 0
+/wp-json/ 7 449860 0 0
+/wp-admin/update.php 4 91112 0 0
+/wp-json/yoast/v1/ryte 5 70 0 0
+/feed/rdf/ 1 841 0 0
+/what-is-cyber-pollution/ 3 125961 0 0
+/wp-content/plugins/unyson/framework/core/components/extensions/manager/static/unyson-font-icon/fonts/icomoon.woff 14 17808 0 0
+/event-response/ 8 246832 0 0
+/am/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-brands-400.woff2 1 61336 0 0
+/author/morshedadmin/ 1 30805 0 0
+/cyber-security/ 8 245000 0 0
+/project/stop-bullying/feed/ 1 772 0 0
+/wp-links-opml.php 1 230 0 0
+/wp-includes/wlwmanifest.xml 6 6270 0 0
+/project/healing-through-art/feed/ 1 790 0 0
+END_SIDER

@@ -1,0 +1,968 @@
+Return-Path: <b08270bf32chello=cyberpollution.org@bounce.twitter.com>
+Delivered-To: hello@cyberpollution.org
+Received: from s1.bitsboxhost.com
+	by s1.bitsboxhost.com with LMTP id sMUkON5nzlsORwAA+UFKaw
+	for <hello@cyberpollution.org>; Tue, 23 Oct 2018 00:14:22 +0000
+Return-path: <b08270bf32chello=cyberpollution.org@bounce.twitter.com>
+Envelope-to: hello@cyberpollution.org
+Delivery-date: Tue, 23 Oct 2018 00:14:22 +0000
+Received: from spring-chicken-ad.twitter.com ([199.16.156.143]:53395)
+	by s1.bitsboxhost.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.91)
+	(envelope-from <b08270bf32chello=cyberpollution.org@bounce.twitter.com>)
+	id 1gEkKy-0004hS-TO
+	for hello@cyberpollution.org; Tue, 23 Oct 2018 00:14:22 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=twitter.com;
+	s=dkim-201406; t=1540253621;
+	bh=J7F5fmFvqIyY82dAxB2LEY4qZ6uZIVlyrlHrWDbvyag=;
+	h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:
+	 Message-ID;
+	b=YMpidn4cU/T/DrqF69TscpRg6+aTOy0StJ56iwlIG5X6ZR0P6l8ZR/CJDw2bG4ANE
+	 qHCRfI2EdDDBKmAUw/vWndNGtO4J67/fTUhBCYAmQE+gi2gwwZZvV75PsU+78/5VOf
+	 HA/MFt94XjnbMXqrjX0/0v5IEVMwB4tGzMAyL6+RiPU5peOYuSMpGZ8YFygm1QBWyD
+	 9tAHLGnOvOuO6lEHOKnAy6aQoPDWaiOUDdJ80G3vUSxAmbdYtOh0ve7S/NYO7qFZWw
+	 Z0U31vFskXjRC546QmSYNdiRaM8FrT6A8fXtIhYuoONHtFDvxlA2S8G/Y3c191PTew
+	 yEQXk/0FCOHeg==
+X-MSFBL: krn1e6H5JPbC9/9pyPmNowP6F0kp/rTI10sMUTxtdtQ=|eyJiIjoiYXRsYS1hanM
+	tMTAtc3IxLUJ1bGsuMTYzIiwiciI6ImhlbGxvQGN5YmVycG9sbHV0aW9uLm9yZyI
+	sInUiOiJoZWxsb0BjeWJlcnBvbGx1dGlvbi5vcmdAaWlkIyNjZDcyZjlhYzE2YmY
+	0Yzg0OGYwMWYwODFjMGI5Zjc3MUB1c2IjIzJAMjQ0QDEwMDE3ODUxNTc0MjkzMDk
+	0NDBAMEA3YTI2ZmU2ZjVhNTI4NWJiYWEyNzQ4MjAyMDQ0MGQ5MzE0MTRmZWVkIiw
+	iZyI6IkJ1bGsifQ==
+Date: Tue, 23 Oct 2018 00:13:41 +0000
+From: Twitter <info@twitter.com>
+To: Cyber Pollution <hello@cyberpollution.org>
+Subject: Cyber Pollution, witness the mission to Mars with #NewSpaceRace
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_2160761_470164458.1540253621794"
+List-Unsubscribe: <https://twitter.com/i/u?t=1&listunsub=t&cn=Y21fMjAxODEwMjJfdmljZV9xdWVzdGlvbl9hYQ%3D%3D&sig=9e07dc7928ff6709e61a84814d9e8ed7c599e207&iid=cd72f9ac16bf4c848f01f081c0b9f771&uid=1001785157429309440&nid=244+26&usbid=2>
+Feedback-ID: 0040162518f58f41d1f0:1048257177b7d20297a7ac13a96f77a4cbcb7d59653d37d6e10aadd4:none:twitterESP
+Precedence: Bulk
+Message-ID: <65.0A.59912.5B76ECB5@twitter.com>
+X-Spam-Status: No, score=-2.5
+X-Spam-Score: -24
+X-Spam-Bar: --
+X-Ham-Report: Spam detection software, running on the system "s1.bitsboxhost.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Subject: Cyber Pollution, witness the mission to Mars with
+    #NewSpaceRace Don't miss an episode of VICE News' latest show. Launching
+   rockets. Taking questions. > https://twitter.com/intent/tweet?hashtags=NewSpaceRace&ref_src=twsrc%5E__Marketing_ReferralParams__%7Ctwcamp%5E__Null__Null__vicespacerace__Null__%7Ctwgr%5E__Nul
+    [...] 
+ 
+ Content analysis details:   (-2.5 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 T_KAM_HTML_FONT_INVALID BODY: Test for Invalidly Named or
+                             Formatted Colors in HTML
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or
+                             identical to background
+ -2.3 RCVD_IN_DNSWL_MED      RBL: Sender listed at http://www.dnswl.org/,
+                             medium trust
+                             [199.16.156.143 listed in list.dnswl.org]
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+X-Spam-Flag: NO
+
+------=_Part_2160761_470164458.1540253621794
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Subject: Cyber Pollution, witness the mission to Mars with #NewSpaceRace
+                                     =09
+Don't miss an episode of VICE News' latest show.
+
+Launching rockets. Taking questions.
+> https://twitter.com/intent/tweet?hashtags=3DNewSpaceRace&ref_src=3Dtwsrc%=
+5E__Marketing_ReferralParams__%7Ctwcamp%5E__Null__Null__vicespacerace__Null=
+__%7Ctwgr%5E__Null__Null__herobannerjoin__%7Ctwcon%5E__email__Null__%7Ctwte=
+rm%5E__Null__Null__Null
+
+=3D
+
+NASA's InSight mission to Mars is happening on Twitter.
+
+Space-obsessed or space-curious, #NewSpaceRace is for you. The Twitter-excl=
+usive show from @vicenews prepares for humanity=E2=80=99s most ambitious sp=
+ace mission yet: NASA=E2=80=99s InSight landing on Mars. Tweet questions wi=
+th #NewSpaceRace and host Taylor Wilson will answer them live.
+
+=20
+=3D
+
+Tuesdays and Wednesdays | 2pm ET/11am PT
+
+
+@vicenews
+> https://twitter.com/vicenews?ref_src=3Dtwsrc%5E__Marketing_ReferralParams=
+__%7Ctwcamp%5E__Null__Null__vicespacerace__Null__%7Ctwgr%5E__Null__Null__vi=
+cenewsjoin__%7Ctwcon%5E__email__Null__%7Ctwterm%5E__Null__Null__Null
+
+#NewSpaceRace  =20
+> https://twitter.com/search?q=3D%23newspacerace&src=3Dtyped_query?ref_src=
+=3Dtwsrc%5E__Marketing_ReferralParams__%7Ctwcamp%5E__Null__Null__vicespacer=
+ace__Null__%7Ctwgr%5E__Null__Null__newspaceracejoin__%7Ctwcon%5E__email__Nu=
+ll__%7Ctwterm%5E__Null__Null__Null
+      =20
+=3D
+
+Tweet your questions
+> https://twitter.com/intent/tweet?hashtags=3DNewSpaceRace&ref_src=3Dtwsrc%=
+5E__Marketing_ReferralParams__%7Ctwcamp%5E__Null__Null__vicespacerace__Null=
+__%7Ctwgr%5E__Null__Null__ctajoin__%7Ctwcon%5E__email__Null__%7Ctwterm%5E__=
+Null__Null__Null
+
+=3D
+
+
+
+
+Upcoming Episodes - Tuesday, October 23 How to build a better space suit | =
+Wednesday, October 24 Watch a rocket engine test fire | Tuesday, October 30=
+ The future of space travel is tiny. Really tiny. | Wednesday, October 31 T=
+he cutting-edge technology that may tell us how planets are born | Tuesday,=
+ November 6 Mission Control & the Deep Space Network | Wednesday, November =
+7 The crazy complicated physics of getting to Mars (and landing on it safel=
+y) | Shows continue leading up to November 26 InSight Mars landing.
+> https://twitter.com/intent/tweet?hashtags=3DNewSpaceRace&ref_src=3Dtwsrc%=
+5E__Marketing_ReferralParams__%7Ctwcamp%5E__Null__Null__vicespacerace__Null=
+__%7Ctwgr%5E__Null__Null__schedulejoin__%7Ctwcon%5E__email__Null__%7Ctwterm=
+%5E__Null__Null__Null
+
+
+=3D
+
+
+Vice News Logo
+> https://twitter.com/vicenews?ref_src=3Dtwsrc%5E__Marketing_ReferralParams=
+__%7Ctwcamp%5E__Null__Null__vicespacerace__Null__%7Ctwgr%5E__Null__Null__vi=
+cenewsjoin__%7Ctwcon%5E__email__Null__%7Ctwterm%5E__Null__Null__Null
+
+Twitter LIVE
+> https://twitter.com/twitterlive?ref_src=3Dtwsrc%5E__Marketing_ReferralPar=
+ams__%7Ctwcamp%5E__Null__Null__vicespacerace__Null__%7Ctwgr%5E__Null__Null_=
+_twitterjoin__%7Ctwcon%5E__email__Null__%7Ctwterm%5E__Null__Null__Null
+
+
+
+=3D
+
+Download Twitter and watch live video on the following devices:
+Apple TV | Google Play | Windows 10 | amazon fire TV
+
+=3D
+
+
+Help
+> https://support.twitter.com/
+
+Reset password
+> https://twitter.com/account/begin_password_reset?account_identifier=3Dcyb=
+er_pollution
+
+Download app
+> https://twitter.com/download
+
+
+This email was generated for @cyber_pollution.
+Unsubscribe
+> https://twitter.com/i/u?t=3D1&amp;cn=3DY21fMjAxODEwMjJfdmljZV9xdWVzdGlvbl=
+9hYQ%3D%3D&amp;sig=3D760ddcd7439cfd064e04fb8e029a5f3ee6d98800&amp;iid=3Dcd7=
+2f9ac16bf4c848f01f081c0b9f771&amp;uid=3D1001785157429309440&amp;nid=3D244+2=
+6&amp;usbid=3D2
+
+Twitter International Company
+One Cumberland Place, Fenian Street
+Dublin 2, D02 AX07  IRELAND
+------=_Part_2160761_470164458.1540253621794
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www=
+.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microso=
+ft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/
+html; charset=3Dutf-8" />
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, minimum-scale=3D1.=
+0, maximum-scale=3D1.0, user-scalable=3D0" />
+<meta name=3D"apple-mobile-web-app-capable" content=3D"yes" />
+<!--[if gte mso 9]><xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml><![endif]-->
+<style type=3D"text/css">
+/* Windows 10 Mail Fix */
+a { text-decoration: none; }
+/* a:visited { color: #8899A6; text-decoration:none; } */
+.addressLink a { color: #8899A6 !important; text-decoration: none !importan=
+t; }
+/* Windows 10 Mail Fix End */
+
+
+
+
+
+
+@media only screen and (max-width: 500px) {
+.width_full {
+width: 100% !important;
+}
+.width_20 {
+width: 20px !important;
+}
+.width_24 {
+width: 24px !important;
+}
+#hide {
+display: none !important;
+}
+
+.hide {
+display: none !important;
+}
+
+.rwd-break { display: block !important; }
+
+
+.show {
+overflow: visible !important;
+float: none !important;
+display: table !important;
+line-height:100% !important;
+}
+
+.iosBlue a {
+text-decoration: underline;
+}
+
+.width_full {
+width: 100% !important;
+}
+
+.width_90p {
+width: 90% !important;
+}
+
+.height_1 {
+height: 1px !important;
+}
+
+.height_30 {
+height: 30px !important;
+}
+
+.h3 {
+font-size: 16px !important;
+line-height: 20px !important;
+}
+
+
+.h2-mobile {
+font-size: 16px !important;
+line-height: 20px !important;
+}
+
+.h2-mobile-smaller {
+font-size: 14px !important;
+line-height: 20px !important;
+}
+.body_3 {
+font-size: 16px !important;
+line-height: 20px !important;
+}
+
+.download {
+padding: 0px 24px !important;
+}
+.apps {
+padding: 0px 12px !important;
+}
+
+.mobile-hide{display:none;}
+.mobile-block{display:block;}
+
+
+
+
+}
+
+
+
+
+
+
+
+</style>
+<style>
+.appleLinksWhite a {
+color: #ffffff !important;
+text-decoration: none;
+}
+</style>
+<style>
+.ios_blue a {
+color: #1DA1F2 !important;
+text-decoration: none;
+}
+</style>
+</head>
+<body style=3D"margin:0px auto;padding:0px;-webkit-text-size-adjust:100%;-m=
+s-text-size-adjust:100%;">
+<div class=3D"preheader" style=3D"display:none;font-size:1px;color:#333333;=
+line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">
+Don't miss an episode of VICE News' latest show.
+</div>
+<div class=3D"preheader" style=3D"display:none;font-size:1px;color:#333333;=
+line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;
+</div>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" bgco=
+lor=3D"#f5f8fa" class=3D"wrapper" style=3D"padding:0px;line-height:1px;font=
+-size:1px;margin:0px auto;">
+<tbody>
+<tr>
+<td class=3D"empty" width=3D"100%" align=3D"center" style=3D"padding:0px;ma=
+rgin:0px auto;line-height:1px;font-size:1px;font-size:0px;line-height:1px;p=
+adding:0px;">
+<!-- BODY START -->
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" bg=
+color=3D"#ffffff" width=3D"640" class=3D"width_full" dir=3D"ltr" style=3D"p=
+adding:0px;line-height:1px;font-size:1px;margin:0px auto;">
+<tbody>
+<tr>
+<td id=3D"hero" bgcolor=3D"#ffffff" width=3D"640" valign=3D"top" colspan=3D=
+"3" style=3D"padding:0px;margin:0px auto;line-height:1px;font-size:1px;"> <=
+a href=3D"https://twitter.com/i/redirect?url=3Dhttps%3A%2F%2Ftwitter.com%2F=
+intent%2Ftweet%3Fhashtags%3DNewSpaceRace%26ref_src%3Dtwsrc%255E__Marketing_=
+ReferralParams__%257Ctwcamp%255E__Null__Null__vicespacerace__Null__%257Ctwg=
+r%255E__Null__Null__herobannerjoin__%257Ctwcon%255E__email__Null__%257Ctwte=
+rm%255E__Null__Null__Null&amp;t=3D1+1540253621780&amp;cn=3DY21fMjAxODEwMjJf=
+dmljZV9xdWVzdGlvbl9hYQ%3D%3D&amp;sig=3Dde8dc15cf2ed876a714e206ccf6e34bb8f83=
+c90d&amp;iid=3Dcd72f9ac16bf4c848f01f081c0b9f771&amp;uid=3D10017851574293094=
+40&amp;nid=3D244+1553" class=3D"hide" style=3D"text-decoration:none;border-=
+style:none;border:0px;padding:0px;margin:0px;"> <img src=3D"https://ea.twim=
+g.com/email/self_serve/media/hero-1539985509279.gif" class=3D"hide" alt=3D"=
+Launching rockets. Taking questions." title=3D"Launching rockets. Taking qu=
+estions." width=3D"100%" style=3D"color: #1DA1F2; font-family: 'HelveticaNe=
+ue', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: bold; fon=
+t-size: 32px; line-height: 36px; border: none;margin:0px;padding:0px;displa=
+y:inline-block;-ms-interpolation-mode:bicubic;border:none;outline:none;" />=
+ </a> </td>
+</tr>
+<!--[if !gte mso 9]><!---->
+<tr>
+<td class=3D"empty" style=3D"padding:0px;margin:0px auto;line-height:1px;fo=
+nt-size:1px;font-size:0px;line-height:1px;padding:0px;">
+<div class=3D"show" style=3D"display:none;max-height:0;overflow:hidden;mso-=
+hide:all;">
+<a href=3D"https://twitter.com/i/redirect?url=3Dhttps%3A%2F%2Ftwitter.com%2=
+Fintent%2Ftweet%3Fhashtags%3DNewSpaceRace%26ref_src%3Dtwsrc%255E__Marketing=
+_ReferralParams__%257Ctwcamp%255E__Null__Null__vicespacerace__Null__%257Ctw=
+gr%255E__Null__Null__herobannerjoin__%257Ctwcon%255E__email__Null__%257Ctwt=
+erm%255E__Null__Null__Null&amp;t=3D1+1540253621781&amp;cn=3DY21fMjAxODEwMjJ=
+fdmljZV9xdWVzdGlvbl9hYQ%3D%3D&amp;sig=3D966740eb4d15cade2b8f4497676c2e7d8f5=
+e6851&amp;iid=3Dcd72f9ac16bf4c848f01f081c0b9f771&amp;uid=3D1001785157429309=
+440&amp;nid=3D244+1554" style=3D"text-decoration:none;border-style:none;bor=
+der:0px;padding:0px;margin:0px;"> <img src=3D"https://ea.twimg.com/email/se=
+lf_serve/media/hero_mobile-1539985508199.gif" class=3D"width_full" alt=3D"L=
+aunching rockets. Taking questions." title=3D"Launching rockets. Taking que=
+stions." width=3D"100%" style=3D"color: #1DA1F2; font-family: 'HelveticaNeu=
+e', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: bold; font=
+-size: 32px; line-height: 36px; border: none;margin:0px;padding:0px;display=
+:inline-block;-ms-interpolation-mode:bicubic;border:none;outline:none;" /> =
+</a>
+</div> </td>
+</tr>
+<!--<![endif]-->
+<tr>
+<td class=3D"empty" style=3D"padding:0px;margin:0px auto;line-height:1px;fo=
+nt-size:1px;font-size:0px;line-height:1px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" bg=
+color=3D"#ffffff" width=3D"640" class=3D"width_full" style=3D"padding:0px;l=
+ine-height:1px;font-size:1px;margin:0px auto;">
+<tbody>
+<tr>
+<td class=3D"empty width_20" width=3D"60" style=3D"padding:0px;margin:0px a=
+uto;line-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px=
+;">&nbsp; </td>
+<td class=3D"empty" style=3D"padding:0px;margin:0px auto;line-height:1px;fo=
+nt-size:1px;font-size:0px;line-height:1px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" di=
+r=3D"ltr" style=3D"padding:0px;line-height:1px;font-size:1px;margin:0px aut=
+o;">
+<tbody>
+<tr>
+<td class=3D"empty" height=3D"30" style=3D"padding:0px;margin:0px auto;line=
+-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;">&nbsp=
+; </td>
+</tr>
+<tr>
+<td class=3D"h3 bs_grey center" align=3D"center" dir=3D"ltr" style=3D"paddi=
+ng:0px;margin:0px auto;line-height:1px;font-size:1px;font-family:'Helvetica=
+ Neue', Helvetica, Arial, sans-serif;-webkit-font-smoothing:antialiased;-we=
+bkit-text-size-adjust:none;font-size:18px;padding:0px;margin:0px;font-weigh=
+t:bold;line-height:22px;text-align:center;margin:auto;color:#808080;font-si=
+ze:22px;line-height:26px;"> NASA's InSight mission to Mars is happening&nbs=
+p;on&nbsp;Twitter. </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"24" style=3D"padding:0px;margin:0px auto;line=
+-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;">&nbsp=
+; </td>
+</tr>
+<tr>
+<td class=3D"body bs_grey center" align=3D"center" dir=3D"ltr" style=3D"pad=
+ding:0px;margin:0px auto;line-height:1px;font-size:1px;font-family:'Helveti=
+ca Neue Light', Helvetica, Arial, sans-serif;-webkit-font-smoothing:antiali=
+ased;-webkit-text-size-adjust:none;font-size:16px;padding:0px;margin:0px;fo=
+nt-weight:normal;line-height:20px;text-align:center;margin:auto;color:#8080=
+80;font-family:'Helvetica Neue Light', Helvetica, Arial, sans-serif;-webkit=
+-font-smoothing:antialiased;-webkit-text-size-adjust:none;font-size:16px;pa=
+dding:0px;margin:0px;font-weight:normal;line-height:22px;"> Space-obsessed =
+or space-curious, #NewSpaceRace is for you. The Twitter-exclusive show from=
+ @vicenews prepares for humanity=E2=80=99s most ambitious space mission yet=
+: NASA=E2=80=99s InSight landing on Mars. Tweet questions with #NewSpaceRac=
+e and host Taylor Wilson will answer&nbsp;them&nbsp;live. </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"24" style=3D"padding:0px;margin:0px auto;line=
+-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;">&nbsp=
+; </td>
+</tr>
+<tr>
+<td class=3D"h2-mobile-smaller bs_grey center" align=3D"center" dir=3D"ltr"=
+ style=3D"padding:0px;margin:0px auto;line-height:1px;font-size:1px;font-fa=
+mily:'Helvetica Neue', Helvetica, Arial, sans-serif;-webkit-font-smoothing:=
+antialiased;-webkit-text-size-adjust:none;font-size:18px;padding:0px;margin=
+:0px;font-weight:bold;line-height:32px;text-align:center;margin:auto;color:=
+#808080;"> Tuesdays and Wednesdays <span class=3D"hide">|</span> <br class=
+=3D"rwd-break" style=3D"display: none;" />2pm ET/11am PT </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"24" style=3D"padding:0px;margin:0px auto;line=
+-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;">&nbsp=
+; </td>
+</tr>
+<tr>
+<td class=3D"body bs_grey center" align=3D"center" dir=3D"ltr" style=3D"pad=
+ding:0px;margin:0px auto;line-height:1px;font-size:1px;font-family:'Helveti=
+ca Neue Light', Helvetica, Arial, sans-serif;-webkit-font-smoothing:antiali=
+ased;-webkit-text-size-adjust:none;font-size:16px;padding:0px;margin:0px;fo=
+nt-weight:normal;line-height:20px;text-align:center;margin:auto;color:#8080=
+80;font-family:'Helvetica Neue Light', Helvetica, Arial, sans-serif;-webkit=
+-font-smoothing:antialiased;-webkit-text-size-adjust:none;font-size:16px;pa=
+dding:0px;margin:0px;font-weight:normal;line-height:22px;"> <a href=3D"http=
+s://twitter.com/i/redirect?url=3Dhttps%3A%2F%2Ftwitter.com%2Fvicenews%3Fref=
+_src%3Dtwsrc%255E__Marketing_ReferralParams__%257Ctwcamp%255E__Null__Null__=
+vicespacerace__Null__%257Ctwgr%255E__Null__Null__vicenewsjoin__%257Ctwcon%2=
+55E__email__Null__%257Ctwterm%255E__Null__Null__Null&amp;t=3D1+154025362178=
+1&amp;cn=3DY21fMjAxODEwMjJfdmljZV9xdWVzdGlvbl9hYQ%3D%3D&amp;sig=3D2fba7dcd0=
+4e2801289593dcc7a0809a0d71412ea&amp;iid=3Dcd72f9ac16bf4c848f01f081c0b9f771&=
+amp;uid=3D1001785157429309440&amp;nid=3D244+1555" class=3D"bs_grey" style=
+=3D"text-decoration:none;border-style:none;border:0px;padding:0px;margin:0p=
+x;color:#808080;">@vicenews</a> | <a href=3D"https://twitter.com/i/redirect=
+?url=3Dhttps%3A%2F%2Ftwitter.com%2Fsearch%3Fq%3D%2523newspacerace%26src%3Dt=
+yped_query%3Fref_src%3Dtwsrc%255E__Marketing_ReferralParams__%257Ctwcamp%25=
+5E__Null__Null__vicespacerace__Null__%257Ctwgr%255E__Null__Null__newspacera=
+cejoin__%257Ctwcon%255E__email__Null__%257Ctwterm%255E__Null__Null__Null&am=
+p;t=3D1+1540253621781&amp;cn=3DY21fMjAxODEwMjJfdmljZV9xdWVzdGlvbl9hYQ%3D%3D=
+&amp;sig=3D871a4eba069d6a9736b0b9db7d654b477ccecaf2&amp;iid=3Dcd72f9ac16bf4=
+c848f01f081c0b9f771&amp;uid=3D1001785157429309440&amp;nid=3D244+1556" class=
+=3D"bs_grey" style=3D"text-decoration:none;border-style:none;border:0px;pad=
+ding:0px;margin:0px;color:#808080;">#NewSpaceRace</a> <img src=3D"https://e=
+a.twimg.com/email/self_serve/media/emoji-1539890561404.png" width=3D"15" he=
+ight=3D"15" style=3D"margin:0px;padding:0px;display:inline-block;-ms-interp=
+olation-mode:bicubic;border:none;outline:none;" /> </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"24" style=3D"padding:0px;margin:0px auto;line=
+-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;">&nbsp=
+; </td>
+</tr>
+<tr>
+<td class=3D"empty" align=3D"center" style=3D"padding:0px;margin:0px auto;l=
+ine-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" st=
+yle=3D"padding:0px;line-height:1px;font-size:1px;margin:0px auto;">
+<tbody>
+<tr>
+<td align=3D"center" class=3D"button center" bgcolor=3D"#1DA1F2" dir=3D"ltr=
+" style=3D"padding:0px;margin:0px auto;line-height:1px;font-size:1px;text-a=
+lign:center;margin:auto;-webkit-border-radius:50px;-moz-border-radius:50px;=
+border-radius:50px;line-height:18px;"> <a href=3D"https://twitter.com/i/red=
+irect?url=3Dhttps%3A%2F%2Ftwitter.com%2Fintent%2Ftweet%3Fhashtags%3DNewSpac=
+eRace%26ref_src%3Dtwsrc%255E__Marketing_ReferralParams__%257Ctwcamp%255E__N=
+ull__Null__vicespacerace__Null__%257Ctwgr%255E__Null__Null__ctajoin__%257Ct=
+wcon%255E__email__Null__%257Ctwterm%255E__Null__Null__Null&amp;t=3D1+154025=
+3621782&amp;cn=3DY21fMjAxODEwMjJfdmljZV9xdWVzdGlvbl9hYQ%3D%3D&amp;sig=3Daed=
+67b972b0212d52b21c37a613a82ae0e67f8f2&amp;iid=3Dcd72f9ac16bf4c848f01f081c0b=
+9f771&amp;uid=3D1001785157429309440&amp;nid=3D244+1557" target=3D"_blank" c=
+lass=3D"button nowrap" style=3D"text-decoration:none;border-style:none;bord=
+er:0px;padding:0px;margin:0px;white-space:nowrap;font-size:16px;font-family=
+:'HelveticaNeue', 'Helvetica Neue', Helvetica, Arial, sans-serif;color:#fff=
+fff;text-decoration:none;-webkit-border-radius:50px;-moz-border-radius:50px=
+;border-radius:50px;padding:11px 30px;border:1px solid #1DA1F2;display:inli=
+ne-block;font-weight:600;-webkit-font-smoothing:antialiased;">
+<!--[if gte mso 11]>&nbsp; &nbsp; &nbsp;<![endif]--> Tweet your questions
+<!--Watch LIVE on&nbsp;<img src=3D"https://ea.twimg.com/email/self_serve/me=
+dia/logo-1475170569504.png" height=3D"16" />-->
+<!--[if gte mso 11]>&nbsp; &nbsp; &nbsp;<![endif]--> </a> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"40" style=3D"padding:0px;margin:0px auto;line=
+-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;">&nbsp=
+; </td>
+</tr>
+<tr>
+<td id=3D"hero" bgcolor=3D"#ffffff" width=3D"520" valign=3D"top" colspan=3D=
+"3" style=3D"padding:0px;margin:0px auto;line-height:1px;font-size:1px;"> <=
+a href=3D"https://twitter.com/i/redirect?url=3Dhttps%3A%2F%2Ftwitter.com%2F=
+intent%2Ftweet%3Fhashtags%3DNewSpaceRace%26ref_src%3Dtwsrc%255E__Marketing_=
+ReferralParams__%257Ctwcamp%255E__Null__Null__vicespacerace__Null__%257Ctwg=
+r%255E__Null__Null__schedulejoin__%257Ctwcon%255E__email__Null__%257Ctwterm=
+%255E__Null__Null__Null&amp;t=3D1+1540253621782&amp;cn=3DY21fMjAxODEwMjJfdm=
+ljZV9xdWVzdGlvbl9hYQ%3D%3D&amp;sig=3Dbf1b622565d8b07b1f0830b6802ee13acd5383=
+66&amp;iid=3Dcd72f9ac16bf4c848f01f081c0b9f771&amp;uid=3D1001785157429309440=
+&amp;nid=3D244+1558" class=3D"hide" style=3D"text-decoration:none;border-st=
+yle:none;border:0px;padding:0px;margin:0px;"> <img src=3D"https://ea.twimg.=
+com/email/self_serve/media/tweets-1539890569785.png" class=3D"hide" alt=3D"=
+Upcoming Episodes - Tuesday, October 23 How to build a better space suit | =
+Wednesday, October 24 Watch a rocket engine test fire | Tuesday, October 30=
+ The future of space travel is tiny. Really tiny. | Wednesday, October 31 T=
+he cutting-edge technology that may tell us how planets are born | Tuesday,=
+ November 6 Mission Control &amp; the Deep Space Network | Wednesday, Novem=
+ber 7 The crazy complicated physics of getting to Mars (and landing on it s=
+afely) | Shows continue leading up to November 26 InSight Mars landing." ti=
+tle=3D"Upcoming Episodes - Tuesday, October 23 How to build a better space =
+suit | Wednesday, October 24 Watch a rocket engine test fire | Tuesday, Oct=
+ober 30 The future of space travel is tiny. Really tiny. | Wednesday, Octob=
+er 31 The cutting-edge technology that may tell us how planets are born | T=
+uesday, November 6 Mission Control &amp; the Deep Space Network | Wednesday=
+, November 7 The crazy complicated physics of getting to Mars (and landing =
+on it safely) | Shows continue leading up to November 26 InSight Mars landi=
+ng." width=3D"520" style=3D"color: #1DA1F2; font-family: 'HelveticaNeue', '=
+Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: bold; font-size=
+: 32px; line-height: 36px; border: none;margin:0px;padding:0px;display:inli=
+ne-block;-ms-interpolation-mode:bicubic;border:none;outline:none;" /> </a> =
+</td>
+</tr>
+<!--[if !gte mso 9]><!---->
+<tr>
+<td class=3D"empty" style=3D"padding:0px;margin:0px auto;line-height:1px;fo=
+nt-size:1px;font-size:0px;line-height:1px;padding:0px;">
+<div class=3D"show" style=3D"display:none;max-height:0;overflow:hidden;mso-=
+hide:all;">
+<a href=3D"https://twitter.com/i/redirect?url=3Dhttps%3A%2F%2Ftwitter.com%2=
+Fintent%2Ftweet%3Fhashtags%3DNewSpaceRace%26ref_src%3Dtwsrc%255E__Marketing=
+_ReferralParams__%257Ctwcamp%255E__Null__Null__vicespacerace__Null__%257Ctw=
+gr%255E__Null__Null__schedulejoin__%257Ctwcon%255E__email__Null__%257Ctwter=
+m%255E__Null__Null__Null&amp;t=3D1+1540253621783&amp;cn=3DY21fMjAxODEwMjJfd=
+mljZV9xdWVzdGlvbl9hYQ%3D%3D&amp;sig=3D087902fb9ff4525e0ee186adcb20f77d77634=
+a3b&amp;iid=3Dcd72f9ac16bf4c848f01f081c0b9f771&amp;uid=3D100178515742930944=
+0&amp;nid=3D244+1559" style=3D"text-decoration:none;border-style:none;borde=
+r:0px;padding:0px;margin:0px;"> <img src=3D"https://ea.twimg.com/email/self=
+_serve/media/tweets_mobile-1539890568545.png" class=3D"width_full" alt=3D"U=
+pcoming Episodes - Tuesday, October 23 How to build a better space suit | W=
+ednesday, October 24 Watch a rocket engine test fire | Tuesday, October 30 =
+The future of space travel is tiny. Really tiny. | Wednesday, October 31 Th=
+e cutting-edge technology that may tell us how planets are born | Tuesday, =
+November 6 Mission Control &amp; the Deep Space Network | Wednesday, Novemb=
+er 7 The crazy complicated physics of getting to Mars (and landing on it sa=
+fely) | Shows continue leading up to November 26 InSight Mars landing." tit=
+le=3D"Upcoming Episodes - Tuesday, October 23 How to build a better space s=
+uit | Wednesday, October 24 Watch a rocket engine test fire | Tuesday, Octo=
+ber 30 The future of space travel is tiny. Really tiny. | Wednesday, Octobe=
+r 31 The cutting-edge technology that may tell us how planets are born | Tu=
+esday, November 6 Mission Control &amp; the Deep Space Network | Wednesday,=
+ November 7 The crazy complicated physics of getting to Mars (and landing o=
+n it safely) | Shows continue leading up to November 26 InSight Mars landin=
+g." width=3D"100%" style=3D"color: #1DA1F2; font-family: 'HelveticaNeue', '=
+Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: bold; font-size=
+: 32px; line-height: 36px; border: none;margin:0px;padding:0px;display:inli=
+ne-block;-ms-interpolation-mode:bicubic;border:none;outline:none;" /> </a>
+</div> </td>
+</tr>
+<!--<![endif]-->
+<tr>
+<td class=3D"empty" height=3D"30" style=3D"padding:0px;margin:0px auto;line=
+-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;">&nbsp=
+; </td>
+</tr>
+<tr>
+<td class=3D"empty center" style=3D"padding:0px;margin:0px auto;line-height=
+:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;text-align:cen=
+ter;margin:auto;">
+<table align=3D"center" class=3D"center" border=3D"0" style=3D"padding:0px;=
+line-height:1px;font-size:1px;margin:0px auto;text-align:center;margin:auto=
+;">
+<tbody>
+<tr>
+<td class=3D"empty center" align=3D"center" style=3D"padding:0px;margin:0px=
+ auto;line-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0=
+px;text-align:center;margin:auto;"> <a href=3D"https://twitter.com/i/redire=
+ct?url=3Dhttps%3A%2F%2Ftwitter.com%2Fvicenews%3Fref_src%3Dtwsrc%255E__Marke=
+ting_ReferralParams__%257Ctwcamp%255E__Null__Null__vicespacerace__Null__%25=
+7Ctwgr%255E__Null__Null__vicenewsjoin__%257Ctwcon%255E__email__Null__%257Ct=
+wterm%255E__Null__Null__Null&amp;t=3D1+1540253621783&amp;cn=3DY21fMjAxODEwM=
+jJfdmljZV9xdWVzdGlvbl9hYQ%3D%3D&amp;sig=3De4d4c40131ef876696f416dcdb4847d9d=
+25a72ef&amp;iid=3Dcd72f9ac16bf4c848f01f081c0b9f771&amp;uid=3D10017851574293=
+09440&amp;nid=3D244+1560" class=3D"blue" style=3D"text-decoration:none;bord=
+er-style:none;border:0px;padding:0px;margin:0px;color:#1DA1F2;"> <img src=
+=3D"https://ea.twimg.com/email/self_serve/media/logo-1539890567422.png" hei=
+ght=3D"30" title=3D"Vice News Logo" alt=3D"Vice News Logo" style=3D"margin:=
+0px;padding:0px;display:inline-block;-ms-interpolation-mode:bicubic;border:=
+none;outline:none;" /> </a> </td>
+<td class=3D"empty center" width=3D"20" align=3D"center" style=3D"padding:0=
+px;margin:0px auto;line-height:1px;font-size:1px;font-size:0px;line-height:=
+1px;padding:0px;text-align:center;margin:auto;">&nbsp;</td>
+<td class=3D"empty center" width=3D"2" align=3D"center" style=3D"padding:0p=
+x;margin:0px auto;line-height:1px;font-size:1px;font-size:0px;line-height:1=
+px;padding:0px;text-align:center;margin:auto;"> <img src=3D"https://ea.twim=
+g.com/email/self_serve/media/cm_20170827_VMAs_line-1503425015664.png" heigh=
+t=3D"32" title=3D"" alt=3D"" style=3D"margin:0px;padding:0px;display:inline=
+-block;-ms-interpolation-mode:bicubic;border:none;outline:none;" /> </td>
+<td class=3D"empty center" width=3D"20" align=3D"center" style=3D"padding:0=
+px;margin:0px auto;line-height:1px;font-size:1px;font-size:0px;line-height:=
+1px;padding:0px;text-align:center;margin:auto;">&nbsp;</td>
+<td class=3D"empty center" align=3D"center" style=3D"padding:0px;margin:0px=
+ auto;line-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0=
+px;text-align:center;margin:auto;"> <a href=3D"https://twitter.com/i/redire=
+ct?url=3Dhttps%3A%2F%2Ftwitter.com%2Ftwitterlive%3Fref_src%3Dtwsrc%255E__Ma=
+rketing_ReferralParams__%257Ctwcamp%255E__Null__Null__vicespacerace__Null__=
+%257Ctwgr%255E__Null__Null__twitterjoin__%257Ctwcon%255E__email__Null__%257=
+Ctwterm%255E__Null__Null__Null&amp;t=3D1+1540253621784&amp;cn=3DY21fMjAxODE=
+wMjJfdmljZV9xdWVzdGlvbl9hYQ%3D%3D&amp;sig=3Da93bf35b7ede62934bcd6b2aedf29f0=
+ea98200db&amp;iid=3Dcd72f9ac16bf4c848f01f081c0b9f771&amp;uid=3D100178515742=
+9309440&amp;nid=3D244+1561" class=3D"blue" style=3D"text-decoration:none;bo=
+rder-style:none;border:0px;padding:0px;margin:0px;color:#1DA1F2;"> <img src=
+=3D"https://ea.twimg.com/email/self_serve/media/dm_logo_twitter-14895346510=
+38.png" height=3D"32" title=3D"Twitter LIVE" alt=3D"Twitter LIVE" style=3D"=
+margin:0px;padding:0px;display:inline-block;-ms-interpolation-mode:bicubic;=
+border:none;outline:none;" /> </a> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"30" style=3D"padding:0px;margin:0px auto;line=
+-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;">&nbsp=
+; </td>
+</tr>
+</tbody>
+</table> </td>
+<td class=3D"empty width_20" width=3D"60" style=3D"padding:0px;margin:0px a=
+uto;line-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px=
+;">&nbsp; </td>
+</tr>
+</tbody>
+</table>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" bg=
+color=3D"#ffffff" width=3D"640" class=3D"width_full" style=3D"padding:0px;l=
+ine-height:1px;font-size:1px;margin:0px auto;">
+<tbody>
+<tr>
+<td align=3D"center" style=3D"padding:0px;margin:0px auto;line-height:1px;f=
+ont-size:1px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" bg=
+color=3D"#d3d3d3" width=3D"640" height=3D"2" class=3D"width_full" style=3D"=
+padding:0px;line-height:1px;font-size:1px;margin:0px auto;">
+<tbody>
+<tr>
+<td class=3D"empty width_20" style=3D"padding:0px;margin:0px auto;line-heig=
+ht:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;">&nbsp;</td=
+>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"30" style=3D"padding:0px;margin:0px auto;line=
+-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;">&nbsp=
+; </td>
+</tr>
+<tr>
+<td class=3D"download deep_grey center" align=3D"center" dir=3D"ltr" style=
+=3D"padding:0px;margin:0px auto;line-height:1px;font-size:1px;color:#8899A6=
+;text-align:center;margin:auto;font-family:'Helvetica Neue Light', Helvetic=
+a, Arial, sans-serif;-webkit-font-smoothing:antialiased;-webkit-text-size-a=
+djust:none;font-size:12px;padding:0px;margin:0px;font-weight:600;line-heigh=
+t:16px;"> Download Twitter and watch live video on the&nbsp;following&nbsp;=
+devices: </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"8" style=3D"padding:0px;margin:0px auto;line-=
+height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;">&nbsp;=
+ </td>
+</tr>
+<tr>
+<td class=3D"empty center apps" align=3D"center" dir=3D"ltr" style=3D"line-=
+height: 20px;padding:0px;margin:0px auto;line-height:1px;font-size:1px;font=
+-size:0px;line-height:1px;padding:0px;text-align:center;margin:auto;"> <img=
+ src=3D"https://ea.twimg.com/email/self_serve/media/apps_apple-150120494613=
+0.png" alt=3D"Google Play" title=3D"Apple TV" height=3D"20" style=3D"margin=
+:0px;padding:0px;display:inline-block;-ms-interpolation-mode:bicubic;border=
+:none;outline:none;white-space:nowrap;display:inline;" /> <img src=3D"https=
+://ea.twimg.com/email/self_serve/media/apps_line-1501197126309.png" title=
+=3D"" height=3D"20" style=3D"margin:0px;padding:0px;display:inline-block;-m=
+s-interpolation-mode:bicubic;border:none;outline:none;white-space:nowrap;di=
+splay:inline;" /> <img src=3D"https://ea.twimg.com/email/self_serve/media/a=
+pps_google-1501197126312.png" alt=3D"Google Play" title=3D"Google Play" hei=
+ght=3D"20" style=3D"margin:0px;padding:0px;display:inline-block;-ms-interpo=
+lation-mode:bicubic;border:none;outline:none;white-space:nowrap;display:inl=
+ine;" /> <img src=3D"https://ea.twimg.com/email/self_serve/media/apps_line-=
+1501197126309.png" title=3D"" height=3D"20" style=3D"padding-top:6px;margin=
+:0px;padding:0px;display:inline-block;-ms-interpolation-mode:bicubic;border=
+:none;outline:none;white-space:nowrap;display:inline;" />
+<!--<img src=3D"https://ea.twimg.com/email/self_serve/media/apps_xbox_one-1=
+501197126317.png" alt=3D"Xbox One" title=3D"Xbox One" height=3D"20" />-->
+<!--<img src=3D"https://ea.twimg.com/email/self_serve/media/apps_line-15011=
+97126309.png" title=3D"" height=3D"20" class=3D"hide" />--> <span style=3D"=
+white-space: nowrap;"> <img src=3D"https://ea.twimg.com/email/self_serve/me=
+dia/apps_windows-1501197126311.png" alt=3D"Windows 10" title=3D"Windows 10"=
+ height=3D"20" style=3D"margin:0px;padding:0px;display:inline-block;-ms-int=
+erpolation-mode:bicubic;border:none;outline:none;white-space:nowrap;display=
+:inline;" /> <img src=3D"https://ea.twimg.com/email/self_serve/media/apps_l=
+ine-1501197126309.png" title=3D"" height=3D"20" style=3D"margin:0px;padding=
+:0px;display:inline-block;-ms-interpolation-mode:bicubic;border:none;outlin=
+e:none;white-space:nowrap;display:inline;" /> <img src=3D"https://ea.twimg.=
+com/email/self_serve/media/apps_amazon-1501204946080.png" alt=3D"Amazon Fir=
+e TV" title=3D"Amazon Fire TV" height=3D"20" style=3D"margin:0px;padding:0p=
+x;display:inline-block;-ms-interpolation-mode:bicubic;border:none;outline:n=
+one;white-space:nowrap;display:inline;" /> </span> </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"30" style=3D"padding:0px;margin:0px auto;line=
+-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;">&nbsp=
+; </td>
+</tr>
+</tbody>
+</table>
+<table align=3D"center" border=3D"0" class=3D"center" dir=3D"ltr" style=3D"=
+padding:0px;line-height:1px;font-size:1px;margin:0px auto;text-align:center=
+;margin:auto;">
+<tbody>
+<tr>
+<td class=3D"empty" height=3D"30" style=3D"padding:0px;margin:0px auto;line=
+-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;"> &nbs=
+p; </td>
+</tr>
+<tr>
+<td class=3D"footer strong footer_grey center" align=3D"center" dir=3D"ltr"=
+ style=3D"padding:0px;margin:0px auto;line-height:1px;font-size:1px;font-fa=
+mily:'Helvetica Neue Light', Helvetica, Arial, sans-serif;-webkit-font-smoo=
+thing:antialiased;-webkit-text-size-adjust:none;font-size:12px;padding:0px;=
+margin:0px;font-weight:normal;line-height:16px;font-weight:bold;text-align:=
+center;margin:auto;color:#8899a6;"> <a href=3D"https://twitter.com/i/redire=
+ct?url=3Dhttps%3A%2F%2Fsupport.twitter.com%2F&amp;t=3D1+1540253621784&amp;c=
+n=3DY21fMjAxODEwMjJfdmljZV9xdWVzdGlvbl9hYQ%3D%3D&amp;sig=3Dd79b100144df84f1=
+d00ffc121670cbdf231b3510&amp;iid=3Dcd72f9ac16bf4c848f01f081c0b9f771&amp;uid=
+=3D1001785157429309440&amp;nid=3D244+1678" class=3D"footer_grey" style=3D"t=
+ext-decoration:none;border-style:none;border:0px;padding:0px;margin:0px;col=
+or:#8899a6;"> Help </a> &nbsp;|&nbsp; <a href=3D"https://twitter.com/i/redi=
+rect?url=3Dhttps%3A%2F%2Ftwitter.com%2Faccount%2Fbegin_password_reset%3Facc=
+ount_identifier%3Dcyber_pollution&amp;t=3D1+1540253621784&amp;cn=3DY21fMjAx=
+ODEwMjJfdmljZV9xdWVzdGlvbl9hYQ%3D%3D&amp;sig=3D16c16cde7ca354c4192b33d10e09=
+40bb711ff476&amp;iid=3Dcd72f9ac16bf4c848f01f081c0b9f771&amp;uid=3D100178515=
+7429309440&amp;nid=3D244+1679" class=3D"footer_grey" style=3D"text-decorati=
+on:none;border-style:none;border:0px;padding:0px;margin:0px;color:#8899a6;"=
+> Reset password </a> &nbsp;|&nbsp; <a href=3D"https://twitter.com/i/redire=
+ct?url=3Dhttps%3A%2F%2Ftwitter.com%2Fdownload&amp;t=3D1+1540253621785&amp;c=
+n=3DY21fMjAxODEwMjJfdmljZV9xdWVzdGlvbl9hYQ%3D%3D&amp;sig=3D80459f3ec4e7c8ee=
+8b8f3f914d084c23fbd8012a&amp;iid=3Dcd72f9ac16bf4c848f01f081c0b9f771&amp;uid=
+=3D1001785157429309440&amp;nid=3D244+1680" class=3D"footer_grey" style=3D"t=
+ext-decoration:none;border-style:none;border:0px;padding:0px;margin:0px;col=
+or:#8899a6;"> Download app </a> </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"12" style=3D"padding:0px;margin:0px auto;line=
+-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;"> &nbs=
+p; </td>
+</tr>
+<tr>
+<td class=3D"footer footer_grey center" align=3D"center" style=3D"padding:0=
+px;margin:0px auto;line-height:1px;font-size:1px;font-family:'Helvetica Neu=
+e Light', Helvetica, Arial, sans-serif;-webkit-font-smoothing:antialiased;-=
+webkit-text-size-adjust:none;font-size:12px;padding:0px;margin:0px;font-wei=
+ght:normal;line-height:16px;text-align:center;margin:auto;color:#8899a6;"> =
+This email was generated for @cyber_pollution. <a href=3D"https://twitter.c=
+om/i/u?t=3D1&amp;cn=3DY21fMjAxODEwMjJfdmljZV9xdWVzdGlvbl9hYQ%3D%3D&amp;sig=
+=3D760ddcd7439cfd064e04fb8e029a5f3ee6d98800&amp;iid=3Dcd72f9ac16bf4c848f01f=
+081c0b9f771&amp;uid=3D1001785157429309440&amp;nid=3D244+26&amp;usbid=3D2" c=
+lass=3D"link_deep_grey" style=3D"text-decoration:none;border-style:none;bor=
+der:0px;padding:0px;margin:0px;color:#8899a6;text-decoration:underline;"><u=
+>Unsubscribe</u></a> </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"12" style=3D"padding:0px;margin:0px auto;line=
+-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;"> &nbs=
+p; </td>
+</tr>
+<tr>
+<td class=3D"footer footer_grey center" align=3D"center" style=3D"padding:0=
+px;margin:0px auto;line-height:1px;font-size:1px;font-family:'Helvetica Neu=
+e Light', Helvetica, Arial, sans-serif;-webkit-font-smoothing:antialiased;-=
+webkit-text-size-adjust:none;font-size:12px;padding:0px;margin:0px;font-wei=
+ght:normal;line-height:16px;text-align:center;margin:auto;color:#8899a6;"> =
+<span class=3D"addressLink"> <a href=3D"http://twitter.com" style=3D"color:=
+ #8899a6 !important; text-decoration: none !important;text-decoration:none;=
+border-style:none;border:0px;padding:0px;margin:0px;"><span style=3D"color:=
+ #8899a6 !important; text-decoration: none !important;">Twitter Internation=
+al Company<br />One&nbsp;Cumberland&nbsp;Place,&nbsp;Fenian&nbsp;Street<br =
+/>Dublin&nbsp;2,&nbsp;D02&nbsp;AX07&nbsp;&nbsp;IRELAND</span></a>
+<!--https://twitter.com/scribe/ibis?t=3D1&amp;cn=3DY21fMjAxODEwMjJfdmljZV9x=
+dWVzdGlvbl9hYQ%3D%3D&amp;iid=3Dcd72f9ac16bf4c848f01f081c0b9f771&amp;uid=3D1=
+001785157429309440&amp;nid=3D244+20--></span> </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"72" style=3D"padding:0px;margin:0px auto;line=
+-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;"> &nbs=
+p; </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<!-- BODY END --> </td>
+</tr>
+<tr>
+<td class=3D"fix_gmail_ios" id=3D"hide" align=3D"center" style=3D"padding:0=
+px;margin:0px auto;line-height:1px;font-size:1px;color:#ffffff;font-family:=
+Arial, sans-serif;font-size:14px;"> =E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=
+=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=
+=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=
+=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94 </td>
+</tr>
+<tr>
+<td class=3D"fix_gmail_android" id=3D"hide" align=3D"center" style=3D"paddi=
+ng:0px;margin:0px auto;line-height:1px;font-size:1px;">
+<table align=3D"center" style=3D"padding:0px;line-height:1px;font-size:1px;=
+margin:0px auto;">
+<tbody>
+<tr>
+<td width=3D"135" height=3D"1" style=3D"padding:0px;margin:0px auto;line-he=
+ight:1px;font-size:1px;"> <img src=3D"https://ea.twimg.com/email/self_serve=
+/media/spacer-1476918453497.png" height=3D"1" width=3D"130" style=3D"margin=
+:0px;padding:0px;display:inline-block;-ms-interpolation-mode:bicubic;border=
+:none;outline:none;" /> </td>
+<td width=3D"135" height=3D"1" style=3D"padding:0px;margin:0px auto;line-he=
+ight:1px;font-size:1px;"> <img src=3D"https://ea.twimg.com/email/self_serve=
+/media/spacer-1476918453497.png" height=3D"1" width=3D"130" style=3D"margin=
+:0px;padding:0px;display:inline-block;-ms-interpolation-mode:bicubic;border=
+:none;outline:none;" /> </td>
+<td width=3D"135" height=3D"1" style=3D"padding:0px;margin:0px auto;line-he=
+ight:1px;font-size:1px;"> <img src=3D"https://ea.twimg.com/email/self_serve=
+/media/spacer-1476918453497.png" height=3D"1" width=3D"130" style=3D"margin=
+:0px;padding:0px;display:inline-block;-ms-interpolation-mode:bicubic;border=
+:none;outline:none;" /> </td>
+<td width=3D"135" height=3D"1" style=3D"padding:0px;margin:0px auto;line-he=
+ight:1px;font-size:1px;"> <img src=3D"https://ea.twimg.com/email/self_serve=
+/media/spacer-1476918453497.png" height=3D"1" width=3D"130" style=3D"margin=
+:0px;padding:0px;display:inline-block;-ms-interpolation-mode:bicubic;border=
+:none;outline:none;" /> </td>
+<td width=3D"135" height=3D"1" style=3D"padding:0px;margin:0px auto;line-he=
+ight:1px;font-size:1px;"> <img src=3D"https://ea.twimg.com/email/self_serve=
+/media/spacer-1476918453497.png" height=3D"1" width=3D"130" style=3D"margin=
+:0px;padding:0px;display:inline-block;-ms-interpolation-mode:bicubic;border=
+:none;outline:none;" /> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<img width=3D"1" height=3D"1" src=3D"https://twitter.com/scribe/ibis?t=3D1&=
+amp;cn=3DY21fMjAxODEwMjJfdmljZV9xdWVzdGlvbl9hYQ%3D%3D&amp;iid=3Dcd72f9ac16b=
+f4c848f01f081c0b9f771&amp;uid=3D1001785157429309440&amp;nid=3D244+20" style=
+=3D"margin:0px;padding:0px;display:inline-block;-ms-interpolation-mode:bicu=
+bic;border:none;outline:none;" />
+</body>
+</html>
+
+------=_Part_2160761_470164458.1540253621794--

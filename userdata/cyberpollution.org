@@ -1,0 +1,28 @@
+--- 
+customlog: 
+  - 
+    format: combined
+    target: /etc/apache2/logs/domlogs/cyberpollution.org
+  - 
+    format: "\"%{%s}t %I .\\n%{%s}t %O .\""
+    target: /etc/apache2/logs/domlogs/cyberpollution.org-bytes_log
+documentroot: /home/cyberpollution/public_html
+group: cyberpollution
+hascgi: 0
+homedir: /home/cyberpollution
+ip: 167.114.173.207
+owner: biswasit
+phpopenbasedirprotect: 1
+phpversion: ea-php70
+port: 8080
+scriptalias: 
+  - 
+    path: /home/cyberpollution/public_html/cgi-bin
+    url: /cgi-bin/
+serveradmin: webmaster@cyberpollution.org
+serveralias: mail.cyberpollution.org www.cyberpollution.org
+servername: cyberpollution.org
+ssl: 1
+usecanonicalname: 'Off'
+user: cyberpollution
+userdirprotect: ''

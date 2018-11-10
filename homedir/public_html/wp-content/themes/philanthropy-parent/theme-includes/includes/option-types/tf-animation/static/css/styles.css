@@ -1,0 +1,157 @@
+.fw-option-tf-animation-option-type{
+    padding-right: 5px;
+}
+
+.fw-option-tf-animation-option-direction
+{
+    width: 98px;
+    padding-right: 5px;
+}
+
+.fw-option-tf-animation-option-duration input{
+    height:28px;
+    position: relative;
+    top: -1px;
+}
+
+
+.fw-option-tf-animation-option-type .fw-option-tf-animation-option-type-input .selectize-input {
+    height: 32px;
+}
+
+.fw-option-tf-animation-option-type .fw-option-tf-animation-option-type-input .selectize-input.dropdown-active::before {
+    background: none;
+    height: 0;
+}
+
+.fw-option-tf-animation-option-type  .selectize-control.single .selectize-input:after {
+    right: 8px;
+    margin-top: -2px;
+    border-width: 6px 3px 0 3px;
+    border-color: #000000 transparent transparent transparent;
+}
+body.rtl .fw-option-tf-animation-option-type  .selectize-control.single .selectize-input:after {
+    right: auto;
+    left: 8px;
+}
+
+@media (max-width: 782px) {
+    .fw-option-tf-animation-option-type  .selectize-control.single .selectize-input:after {
+        right: 6px;
+    }
+
+    .fw-option-tf-typography-option,
+    .fw-option-tf-animation-option-type .fw-option-tf-animation-option-type-input {
+        width: 100%;
+        margin-right: 0;
+    }
+}
+.fw-force-xs .fw-option-tf-animation-option-type  .selectize-control.single .selectize-input:after {
+    right: 6px;
+}
+.fw-force-xs .fw-option-tf-typography-option,
+.fw-force-xs .fw-option-tf-animation-option-type .fw-option-tf-animation-option-type-input {
+    width: 100%;
+    margin-right: 0;
+}
+
+.fw-option-tf-animation-option-type .fw-option-tf-animation-option-type-input:focus,
+.fw-option-tf-animation-option-type .fw-option-tf-animation-option-type-input.single .selectize-input.focus {
+    -webkit-transition: .05s border-color ease-in-out;
+    transition: .05s border-color ease-in-out;
+}
+
+.fw-option-tf-animation-option-type .selectize-dropdown .selectize-dropdown-content div.option span {
+    border: none;
+    background: none;
+    color: red;
+}
+
+.fw-option-tf-animation-option-type .selectize-dropdown .selectize-dropdown-content div.option:hover{
+    background-color: #f0f0f0;
+}
+
+.fw-option-tf-animation-option-type .selectize-dropdown.single {
+    border: 1px solid #ddd;
+}
+
+.fw-option-tf-animation-option-type .selectize-control.single .selectize-input {
+    background: none;
+    margin: 0;
+    vertical-align: middle;
+    border: 1px solid #dddddd;
+    color: #333333;
+    height: 28px;
+    line-height: 27px;
+    font-size: 14px;
+    padding: 0 6px;
+
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, .07);
+    -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, .07);
+    -moz-box-shadow: inset 0 1px 2px rgba(0, 0, 0, .07);
+
+    border-radius: 0;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+}
+
+@media (max-width: 782px) {
+    .fw-option-tf-animation-option-type .selectize-dropdown.fw-option-tf-animation-option-type-input {
+        width: 100% !important;
+    }
+
+    .fw-option-tf-animation-option-type .selectize-control.single .selectize-input {
+        font-size: 16px;
+        height: 36px;
+        line-height: 36px;
+    }
+
+    #edittag .fw-option-tf-animation-option-type .selectize-control.single .selectize-input {
+        padding: 0 14px;
+    }
+}
+.fw-force-xs .fw-option-tf-animation-option-type .selectize-dropdown.fw-option-tf-animation-option-type-input {
+    width: 100%!important;
+}
+.fw-force-xs .fw-option-tf-animation-option-type .selectize-control.single .selectize-input {
+    font-size: 16px;
+}
+#edittag .fw-force-xs .fw-option-tf-animation-option-type .selectize-control.single .selectize-input {
+    padding: 0 14px;
+}
+
+.fw-option-tf-animation-option-type div.selectize-input.items.full.has-options.has-items {
+    background: none;
+}
+
+.fw-option-tf-animation-option-type .selectize-dropdown .selectize-dropdown-content {
+    border: 1px solid #ddd;
+}
+
+.fw-option-tf-animation-option-type .selectize-control .selectize-dropdown {
+    border: none;
+    top: 33px !important;
+}
+@media (max-width: 782px) {
+    .fw-option-tf-animation-option-type .selectize-control .selectize-dropdown {
+        top: 42px !important;
+    }
+}
+
+.fw-option-tf-animation-option-type .selectize-dropdown .optgroup .optgroup-header{
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 30px;
+    border-bottom: 1px solid #ddd;
+}
+
+.fw-option-tf-animation-option-type .selectize-dropdown .selectize-dropdown-content div.option{
+    background-color: #fff;
+    cursor: pointer;
+    border-bottom: 1px solid #ddd;
+    line-height: 30px;
+}
+
+.fw-option-tf-animation-option-type {
+    width: 167px;
+}

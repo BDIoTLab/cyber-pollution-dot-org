@@ -1,0 +1,250 @@
+Return-Path: <support@peopleperhour.zendesk.com>
+Delivered-To: hello@cyberpollution.org
+Received: from s1.bitsboxhost.com
+	by s1.bitsboxhost.com with LMTP id gEUFOiNBwluzSwAA+UFKaw
+	for <hello@cyberpollution.org>; Sat, 13 Oct 2018 19:01:55 +0000
+Return-path: <support@peopleperhour.zendesk.com>
+Envelope-to: hello@cyberpollution.org
+Delivery-date: Sat, 13 Oct 2018 19:01:55 +0000
+Received: from out4.pod5.iad1.zdsys.com ([192.161.153.71]:36534)
+	by s1.bitsboxhost.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <support@peopleperhour.zendesk.com>)
+	id 1gBPAe-0005CF-AN
+	for hello@cyberpollution.org; Sat, 13 Oct 2018 19:01:55 +0000
+Received: from out4.pod19.use1.zdsys.com (unknown [10.219.23.4])
+	by out4.pod5.iad1.zdsys.com (Postfix) with ESMTP id 72CFC1AD448
+	for <hello@cyberpollution.org>; Sat, 13 Oct 2018 19:01:10 +0000 (UTC)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by out4.pod19.use1.zdsys.com (Postfix) with ESMTP id 6E3CF800090
+	for <hello@cyberpollution.org>; Sat, 13 Oct 2018 19:01:10 +0000 (UTC)
+Auto-Submitted: auto-generated
+Content-Transfer-Encoding: 7bit
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_5bc240f5dba6c_52cd3fbc23acb95c22982d";
+ charset=utf-8
+Date: Sat, 13 Oct 2018 19:01:09 +0000
+Dkim-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=zendesk.com;
+ q=dns/txt; s=zendesk1; t=1539457269;
+ bh=GjR+4qPNm1HF5J3pDtAlURzFtQSByHx3YT/EgLCmci4=;
+ h=date:from:reply-to:to:message-id:in-reply-to:subject:mime-version:content-type:content-transfer-encoding;
+ b=HZ1WHIBz5LdlJzqAHk7xa2IpWubJJMKTeMRBRbxLpDpFd9QR4jWs5EUDLduScDu5/2JWyklEelSa3OveljGPQP30VN5jm/VuDAcaFkN0wp5jCMqcfwAQuHl2OS1pzmkwbmYDQxIgxMKT30g3dz3F17OAZc6QpkFtwvU6hHdVePI=
+From: PeoplePerHour Support <support@peopleperhour.zendesk.com>
+In-Reply-To: <XZ4V89V6OO@zendesk.com>
+ <XZ4V89V6OO_5bc0b7e27fe61_7a933fbd8fccb94c941fa_sprut@zendesk.com>
+Message-Id:
+ <XZ4V89V6OO_5bc240f5b2c58_52cd3fbc23acb95c2297fb_sprut@zendesk.com>
+Mime-Version: 1.0
+Received: from zendesk.com (unknown [10.219.29.48]) by
+ out4.pod19.use1.zdsys.com (Postfix) with ESMTP id DF66E800092 for
+ <hello@cyberpollution.org>; Sat, 13 Oct 2018 19:01:09 +0000 (UTC)
+Reply-To: PeoplePerHour Support
+ <support+id733877@peopleperhour.zendesk.com>
+Subject: PPH Customer Satisfaction Survey
+To: Md Morshed <hello@cyberpollution.org>
+X-Auto-Response-Suppress: All
+X-Delivery-Context: event-id-489816540554
+X-Mailer: Zendesk Mailer
+X-Zendesk-From-Account-Id: f0bfa80
+X-Zendesk-Message-Id:
+ <XZ4V89V6OO_5bc240f5b2c58_52cd3fbc23acb95c2297fb_sprut@zendesk.com>
+X-Spam-Status: No, score=-10.3
+X-Spam-Score: -102
+X-Spam-Bar: ----------
+X-Ham-Report: Spam detection software, running on the system "s1.bitsboxhost.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  ##- Please type your reply above this line -## Hi Md, We'd
+    love to hear how was your experience with our customer support agent in regards
+    to your request #733877! Please take a moment to answer one s
+ 
+ Content analysis details:   (-10.3 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -7.5 USER_IN_DEF_SPF_WL     From: address is in the default SPF white-list
+ -2.3 RCVD_IN_DNSWL_MED      RBL: Sender listed at http://www.dnswl.org/, medium
+                              trust
+                             [192.161.153.71 listed in list.dnswl.org]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or identical to
+                             background
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.5 ENV_AND_HDR_SPF_MATCH  Env and Hdr From used in default SPF WL Match
+  0.0 MSGID_FROM_MTA_HEADER  Message-Id was added by a relay
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+X-Spam-Flag: NO
+
+
+----==_mimepart_5bc240f5dba6c_52cd3fbc23acb95c22982d
+Content-Type: text/plain;
+ charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+##- Please type your reply above this line -##
+
+Hi Md,
+
+We'd love to hear how was your experience with our customer support agent=
+ in regards to your request #733877! Please take a moment to answer one s=
+imple question by clicking the link below:
+
+https://support.peopleperhour.com/requests/733877/satisfaction/new/HCdRGJ=
+PtAWY5Wok8kN8PGPnGd?locale=3D1
+
+If the link does not open automatically, you can copy it into your browse=
+r URL bar.
+
+Here's a reminder of what your ticket was about:
+
+https://support.peopleperhour.com/hc/requests/733877
+
+The PPH Customer Team
+
+
+
+
+
+
+
+
+
+[XZ4V89-V6OO]=
+
+----==_mimepart_5bc240f5dba6c_52cd3fbc23acb95c22982d
+Content-Type: text/html;
+ charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<body>
+<div style=3D"width:100%;font-size:13px;line-height:18px;color:#484848;te=
+xt-align:center;font-family:Arial,Tahoma,sans-serif;">
+        <table width=3D"100%" align=3D"center" style=3D"text-align:center=
+;">
+        ##- Please type your reply above this line -##
+            <tbody><tr>
+                <td width=3D"600" cellpadding=3D"0" cellspacing=3D"0" bor=
+der=3D"0" align=3D"center">
+                    <table height=3D"75" cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0" align=3D"center" style=3D"background: hsla(0,0%,100%,.98=
+); width: 100%; height: 10px;">
+
+                        <tbody><tr>
+                            <td width=3D"30">&nbsp;</td>
+                            <td width=3D"200" valign=3D"middle">
+                                <a href=3D"http://www.peopleperhour.com/"=
+ title=3D"PeoplePerHour" target=3D"_blank"><img src=3D"https://s3.amazona=
+ws.com/pph-email-templates/img/logo-new.png" alt=3D"PeoplePerHour.com" ti=
+tle=3D"PeoplePerHour" width=3D"190" height=3D"34" style=3D"padding-top:5p=
+x"></a>
+
+                            </td>
+                            <td width=3D"370">&nbsp;</td>
+                        </tr>
+                    </tbody></table>
+
+                                        <table width=3D"600" cellpadding=3D=
+"0" cellspacing=3D"0" border=3D"0" align=3D"center" bgcolor=3D"#fff" styl=
+e=3D"background:#fff; width: 100%;">
+                                                <tbody><tr align=3D"left"=
+>
+                        </tr>
+                                                <tr align=3D"left">
+                            <td width=3D"40">&nbsp;</td>
+                            <td width=3D"550" cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0" align=3D"left" bgcolor=3D"#fff" style=3D"text-align=
+:left;background:#fff">
+                                <br>
+<p>Hi Md,</p><p>We'd love to hear how was your experience with our custom=
+er support agent in regards to your request <a target=3D"_blank" href=3D"=
+https://support.peopleperhour.com/hc/requests/733877">#733877</a>! Please=
+ take a moment to answer one simple question by clicking the link below:<=
+/p><p><a href=3D"https://support.peopleperhour.com/requests/733877/satisf=
+action/new/HCdRGJPtAWY5Wok8kN8PGPnGd?locale=3D1" rel=3D"noreferrer">https=
+://support.peopleperhour.com/requests/733877/satisfaction/new/HCdRGJPtAWY=
+5Wok8kN8PGPnGd?locale=3D1</a></p><p>If the link does not open automatical=
+ly, you can copy it into your browser URL bar.</p><p>Here's a reminder of=
+ what your ticket was about:</p><p><a href=3D"https://support.peopleperho=
+ur.com/hc/requests/733877" rel=3D"noreferrer">https://support.peopleperho=
+ur.com/hc/requests/733877</a></p><p>The PPH Customer Team</p>
+                          </td>
+                            <td width=3D"10">&nbsp;</td>
+                        </tr>
+                                                <tr align=3D"left">
+                            <td width=3D"40">&nbsp;</td>
+                            <td width=3D"550" height=3D"31">&nbsp;<br></t=
+d>
+                            <td width=3D"10">&nbsp;</td>
+                        </tr>
+                    </tbody></table>
+
+                              =
+
+          <!--<table width=3D"600" height=3D"75" cellpadding=3D"0" cellsp=
+acing=3D"0" border=3D"0" align=3D"center" style=3D"background: #fff; widt=
+h: 100%; max-width: 1000px;">
+                        <tbody><tr>
+                            <td width=3D"30">&nbsp;</td>
+                            <td width=3D"145" valign=3D"middle">
+                                <a href=3D"http://support.peopleperhour.c=
+om/forums" style=3D"font-size:13px;color:#000;text-decoration:none" targe=
+t=3D"_blank">Help</a>
+
+                            </td>
+                            <td width=3D"275">&nbsp;</td>
+                            <td width=3D"53" valign=3D"middle" style=3D"f=
+ont-size:11px;color:#565656">
+                                Follow Us                            </td=
+>
+                            <td width=3D"18" valign=3D"middle">
+                                <a href=3D"http://facebook.com/peopleperh=
+our" target=3D"_blank">
+                                <img src=3D"https://s3.amazonaws.com/pph-=
+email-templates/img/facebook.png" alt=3D"PeoplePerHour at Facebook" title=
+=3D"PeoplePerHour at Facebook" width=3D"8" height=3D"14" style=3D"padding=
+-top:4px;padding-left:5px">
+                                </a>
+                            </td>
+                            <td width=3D"20" valign=3D"middle">
+                                <a href=3D"http://twitter.com/peopleperho=
+ur" target=3D"_blank">
+                                <img src=3D"https://s3.amazonaws.com/pph-=
+email-templates/img/twitter.png" alt=3D"PeoplePerHour at Twitter" title=3D=
+"PeoplePerHour at Twitter" width=3D"20" height=3D"14" style=3D"padding-to=
+p:3px;padding-left:5px">
+
+                                </a>
+                            </td>
+                            <td width=3D"30">&nbsp;</td>
+                        </tr>
+                    </tbody></table>-->
+
+
+
+                </td>
+            </tr>
+            <tr>
+               =
+
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+        </tbody></table><div class=3D"yj6qo"></div><div class=3D"adL">
+    </div></div>
+<span style=3D'color:#FFFFFF'>[XZ4V89-V6OO]</span></body></html><div item=
+scope itemtype=3D"http://schema.org/EmailMessage" style=3D"display:none">=
+  <div itemprop=3D"action" itemscope itemtype=3D"http://schema.org/ViewAc=
+tion">    <link itemprop=3D"url" href=3D"https://support.peopleperhour.co=
+m/hc/requests/733877" />    <meta itemprop=3D"name" content=3D"View ticke=
+t"/>  </div></div>=
+
+----==_mimepart_5bc240f5dba6c_52cd3fbc23acb95c22982d--

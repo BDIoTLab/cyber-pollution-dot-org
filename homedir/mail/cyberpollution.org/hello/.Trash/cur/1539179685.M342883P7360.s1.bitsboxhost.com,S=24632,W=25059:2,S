@@ -1,0 +1,427 @@
+Return-Path: <010001665e417c51-9db27186-cad2-4b6e-baa3-de86f248775d-000000@amazonses.com>
+Delivered-To: hello@cyberpollution.org
+Received: from s1.bitsboxhost.com
+	by s1.bitsboxhost.com with LMTP id 6PlZFKUEvlvAHAAA+UFKaw
+	for <hello@cyberpollution.org>; Wed, 10 Oct 2018 13:54:45 +0000
+Return-path: <010001665e417c51-9db27186-cad2-4b6e-baa3-de86f248775d-000000@amazonses.com>
+Envelope-to: hello@cyberpollution.org
+Delivery-date: Wed, 10 Oct 2018 13:54:45 +0000
+Received: from a11-77.smtp-out.amazonses.com ([54.240.11.77]:51726)
+	by s1.bitsboxhost.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-SHA256:128)
+	(Exim 4.91)
+	(envelope-from <010001665e417c51-9db27186-cad2-4b6e-baa3-de86f248775d-000000@amazonses.com>)
+	id 1gAEwl-0001y5-3j
+	for hello@cyberpollution.org; Wed, 10 Oct 2018 13:54:45 +0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=hhhmwvaekoiiugpdf7etus4qokx2yqun; d=peopleperhour.com;
+	t=1539179642;
+	h=MIME-Version:Content-Type:Content-Transfer-Encoding:From:To:Subject:Reply-To:Message-ID:Date;
+	bh=Sd4mwXKod1WRXzYGFUktR0Eojib7OgoaqCAyDCviT1M=;
+	b=p3Rm3CM9iI45L0Qopev+wQ1MLThLVUYxeyvck9QAAiqOesaxSJGqINSUD9JS6DoG
+	m2e3K+z2ylpUsfkOGQ/YH05ba8zO7Jf8NswyRe2juhkRuaOn2ETH59psbIfw30EffAl
+	L2W3gOoV7Lc0zUYyly9t1DR4K7hbm3xuQFvbUQsI=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=ug7nbtf4gccmlpwj322ax3p6ow6yfsug; d=amazonses.com; t=1539179642;
+	h=MIME-Version:Content-Type:Content-Transfer-Encoding:From:To:Subject:Reply-To:Message-ID:Date:Feedback-ID;
+	bh=Sd4mwXKod1WRXzYGFUktR0Eojib7OgoaqCAyDCviT1M=;
+	b=QyWajyLrso1UB7828regOnQY7qWLzOAfSjKSeHGK1zTqDea1p6Qvp7JDC/+BIcEZ
+	j5ewpXofLBI+yvsYOgA0/DZsFUlHuJBSsSrHfOOdYLtpdbD7MyiZGX2yWGXTvnAIUlR
+	XIEXjpcsBSbkTkAyVxwMEKd9JChVhbj3B2eoJAmU=
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+From: =?UTF-8?B?THVjeSAtIFBlb3BsZVBlckhvdXI=?= <support@peopleperhour.com>
+To: =?UTF-8?B?TWQgTW9yc2hlZCBBLg==?= <hello@cyberpollution.org>
+Subject: Md Morshed, a very warm welcome to the PeoplePerHour family!
+Reply-To: no-reply@peopleperhour.com
+Message-ID: <010001665e417c51-9db27186-cad2-4b6e-baa3-de86f248775d-000000@email.amazonses.com>
+Date: Wed, 10 Oct 2018 13:54:01 +0000
+X-SES-Outgoing: 2018.10.10-54.240.11.77
+Feedback-ID: 1.us-east-1.+LsrieGYHhmBkvF1FadU1SyzSTJJazbc+vgVhrtLR60=:AmazonSES
+X-Spam-Status: No, score=1.4
+X-Spam-Score: 14
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "s1.bitsboxhost.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Dashboard Find A Freelancer Search Offers Post a project
+   Welcome to PeoplePerHour, Md Morshed! We’re so happy to have you with us.
+    You’re one click away from working with the world’s top freel
+ 
+ Content analysis details:   (1.4 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at http://www.dnswl.org/, no
+                             trust
+                             [54.240.11.77 listed in list.dnswl.org]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.2 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level mail
+                             domains are different
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 FROM_EXCESS_BASE64     From: base64 encoded unnecessarily
+X-Spam-Flag: NO
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns=3D"http://www.w3.org/199=
+9/xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+" />
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0" />
+    <link href=3D"https://fonts.googleapis.com/css?family=3DOpen+Sans:400,6=
+00" rel=3D"stylesheet">
+</head>
+<body style=3D"width: 100%; margin: 0 auto; padding: 0; font-size: 13px; fo=
+nt-weight: normal; font-family: 'Open Sans', Arial, Helvetica, sans-serif; =
+line-height: 19px; color: #515358; text-align: left; -webkit-text-size-adju=
+st: 100%; -ms-text-size-adjust: 100%; background-color: #FFFFFF;" bgcolor=
+=3D"#FFFFFF">
+    <style type=3D"text/css">
+        a,
+        a:visited {
+            color: #D26000;
+            text-decoration: none;
+        }
+    </style>
+    <table style=3D"width: 100%; height: 100%; margin: 30px auto 0 auto; pa=
+dding: 0; font-size: 14px; font-weight: normal; font-family: 'Open Sans', A=
+rial, Helvetica, sans-serif; line-height: 20px; color: #515358; vertical-al=
+ign: top; text-align: left; border: 10px solid #FF7300; border-spacing: 0; =
+border-collapse: collapse; background-color: #F8F9FC;">
+        <tr style=3D"padding: 0; vertical-align: top; text-align: left;" al=
+ign=3D"left">
+            <td style=3D"margin: 0; padding: 30px 10px; font-size: 14px; fo=
+nt-weight: normal; line-height: 19px; vertical-align: top; text-align: left=
+; color: #515358; font-family: 'Open Sans', Arial, Helvetica, sans-serif; w=
+ord-break: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: =
+auto; border-collapse: collapse !important;" align=3D"left" valign=3D"top">
+                <!-- BEGIN: Header -->
+                <table style=3D"position: relative; width: 100%; min-width:=
+ 100%; margin: 0 0 20px 0; padding: 0; vertical-align: top; text-align: lef=
+t; border-spacing: 0; border-collapse: collapse;">
+                    <tr style=3D"padding: 0; vertical-align: top; text-alig=
+n: left;" align=3D"left">
+                        <td style=3D"width: 100%; min-width: 100%; margin: =
+0; padding: 0; font-size: 14px; font-weight: normal; font-family: 'Open San=
+s', Arial, Helvetica, sans-serif; color: #515358; line-height: 20px; vertic=
+al-align: top; text-align: left; word-break: break-word; -webkit-hyphens: a=
+uto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !importan=
+t;" align=3D"left" valign=3D"top">
+                            <table style=3D"width: 545px; margin: 0 auto; p=
+adding: 0; vertical-align: top; text-align: inherit; border-spacing: 0; bor=
+der-collapse: collapse;">
+                                <tr style=3D"padding: 0; vertical-align: to=
+p; text-align: left;" align=3D"left">
+                                    <td style=3D"margin: 0; padding: 0; ver=
+tical-align: top; text-align: left; font-size: 14px; font-weight: normal; f=
+ont-family: 'Open Sans', Arial, Helvetica, sans-serif; line-height: 20px; c=
+olor: #515358; word-break: break-word; -webkit-hyphens: auto; -moz-hyphens:=
+ auto; hyphens: auto; border-collapse: collapse !important;" align=3D"left"=
+ valign=3D"top">
+                                        <a href=3D"https://mailtrack.people=
+perhour.com/CL0/https:%2F%2Fwww.peopleperhour.com%2F/1/010001665e417c51-9db=
+27186-cad2-4b6e-baa3-de86f248775d-000000/CLINn8vlBsgM7KOYlfFVmsaxTW7ZvayvAe=
+OV4J3-ieo=3D57" target=3D"_blank" title=3D"PeoplePerHour" style=3D"color: #=
+2BA6CB; text-decoration: none;">
+                                            <img alt=3D"PeoplePerHour.com" =
+height=3D"38" width=3D"195" src=3D"https://www.peopleperhour.com/img/icons-=
+coloured/pph3_logo_job_done.png" style=3D"float: left; clear: both; display=
+: block; width: auto; max-width: 100%; border: none; outline: none; text-de=
+coration: none; -ms-interpolation-mode: bicubic;" align=3D"left" />
+                                        </a>
+                                    </td>
+                                </tr>
+                            </table>
+                            <hr style=3D"width: 100%; max-width: 825px; hei=
+ght: 2px; margin: 25px auto; line-height: 1; text-align: center; border: 0 =
+none; color: #DEDEDE; background-color: #DEDEDE;" />
+                            <table style=3D"width: 545px; margin: 0 auto; p=
+adding: 0; vertical-align: top; text-align: inherit; border-spacing: 0; bor=
+der-collapse: collapse;">
+                                <ul style=3D"width: 545px; margin: 0 auto; =
+padding: 0; clear: both;">
+    <li style=3D"display: inline-block; width: auto; height: 15px; margin: =
+0; padding: 0 10px 0 0; font-size: 13px; font-weight: normal; line-height: =
+1.54; vertical-align: top; text-align: left; word-break: break-word; -webki=
+t-hyphens: auto; -moz-hyphens: auto; hyphens: auto;">
+        <a href=3D"https://mailtrack.peopleperhour.com/CL0/https:%2F%2Fwww.=
+peopleperhour.com%2Fdashboard%2Fbuyer/1/010001665e417c51-9db27186-cad2-4b6e=
+-baa3-de86f248775d-000000/ehd7XyCtZgVgnK1au-v65kFttiPtmidl36EDPSUFQLM=3D57"=
+ style=3D"display: inline-block; width: 100%; height: 100%; font-size: 13px=
+; font-family: 'Open Sans', Arial, Helvetica, sans-serif; color: #707276; t=
+ext-decoration: none; text-transform: uppercase;">Dashboard</a>
+    </li>
+    <li style=3D"display: inline-block; width: auto; height: 15px; margin: =
+0; padding: 0 10px 0 0; font-size: 13px; font-weight: normal; line-height: =
+1.54; vertical-align: top; text-align: left; word-break: break-word; -webki=
+t-hyphens: auto; -moz-hyphens: auto; hyphens: auto;">
+        <a href=3D"https://mailtrack.peopleperhour.com/CL0/https:%2F%2Fwww.=
+peopleperhour.com%2Fhire-freelancers/1/010001665e417c51-9db27186-cad2-4b6e-=
+baa3-de86f248775d-000000/4lbAp6uqzWWl4i5JPBuCSNYgtwD0K8TTYavSrg3ZqY8=3D57" =
+style=3D"display: inline-block; width: 100%; height: 100%; font-size: 13px;=
+ font-family: 'Open Sans', Arial, Helvetica, sans-serif; color: #707276; te=
+xt-decoration: none; text-transform: uppercase;">Find A Freelancer</a>
+    </li>
+    <li style=3D"display: inline-block; width: auto; height: 15px; margin: =
+0; padding: 0 10px 0 0; font-size: 13px; font-weight: normal; line-height: =
+1.54; vertical-align: top; text-align: left; word-break: break-word; -webki=
+t-hyphens: auto; -moz-hyphens: auto; hyphens: auto;">
+        <a href=3D"https://mailtrack.peopleperhour.com/CL0/https:%2F%2Fwww.=
+peopleperhour.com%2Fhourlies/1/010001665e417c51-9db27186-cad2-4b6e-baa3-de8=
+6f248775d-000000/NBHbBL32n3iXvMPGYg5s3Mswnc_FTq8ujFMHdY6JRx8=3D57" style=3D=
+"display: inline-block; width: 100%; height: 100%; font-size: 13px; font-fa=
+mily: 'Open Sans', Arial, Helvetica, sans-serif; color: #707276; text-decor=
+ation: none; text-transform: uppercase;">Search Offers</a>
+    </li>
+    <li style=3D"float: right; display: inline-block; width: auto; margin: =
+-7px 0 0 0; padding: 0; font-size: 13px; line-height: 1.54; vertical-align:=
+ top; text-align: left; word-break: break-word; -webkit-hyphens: auto; -moz=
+-hyphens: auto; hyphens: auto;">
+        <a href=3D"https://mailtrack.peopleperhour.com/CL0/https:%2F%2Fwww.=
+peopleperhour.com%2Fjob%2Fnew/1/010001665e417c51-9db27186-cad2-4b6e-baa3-de=
+86f248775d-000000/28OD_FZul_L5b_acs19W6DvkDA4AYlDOnlelenHn7fc=3D57" style=
+=3D"display: inline-block; width: auto; height: 100%; padding: 3px 16px; fo=
+nt-size: 13px; font-weight: 600; color: #FF7300; text-decoration: none; fon=
+t-family: 'Open Sans', Arial, Helvetica, sans-serif; border: 1px solid #FF7=
+300; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4p=
+x; text-transform: uppercase;">Post a project</a>
+    </li>
+</ul>                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <!-- END: Header -->
+                <!-- BEGIN: Main Content -->
+                <table style=3D"width: 545px; margin: 0 auto; padding: 0; v=
+ertical-align: top; text-align: inherit; border-spacing: 0; border-collapse=
+: collapse; background-color: #FFFFFF;" bgcolor=3D"#FFFFFF">
+                    <tr style=3D"margin: 0; padding: 0; vertical-align: top=
+; text-align: left;" align=3D"left">
+                        <td style=3D"margin: 0; padding: 0; font-size: 13px=
+; font-weight: normal; font-family: 'Open Sans', Arial, Helvetica, sans-ser=
+if; color: #515358; line-height: 20px; vertical-align: top; text-align: lef=
+t;  word-break: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyph=
+ens: auto; border-collapse: collapse !important;" align=3D"left" valign=3D"=
+top">
+                           =20
+<div style=3D"padding: 20px 70px 20px 70px;">
+    <table style=3D"padding: 0 0; 20px 0;" align=3D"center">
+        <tr>
+            <td style=3D"font-size: 23px; font-weight: 600; line-height: 35=
+px; text-align: center;"><strong>Welcome to PeoplePerHour, Md Morshed!</str=
+ong></td>
+        </tr>
+    </table>
+    <div style=3D"padding: 10px 0; font-size: 15px;">
+        <p style=3D"text-align:center;">We&rsquo;re so happy to have you wi=
+th us. You&rsquo;re one click away from working with the world&rsquo;s top =
+freelance talents...
+        </p>
+        <p style=3D"text-align:center;">Please click on the button below to=
+ confirm we got the right email address.
+        </p>
+    </div>
+    <!--
+// This is a template for green action buttons used mainly for jobs. Availa=
+ble placeholders are
+
+// Url          The action url
+// Text         The buttons text
+// Width        The buttons width
+// BgColor      The hex code of the background color
+// BorderColor  The hex code of the border color
+// Color        The hex code of the font color
+// Margin       The margins for the button container
+-->
+
+<!-- BEGIN: Main Action Button -->
+<div style=3D"margin: 20px 0; padding: 0;">
+    <center style=3D"width: 100%; min-width: 100%;">
+    =09<table class=3D"button small-button pph-btn radius main-action" styl=
+e=3D"width: 100%; padding: 0; border-spacing: 0; border-collapse: collapse;=
+ text-align: center; vertical-align: top; overflow: hidden;">
+    =09=09<tr style=3D"margin: 0; padding: 0; vertical-align: top; text-ali=
+gn: left;" align=3D"center">
+    =09=09=09<td style=3D"display: block; width: auto; margin: 0; font-size=
+: 15px; font-weight: normal; font-family: 'Open Sans', Arial, Helvetica, sa=
+ns-serif; line-height: 1.54; color: #FFFFFF; text-align: center; vertical-a=
+lign: top; word-break: break-word; -webkit-hyphens: auto; -moz-hyphens: aut=
+o; hyphens: auto; border-collapse: collapse !important;" align=3D"center" v=
+align=3D"top">
+                =09<a href=3D"http://mailtrack.peopleperhour.com/CL0/http:%=
+2F%2Fwww.peopleperhour.com%2Fsite%2FverifyEmail%3Fid=3D2421078%26verifycode=
+=3D1539179620d22891/1/010001665e417c51-9db27186-cad2-4b6e-baa3-de86f248775d=
+-000000/b0BIy-R5zESB8kMdqDh5SPglCYXL2bPcK5gUh3JxQao=3D57" style=3D"display:=
+ inline-block; width: auto; height: 100%; padding: 7px 20px 6px 20px; font-=
+size: 16px; font-weight: bold; font-family: 'Open Sans', Arial, Helvetica, =
+sans-serif; color: #FFFFFF; line-height: 1.54; background: #FF7300; border:=
+ 1px solid #FF7300; text-decoration: none; text-transform: uppercase; -webk=
+it-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px;">Verify=
+ my email</a>
+            =09</td>
+        =09</tr>
+        </table>
+    </center>
+</div>
+<!-- END: Main Action Button -->
+</div>                        </td>
+                    </tr>
+                </table>
+                <!-- END: Main Content -->
+                <!-- BEGIN: Footer -->
+                <hr style=3D"width: 100%; max-width: 825px; height: 2px; ma=
+rgin: 40px auto; line-height: 1; text-align: center; border: 0 none; color:=
+ #DEDEDE; background-color: #DEDEDE;" />
+                <table style=3D"position: relative; width: 100% !important;=
+ min-width: 100% !important; margin-top: 20px; padding: 0; vertical-align: =
+top; text-align: left; border-spacing: 0; border-collapse: collapse;">
+                    <tr style=3D"margin: 0; padding: 0; vertical-align: top=
+; text-align: left;" align=3D"left">
+                        <td style=3D"width: 100% !important; min-width: 100=
+% !important; margin: 0; padding: 0; font-size: 14px; font-weight: normal; =
+font-family: 'Open Sans', Arial, Helvetica, sans-serif; color: #515358; lin=
+e-height: 20px; vertical-align: top; text-align: left;  word-break: break-w=
+ord; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-colla=
+pse: collapse !important;" align=3D"left" valign=3D"top">
+                            <table class=3D"container footer-content" style=
+=3D"width: 545px; margin: 0 auto; padding: 0; vertical-align: top; border-s=
+pacing: 0; border-collapse: collapse; text-align: inherit;">
+    <tr style=3D"padding: 0; vertical-align: top; text-align: left;" align=
+=3D"left">
+        <td style=3D"margin: 0; padding: 0; font-size: 14px; font-weight: n=
+ormal; font-family: 'Open Sans', Arial, Helvetica, sans-serif; color: #5153=
+58; line-height: 1; vertical-align: top; text-align: left; word-break: brea=
+k-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-co=
+llapse: collapse !important;" align=3D"left" valign=3D"top">
+            <center style=3D"width: 100%; min-width: 100%;">
+                <table class=3D"social-icons-container" style=3D"width: 100=
+%; margin-bottom: 15px; padding: 0; vertical-align: top; text-align: left; =
+border-spacing: 0; border-collapse: collapse;">
+                    <tr style=3D"padding: 0; vertical-align: top; text-alig=
+n: left;" align=3D"left">
+                        <td class=3D"center" align=3D"center" style=3D"marg=
+in: 0; padding: 0; font-size: 14px; font-weight: normal; font-family: 'Open=
+ Sans', Arial, Helvetica, sans-serif; line-height: 20px; vertical-align: to=
+p; text-align: center; color: #515358; word-break: break-word; -webkit-hyph=
+ens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !im=
+portant;" valign=3D"top">
+                                                        <a class=3D"social-=
+icon" href=3D"http://mailtrack.peopleperhour.com/CL0/http:%2F%2Ffacebook.co=
+m%2Fpeopleperhour/1/010001665e417c51-9db27186-cad2-4b6e-baa3-de86f248775d-0=
+00000/2EKWVsJgfwH2t_TBMZ4g9cJyzvVLQZg-r6eyuWKSWhE=3D57" style=3D"display: i=
+nline-block; color: #2BA6CB; text-decoration: none;">
+                                <img alt=3D"PeoplePerHour at Facebook" src=
+=3D"https://www.peopleperhour.com/img/icons-coloured/social-facebook.png?v=
+=3D1" style=3D"float: left; clear: both; display: block; width: 24px; max-w=
+idth: 100%; height: 24px; margin: 0 5px; border: none; outline: none; text-=
+decoration: none; -ms-interpolation-mode: bicubic;" align=3D"left" />
+                            </a>
+                                                        <a class=3D"social-=
+icon" href=3D"http://mailtrack.peopleperhour.com/CL0/http:%2F%2Ftwitter.com=
+%2Fpeopleperhour/1/010001665e417c51-9db27186-cad2-4b6e-baa3-de86f248775d-00=
+0000/-2c0p-Yw9hOaXGGVaRZJ5TBx80jbrDMdW_0LG8IoXSc=3D57" style=3D"display: in=
+line-block; color: #2BA6CB; text-decoration: none;">
+                                <img alt=3D"PeoplePerHour at Twitter" src=
+=3D"https://www.peopleperhour.com/img/icons-coloured/social-twitter.png?v=
+=3D1" style=3D"float: left; clear: both; display: block; width: 24px; max-w=
+idth: 100%; height: 24px; margin: 0 5px; border: none; outline: none; text-=
+decoration: none; -ms-interpolation-mode: bicubic;" align=3D"left" />
+                            </a>
+                                                        <a class=3D"social-=
+icon" href=3D"http://mailtrack.peopleperhour.com/CL0/http:%2F%2Fplus.google=
+.com%2F%2Bpeopleperhour/1/010001665e417c51-9db27186-cad2-4b6e-baa3-de86f248=
+775d-000000/MDVJjoDGRZV8cPbRRdjMewcp-V6bLnwIAUDjj9l1WEo=3D57" style=3D"disp=
+lay: inline-block; color: #2BA6CB; text-decoration: none;">
+                                <img alt=3D"PeoplePerHour at Google+" src=
+=3D"https://www.peopleperhour.com/img/icons-coloured/social-google-plus.png=
+?v=3D1" style=3D"float: left; clear: both; display: block; width: 24px; max=
+-width: 100%; height: 24px; margin: 0 5px; border: none; outline: none; tex=
+t-decoration: none; -ms-interpolation-mode: bicubic;" align=3D"left" />
+                            </a>
+                                                        <a class=3D"social-=
+icon" href=3D"https://mailtrack.peopleperhour.com/CL0/https:%2F%2Fpinterest=
+.com%2Fpeopleperhour/1/010001665e417c51-9db27186-cad2-4b6e-baa3-de86f248775=
+d-000000/ktNEsPfgekvUECBJ_oePRGNrZFLLTHBKwMENATeS2wk=3D57" style=3D"display=
+: inline-block; color: #2BA6CB; text-decoration: none;">
+                                <img alt=3D"PeoplePerHour at pinterest" src=
+=3D"https://www.peopleperhour.com/img/icons-coloured/social-pinterest.png?v=
+=3D1" style=3D"float: left; clear: both; display: block; width: 24px; max-w=
+idth: 100%; height: 24px; margin: 0 5px; border: none; outline: none; text-=
+decoration: none; -ms-interpolation-mode: bicubic;" align=3D"left" />
+                            </a>
+                                                        <a class=3D"social-=
+icon" href=3D"https://mailtrack.peopleperhour.com/CL0/https:%2F%2Fwww.linke=
+din.com%2Fcompany%2F167584/1/010001665e417c51-9db27186-cad2-4b6e-baa3-de86f=
+248775d-000000/Tg3ixUY_3j_REyKvzmLgLIDvFcbgtlOsKp4-Pe3jUsY=3D57" style=3D"d=
+isplay: inline-block; color: #2BA6CB; text-decoration: none;">
+                                <img alt=3D"PeoplePerHour at LinkedIn" src=
+=3D"https://www.peopleperhour.com/img/icons-coloured/social-linkedin.png?v=
+=3D1" style=3D"float: left; clear: both; display: block; width: 24px; max-w=
+idth: 100%; height: 24px; margin: 0 5px; border: none; outline: none; text-=
+decoration: none; -ms-interpolation-mode: bicubic;" align=3D"left" />
+                            </a>
+                                                    </td>
+                    </tr>
+                </table>
+                <table style=3D"width: 100%; margin: 25px 0 0 0; padding: 0=
+; vertical-align: top; text-align: left; border-spacing: 0; border-collapse=
+: collapse; ">
+                    <tr style=3D"padding: 0; vertical-align: top; text-alig=
+n: left; " align=3D"left">
+                        <td class=3D"center" align=3D"center" style=3D"marg=
+in: 0; padding: 0; font-size: 14px; font-weight: normal; font-family: 'Open=
+ Sans', Arial, Helvetica, sans-serif; vertical-align: top; text-align: cent=
+er; color: #98999C; word-break: break-word; -webkit-hyphens: auto; -moz-hyp=
+hens: auto; hyphens: auto; border-collapse: collapse !important;" valign=3D=
+"top">
+                            <p class=3D"small discreet centered" style=3D"m=
+argin: 0 0 35px 0; padding: 0; font-size: 11px; font-weight: normal; font-f=
+amily: 'Open Sans', Arial, Helvetica, sans-serif; line-height: 1.54; text-a=
+lign: center; color: #98999C;" align=3D"center">
+                            =C2=A9 2007 - 2018 PeoplePerHour All rights res=
+erved                            </p>
+                            <p class=3D"small discreet centered" style=3D"m=
+argin: 0; padding: 0; font-size: 11px; font-weight: normal; font-family: 'O=
+pen Sans', Arial, Helvetica, sans-serif; line-height: 1.54; color: #98999C;=
+ text-align: center;" align=3D"center">
+                            You can change your notification settings <a st=
+yle=3D"color: #FF7300; text-decoration: none; font-weight: 600;" href=3D"ht=
+tps://mailtrack.peopleperhour.com/CL0/https:%2F%2Fwww.peopleperhour.com%2Fs=
+ettings%2Fnotifications%3Fevent=3D1/1/010001665e417c51-9db27186-cad2-4b6e-b=
+aa3-de86f248775d-000000/bz074xzkGxYGRLsTzerHkuOIAdyBkPEK_wWhXKquWus=3D57">h=
+ere</a>                            </p>
+                            <p class=3D"small discreet centered" style=3D"m=
+argin: 0; padding: 0; font-size: 11px; font-weight: normal; line-height: 1.=
+54; font-family: 'Open Sans', Arial, Helvetica, sans-serif; color: #98999C;=
+ text-align: center;" align=3D"center">
+                            People per Hour Limited                        =
+    </p>
+                        </td>
+                    </tr>
+                </table>
+            </center>
+        </td>
+    </tr>
+</table>                        </td>
+                    </tr>
+                </table>
+                <!-- END: Footer -->
+            </td>
+        </tr>
+    </table>
+<img src=3D"http://mailtrack.peopleperhour.com/CI0/010001665e417c51-9db2718=
+6-cad2-4b6e-baa3-de86f248775d-000000/vGHKWs_Vx_KWgiBAfxwKwYgQNMmzsQzbzwGqBY=
+Qp7vM=3D57" style=3D"display: none; width: 1px; height: 1px;">
+</body>
+</html>
